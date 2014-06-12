@@ -3,8 +3,13 @@
     <property name="project.version" value="0.1"/>
     <property name="project.app" value="sarit-data"/>
     <property name="build.dir" value="build"/>
-    <target name="xar">
+
+    <target name="clean">
+        <delete dir="{$build.dir}"/>
+    </target>
+
+    <target name="xar" depends="clean">
         <mkdir dir="${build.dir}"/>
-        <zip basedir="." destfile="${build.dir}/${project.app}-${project.version}.xar" excludes="${build.dir}/*"/>
+        <zip basedir="." encoding="UTF-8" destfile="${build.dir}/${project.app}-${project.version}.xar" excludes="${build.dir}/*"/>
     </target>
 </project>
