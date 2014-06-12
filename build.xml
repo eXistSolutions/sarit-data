@@ -1,15 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project default="xar" name="sarit-data">
+<project default="xar" name="sarit-data-new">
     <property name="project.version" value="0.1"/>
     <property name="project.app" value="sarit-data"/>
     <property name="build.dir" value="build"/>
+    <property name="download.dir" value="download"/>
+
+    <taskdef resource="net/sf/antcontrib/antcontrib.properties">
+        <classpath>
+            <pathelement location="lib/ant-contrib-1.0b3.jar"/>
+        </classpath>
+    </taskdef>
 
     <target name="clean">
-        <delete dir="{$build.dir}"/>
+        <delete dir="${build.dir}" />
+        <delete dir="${download.dir}"/>
     </target>
 
     <target name="xar" depends="clean">
         <mkdir dir="${build.dir}"/>
+        <mkdir dir="${download.dir}"/>
+
+        <foreach target="zipfile" param="theFile" >
+            <fileset dir="data" casesensitive="yes" >
+                <include name="**/*.xml" />
+            </fileset>
+        </foreach>
+
         <zip basedir="." encoding="UTF-8" destfile="${build.dir}/${project.app}-${project.version}.xar" excludes="${build.dir}/*"/>
     </target>
+
+    <target name="zipfile">
+        <echo message="${theFile}"/>
+        <basename property="theName" suffix=".xml" file="${theFile}"/>
+        <zip  destfile="${download.dir}/${theName}.zip">
+            <fileset file="${theFile}"/>
+        </zip>
+    </target>
+
 </project>
