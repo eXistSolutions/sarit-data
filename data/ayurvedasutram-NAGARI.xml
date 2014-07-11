@@ -1,15 +1,15 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dn-sarit__āyurvedasūtra__nāgarī">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sarit__āyurvedasūtra__nāgarī">
     <teiHeader xml:lang="en">
         <fileDesc>
             <titleStmt>
                 <title type="main">Ayurvedasūtram</title>
                 <title type="sub">A SARIT edition of chapters 1–5</title>
                 <author>Anonymous</author>
-                <respStmt xml:id="dn-z.slatoff">
+                <respStmt xml:id="z.slatoff">
                     <persName>Zoe Slatoff</persName>
                     <resp>Creation of machine-readable version.</resp>
                 </respStmt>
-                <respStmt xml:id="dn-d.wujastyk">
+                <respStmt xml:id="d.wujastyk">
                     <persName>Dominik Wujastyk</persName>
                     <resp>Editing and conversion to TEI-conformant markup.</resp>
                 </respStmt>
@@ -19,11 +19,11 @@
                 <availability status="restricted">
                     <p>Copyright Notice</p>
                     <p>Machine-readable version copyright (C) Zoe Slatoff, 2010.</p>
-                    <p>Distributed by<ref type="url" target="http://sarit.indology.info">SARIT</ref>under a<ref type="licence" target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License.</ref>
+                    <p>Distributed by <ref type="url" target="http://sarit.indology.info">SARIT</ref> under a <ref type="licence" target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License. </ref>
                     </p>
-                    <p>Under this licence, you are free<list>
+                    <p>Under this licence, you are free <list>
                             <item>to Share — to copy, distribute and transmit the work</item>
-                            <item>to Remix — to adapt the work</item>
+                            <item>to Remix — to adapt the work </item>
                         </list>
                     </p>
                     <p>Under the following conditions:</p>
@@ -49,7 +49,7 @@
                     <pubPlace>Mysore</pubPlace>
                     <publisher>University of Mysore</publisher>
                     <date>1922</date>
-                    <note>Copyright (C) 1922-2004<persName>Rudrapatnam Shamasastry</persName>(<date type="lifespan" from="1868" to="1944">1868–1944</date>. (See URL:<ref target="http://copyright.gov.in/Documents/handbook.html">http://copyright.gov.in/Documents/handbook.html</ref>)</note>
+                    <note>Copyright (C) 1922-2004 <persName>Rudrapatnam Shamasastry</persName> (<date type="lifespan" from="1868" to="1944">1868–1944</date>. (See URL: <ref target="http://copyright.gov.in/Documents/handbook.html">http://copyright.gov.in/Documents/handbook.html</ref>)</note>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -60,11 +60,11 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
-            <change who="#aso" when="2014-06-24">Automatic conversion from Roman to Devanāgarī.</change>
-            <change n="1" when="2010-11">Conversion to TEI by<persName>Dominik Wujastyk</persName>.</change>
-            <change n="2" when="2011-01">Addition of revisionDesc element by<persName>Patrick Mc Allister</persName>
+            <change who="#aso" when="2014-06-24"> Automatic conversion from Roman to Devanāgarī. </change>
+            <change n="1" when="2010-11">Conversion to TEI by <persName>Dominik Wujastyk</persName>. </change>
+            <change n="2" when="2011-01">Addition of revisionDesc element by <persName>Patrick Mc Allister</persName>
             </change>
-            <change n="3" when="2013-03-15">Updated and simplified the TEI header, to bring it in line with current SARIT practice, by<persName>Dominik Wujastyk</persName>.</change>
+            <change n="3" when="2013-03-15"> Updated and simplified the TEI header, to bring it in line with current SARIT practice, by <persName>Dominik Wujastyk</persName>.</change>
         </revisionDesc>
     </teiHeader>
     <text xml:id="dn-āyurvedasūtram" xml:lang="sa-Deva">
@@ -140,7 +140,7 @@
                     <label xml:lang="en">1.32</label>
                     <item>दोषसञ्चाराभावजास्थिकर्णनासादिसन्धिजरुजश्शस्त्रेणैके निवर्तकाः</item>
                     <label xml:lang="en">1.33</label>
-                    <item>प्रकाशमानप्रथमप्रयाणाधिगतनिस्सृतामृतप्रतिप्रयाणाहृतयोगविभागधातुपोषकसुरसादनादरोगवानजरः</item>
+                    <item> प्रकाशमानप्रथमप्रयाणाधिगतनिस्सृतामृतप्रतिप्रयाणाहृतयोगविभागधातुपोषकसुरसादनादरोगवानजरः</item>
                     <label xml:lang="en">1.35</label>
                     <item>य एवं वेद</item>
                     <label xml:lang="en">1.36</label>
@@ -186,11 +186,11 @@
                     <label xml:lang="en">1.56</label>
                     <item>पवनपित्तहेतुकरसविरसजाताजीर्णजन्यामरसासृग्धातुचराद्यदोष उभयलक्षणयुक्तरोगः पवनपित्तप्रकोपज्वरः</item>
                     <label xml:lang="en">1.57</label>
-                    <item>पवनकफविकारहेतुकरसविरसजाताजीर्णजन्यामयमांसमेदोधातुचर उभयलक्षणसहितः पवनकफविकारजातज्वरः</item>
+                    <item> पवनकफविकारहेतुकरसविरसजाताजीर्णजन्यामयमांसमेदोधातुचर उभयलक्षणसहितः पवनकफविकारजातज्वरः</item>
                     <label xml:lang="en">1.58</label>
-                    <item>कफपित्तविकारहेतुकरसविरसजाताजीर्णजन्यामयास्थिमज्जाधातुचराद्यदोषश् चोभयलक्षणयुक्तो रोगः कफपित्तविकारजातज्वरः</item>
+                    <item> कफपित्तविकारहेतुकरसविरसजाताजीर्णजन्यामयास्थिमज्जाधातुचराद्यदोषश् चोभयलक्षणयुक्तो रोगः कफपित्तविकारजातज्वरः</item>
                     <label xml:lang="en">1.59</label>
-                    <item>मनःकामभयभूताभिघातकालहेतूत्पन्नज्वरस्यान्तर्विदाहश्वासखासमदभ्रममूर्च्छच्छर्द्यतिसारशोकक्रोधभयगुणास्तन्निवर्तकनिवर्तका आगन्तुकज्वराः</item>
+                    <item> मनःकामभयभूताभिघातकालहेतूत्पन्नज्वरस्यान्तर्विदाहश्वासखासमदभ्रममूर्च्छच्छर्द्यतिसारशोकक्रोधभयगुणास्तन्निवर्तकनिवर्तका आगन्तुकज्वराः</item>
                     <label xml:lang="en">1.60</label>
                     <item>पवनाद्यप्रकोपादग्निबलं पोषयन्क्रियाक्रमः</item>
                     <label xml:lang="en">1.61</label>
@@ -351,7 +351,7 @@
                     <label xml:lang="en">2.49</label>
                     <item>नीरुजावयवादीदृशौ पितरौ</item>
                     <label xml:lang="en">2.50</label>
-                    <item>शुद्धाशयशुद्धदोषशुद्धानलशुद्धेन्द्रियगुणहेतुकपार्थिवद्रव्यैः प्रजाः प्रजायन्ते</item>
+                    <item> शुद्धाशयशुद्धदोषशुद्धानलशुद्धेन्द्रियगुणहेतुकपार्थिवद्रव्यैः प्रजाः प्रजायन्ते</item>
                     <label xml:lang="en">2.51</label>
                     <item>शुक्रशोणितसन्निपातो योनिः</item>
                     <label xml:lang="en">2.52</label>
@@ -532,13 +532,13 @@
                     <label xml:lang="en">3.40</label>
                     <item>श्रोत्रेन्द्रियाच्छब्दज्ञानम्</item>
                     <label xml:lang="en">3.41</label>
-                    <item>रसनेन्द्रियजन्यभ्रमादामविरसदोषादिकैकरसात्संशयविभ्रमौ भवतः</item>
+                    <item> रसनेन्द्रियजन्यभ्रमादामविरसदोषादिकैकरसात्संशयविभ्रमौ भवतः</item>
                     <label xml:lang="en">3.42</label>
                     <item>घ्राणेन्द्रियाद्गन्धप्रतीतिस्तथा</item>
                     <label xml:lang="en">3.43</label>
                     <item>श्रोत्रेन्द्रियाच्छब्दज्ञानं तथा</item>
                     <label xml:lang="en">3.44</label>
-                    <item>शोषकद्रव्याधिक्यजातासृक्प्रतिबन्धकपवनानलगतिजातदोषविषयकविपर्ययज्ञानं प्रमाप्रतिबन्धकहेतुकम्</item>
+                    <item> शोषकद्रव्याधिक्यजातासृक्प्रतिबन्धकपवनानलगतिजातदोषविषयकविपर्ययज्ञानं प्रमाप्रतिबन्धकहेतुकम्</item>
                     <label xml:lang="en">3.45</label>
                     <item>सार्द्रद्रव्यं तत्र भेषजम्</item>
                     <label xml:lang="en">3.46</label>
@@ -574,7 +574,7 @@
                     <label xml:lang="en">3.61</label>
                     <item>ताभ्यां चित्तवृत्तिनिरोधः</item>
                     <label xml:lang="en">3.62</label>
-                    <item>यावद्धातुसिरादिसञ्चरत्प्राणापानव्यानोदानसमानानिलनिरोधनं भ्रमहेतुकम्</item>
+                    <item> यावद्धातुसिरादिसञ्चरत्प्राणापानव्यानोदानसमानानिलनिरोधनं भ्रमहेतुकम्</item>
                     <label xml:lang="en">3.63</label>
                     <item>आसन्नविषयकज्ञानहेतुकान्तरात्मान्तःकरणयोगाभ्यासवशात् पवननिरोधनादरोगी स चिरायुर्भवति</item>
                     <label xml:lang="en">3.64</label>
@@ -675,7 +675,7 @@
                     <label xml:lang="en">4.11</label>
                     <item>ईश्वरप्रेरितचेष्टाश्रयं हिताहितकार्योद्देश्यविषयप्रवर्तकचेष्टाश्रयं शरीरम्</item>
                     <label xml:lang="en">4.12</label>
-                    <item>शुद्धरसाहारजन्यधातुप्रेरितसिरागतपवनवशच्चलनात्मकम्</item>
+                    <item> शुद्धरसाहारजन्यधातुप्रेरितसिरागतपवनवशच्चलनात्मकम्</item>
                     <label xml:lang="en">4.13</label>
                     <item>जङ्घापद्मपोषकामृतप्रवाहपरिणामयोगवशच्चलति</item>
                     <label xml:lang="en">4.14</label>
@@ -695,33 +695,33 @@
                     <label xml:lang="en">4.21</label>
                     <item>विरसद्रव्यादनाजीर्णजन्यसिरामार्गस्थितपवनविगत्या सिरारसातिप्रस्रवणाद् अजीर्णादामाम्बुवृद्धेरुदरं जायते</item>
                     <label xml:lang="en">4.23</label>
-                    <item>पवनप्रकोपहेतुकरूक्षातिशीतललघ्वतिवेदनारुचिविवर्णविरसास्यतन्द्रामूर्छादाहभ्रमतृष्णाज्वरातिसाराङ्गपीतत्वं पित्तप्रकोपोदरामयहेतुकम्</item>
+                    <item> पवनप्रकोपहेतुकरूक्षातिशीतललघ्वतिवेदनारुचिविवर्णविरसास्यतन्द्रामूर्छादाहभ्रमतृष्णाज्वरातिसाराङ्गपीतत्वं पित्तप्रकोपोदरामयहेतुकम्</item>
                     <label xml:lang="en">4.24</label>
-                    <item>श्वासखासभ्रमविदाहतिमिरत्वक्पलिततनुरेतोधातुसिराजातरसः कफः कफं करोति</item>
+                    <item> श्वासखासभ्रमविदाहतिमिरत्वक्पलिततनुरेतोधातुसिराजातरसः कफः कफं करोति</item>
                     <label xml:lang="en">4.25</label>
                     <item>पवनपित्तप्रकोपजनकद्वित्रिरसजातानुसरित उक्तोभयलक्षणग्रस्त-वातपित्तोदरामयो ज्ञेयः</item>
                     <label xml:lang="en">4.26</label>
-                    <item>कफपित्तप्रकोपजनकद्वित्रिरसजातानुसरिततत्तल्लक्षणलक्षितकफ-पित्तोदरामयो ज्ञेयः । कफवातोदरामयं द्वित्रिरसजातानुसरितोभयलक्षण-ज्ञानजन्यकफवातामयं विद्यात् । रसासृङ्मांसमेदोविकारजनकद्वित्रिरसानुसरिततत्तल्लक्षणज्ञानगोचरपवनपित्तकफोदरामयो दुस्साध्यः</item>
+                    <item> कफपित्तप्रकोपजनकद्वित्रिरसजातानुसरिततत्तल्लक्षणलक्षितकफ-पित्तोदरामयो ज्ञेयः । कफवातोदरामयं द्वित्रिरसजातानुसरितोभयलक्षण-ज्ञानजन्यकफवातामयं विद्यात् । रसासृङ्मांसमेदोविकारजनकद्वित्रिरसानुसरिततत्तल्लक्षणज्ञानगोचरपवनपित्तकफोदरामयो दुस्साध्यः</item>
                     <label xml:lang="en">4.27</label>
                     <item>क्रिमिजनकप्लीहोदरामयस्तथा</item>
                     <label xml:lang="en">4.28</label>
                     <item>कट्वम्ललवणरसवद्द्रव्यादनजातमलमार्गावरोधनात् तत्सिरारन्ध्रमार्गगतोर्ध्वहृत्परिपूरणपवनप्रकोपनात् पाण्डुशोफविसर्परुक्प्रदो भवति</item>
                     <label xml:lang="en">4.29</label>
-                    <item>भ्रमवमिपिपासाछर्दितृष्णामूर्छान्तर्विदाहाङ्गस्पन्दनारुचिपाण्डुता पित्तपान्डुशोभलक्षणम् । पादजानुजङ्घ्रोरुकटिपृष्ठबीजपार्श्वाति व्यथातिसार-रूक्षतातिशीतसर्वाङ्गस्पन्दनं पवनशोभपाण्डुलक्षणम्</item>
+                    <item> भ्रमवमिपिपासाछर्दितृष्णामूर्छान्तर्विदाहाङ्गस्पन्दनारुचिपाण्डुता पित्तपान्डुशोभलक्षणम् । पादजानुजङ्घ्रोरुकटिपृष्ठबीजपार्श्वाति व्यथातिसार-रूक्षतातिशीतसर्वाङ्गस्पन्दनं पवनशोभपाण्डुलक्षणम्</item>
                     <label xml:lang="en">4.30</label>
                     <item>श्वासखासनासाक्षिपक्ष्मकर्णकपोलदन्तार्तिपीनसशिरस्तोदनं पाण्डुशोभविसर्पामयलक्षणम्</item>
                     <label xml:lang="en">4.31</label>
                     <item>बाह्यविषग्रस्तवद्धातुदूषकाः</item>
                     <label xml:lang="en">4.32</label>
-                    <item>वातपित्तरसविरसद्रव्यसंसर्गजातवातगतिरोधनाद्रसासृग्धातुविदूषणत्-त्वक्पालित्यं पाण्डुरोगहेतुकम्</item>
+                    <item> वातपित्तरसविरसद्रव्यसंसर्गजातवातगतिरोधनाद्रसासृग्धातुविदूषणत्-त्वक्पालित्यं पाण्डुरोगहेतुकम्</item>
                     <label xml:lang="en">4.33</label>
                     <item>हृदि स्थितामपित्तविषसारं पादपद्मशोषकम् अवर्णबोधकचतुस्त्रिंशत्सिरासंसर्गवशादमृतप्रवाहरोधनात्पवनजन्यामयाः प्रवर्धन्ते</item>
                     <label xml:lang="en">4.34</label>
                     <item>अमृतप्रवाहालवालोपजीव्यावर्णोद्बोधक सरन्ध्रकाभ्यन्तरधरषट्सिरामपित्तविषसारग्रसनं पवनप्रकोपहेतुकम्</item>
                     <label xml:lang="en">4.35</label>
-                    <item>सिरामार्गगतपवनमांसधात्वनुसृतजानुजङ्घोरुबीजपार्श्वपद्मगत इ, उ, ऋ, ए, ओ, ऐ वर्णोद्बोधकसरन्ध्रकाभ्यन्तरधरसिरामार्गगतपवनगति-निरोधानादनिलप्र्कोपो भवति</item>
+                    <item> सिरामार्गगतपवनमांसधात्वनुसृतजानुजङ्घोरुबीजपार्श्वपद्मगत इ, उ, ऋ, ए, ओ, ऐ वर्णोद्बोधकसरन्ध्रकाभ्यन्तरधरसिरामार्गगतपवनगति-निरोधानादनिलप्र्कोपो भवति</item>
                     <label xml:lang="en">4.36</label>
-                    <item>तत्सिरामार्गगतपवनप्रकोपभेदाधिष्ठानोपाधिभेदात्पवनविकार-भेदाः । आमपित्तविषरसविरोधिद्द्रव्यं भेषजम्</item>
+                    <item> तत्सिरामार्गगतपवनप्रकोपभेदाधिष्ठानोपाधिभेदात्पवनविकार-भेदाः । आमपित्तविषरसविरोधिद्द्रव्यं भेषजम्</item>
                     <label xml:lang="en">4.37</label>
                     <item>पूर्वस्माद्द्विगुणं पृथुतया भाति</item>
                     <label xml:lang="en">4.38</label>
@@ -759,13 +759,13 @@
                     <label xml:lang="en">4.55</label>
                     <item>एकदोषनिवर्तकं यावत्तदेकसारकम्</item>
                     <label xml:lang="en">4.56</label>
-                    <item>अब्द्रव्यावयवाधिक्यजन्यस्वादुरसोपलब्धिर्यद्यत्तत्तत्सारकम्</item>
+                    <item> अब्द्रव्यावयवाधिक्यजन्यस्वादुरसोपलब्धिर्यद्यत्तत्तत्सारकम्</item>
                     <label xml:lang="en">4.57</label>
                     <item>ये ये शरीरास्समद्रव्यात्मकाः तत्र तत्र किंचिदुचितस्वादुरसः</item>
                     <label xml:lang="en">4.58</label>
                     <item>तत्पवननिवर्तकं सुभेषजम्</item>
                     <label xml:lang="en">4.59</label>
-                    <item>अनलद्रव्यावयवाधिक्यजाताधिकरूपोपलम्भकयावद्रसवद्द्रव्यं तत्सारकम्</item>
+                    <item> अनलद्रव्यावयवाधिक्यजाताधिकरूपोपलम्भकयावद्रसवद्द्रव्यं तत्सारकम्</item>
                     <label xml:lang="en">4.60</label>
                     <item>गगनद्रव्याधिकशब्दगुणोपलम्भकत्वं प्रमाणम्</item>
                     <label xml:lang="en">4.61</label>
@@ -832,7 +832,7 @@
                     <label xml:lang="en">5.24</label>
                     <item>विरुद्धरसजातयावद्धात्वधिरोहणादेकधातुकः</item>
                     <label xml:lang="en">5.25</label>
-                    <item>रसाजीर्णविरसाधिकविरुद्धरसजदोषाधिकैकवशाभिभूतस्स्वस्थानच्युतो बहिरुज्ज्वलयन् ज्वरस्सामजातः</item>
+                    <item> रसाजीर्णविरसाधिकविरुद्धरसजदोषाधिकैकवशाभिभूतस्स्वस्थानच्युतो बहिरुज्ज्वलयन् ज्वरस्सामजातः</item>
                     <label xml:lang="en">5.26</label>
                     <item>विषमरसपचनरसविरसादियावद्धातुप्रसादाधीनो दोषपचनकालः</item>
                     <label xml:lang="en">5.27</label>
@@ -852,13 +852,13 @@
                     <label xml:lang="en">5.34</label>
                     <item>सानिलाननिलाधिकानिलरूक्षलघुभावितो रसासृग्गतः</item>
                     <label xml:lang="en">5.35</label>
-                    <item>पित्ताश्रयात्तदधीनपित्तमांसमेदोनुसरन्नस्थिमृदुकारकः</item>
+                    <item> पित्ताश्रयात्तदधीनपित्तमांसमेदोनुसरन्नस्थिमृदुकारकः</item>
                     <label xml:lang="en">5.36</label>
                     <item>मन्दोष्णादिसमदोषाधिकाक्षीणवृद्धिगुणकास्थिमज्जामेदो ‘धिष्ठिताः</item>
                     <label xml:lang="en">5.37</label>
                     <item>अदोषधातुरसानुसारानुसरास्थिरसपचनचरमधातुप्रचारकाः</item>
                     <label xml:lang="en">5.38</label>
-                    <item>भूतपूर्वपदार्थजातधातुहेतुभूतानलसमरसपचनविरुद्धार्थरसपाकयोगाद्-विपर्यय</item>
+                    <item> भूतपूर्वपदार्थजातधातुहेतुभूतानलसमरसपचनविरुद्धार्थरसपाकयोगाद्-विपर्यय</item>
                     <label xml:lang="en">5.39</label>
                     <item>षट्कमलानामादिभूतं मूलाधारकम्</item>
                     <label xml:lang="en">5.40</label>

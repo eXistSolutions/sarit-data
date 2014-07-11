@@ -27,11 +27,11 @@
                     <p>Copyright Notice</p>
                     <p>Copyright (C) Richard W. Lariviere and Yasuke Ikari and SARIT</p>
                     <p>
-                        <ref target="http://creativecommons.org/licenses/by-sa/3.0/" type="licence">Distributed by<ref target="http://sarit.indology.info" type="url">SARIT</ref>under a Creative Commons Attribution-ShareAlike 3.0 Unported License.</ref>
+                        <ref target="http://creativecommons.org/licenses/by-sa/3.0/" type="licence">Distributed by <ref target="http://sarit.indology.info" type="url">SARIT</ref> under a Creative Commons Attribution-ShareAlike 3.0 Unported License. </ref>
                     </p>
-                    <p>Under this licence, you are free<list>
+                    <p>Under this licence, you are free <list>
                             <item>to Share — to copy, distribute and transmit the work</item>
-                            <item>to Remix — to adapt the work</item>
+                            <item>to Remix — to adapt the work </item>
                         </list>
                     </p>
                     <p>Under the following conditions:</p>
@@ -61,7 +61,7 @@
                     <note>Series / Number: University of Pennsylvania Studies on South Asia, v. 4</note>
                 </bibl>
                 <bibl>
-                    <note>SARIT transcript correlated with: 1.)<bibl>
+                    <note>SARIT transcript correlated with: 1.) <bibl>
                             <title>The Nāradasmṛti, critically edited with an introduction, annotated translation, and appendices by Richard W. Lariviere, Part Two, Translation</title>
                             <editor>Richard W. Lariviere</editor>
                             <pubPlace>Philadelphia</pubPlace>
@@ -69,7 +69,7 @@
                             <date>1989</date>
                             <note>Series / Number: University of Pennsylvania Studies on South Asia, v. 5</note>
                             <note>Description: English translation</note>
-                        </bibl>and 2.)<bibl>
+                        </bibl> and 2.) <bibl>
                             <title>Náradíya dharmasástra or the institutes of Nárada / translated for the first time from the unpublished Sanskrit original by Julius Jolly ; with a preface notes chiefly critical an index of quotations from Nárada in the principal Indian digests and a general index.</title>
                             <editor>Julius Jolly</editor>
                             <pubPlace>London</pubPlace>
@@ -82,7 +82,7 @@
         </fileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p>The electronic text below is in a lossless transliteration from Sanskrit using the Latin alphabet. The transliteration scheme used is the IAST (<ref target="http://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration">The International Alphabet of Sanskrit Transliteration</ref>). IAST differs in small ways from ISO 15919, but is preferred by most working Sanskrit scholars. Conversion of this file to ISO 15919 can be achieved by performing the following replacements throughout the file:<code>ṛ -&gt; r̥ and ṃ -&gt; ṁ</code>
+                <p>The electronic text below is in a lossless transliteration from Sanskrit using the Latin alphabet. The transliteration scheme used is the IAST (<ref target="http://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration">The International Alphabet of Sanskrit Transliteration</ref>). IAST differs in small ways from ISO 15919, but is preferred by most working Sanskrit scholars. Conversion of this file to ISO 15919 can be achieved by performing the following replacements throughout the file: <code> ṛ -&gt; r̥ and ṃ -&gt; ṁ </code>
                 </p>
                 <interpretation>
                     <p>Text Input System:</p>
@@ -116,7 +116,7 @@
                 <docTitle xml:id="nāradasmṛti-front-titlePage-docTitle">
                     <titlePart xml:id="nāradasmṛti-front-titlePage-docTitle-titlePart">The Nāradasmṛti - SARIT transcript</titlePart>
                 </docTitle>
-                <byline>Compilation, data entry, proof correction by<docAuthor>Yasuke Ikari, Kyoto University</docAuthor>Editing and conversion to TEI markup by<docAuthor>Richard Mahoney, Indica et Buddhica</docAuthor>
+                <byline>Compilation, data entry, proof correction by <docAuthor>Yasuke Ikari, Kyoto University</docAuthor> Editing and conversion to TEI markup by <docAuthor>Richard Mahoney, Indica et Buddhica</docAuthor>
                 </byline>
                 <docImprint>
                     <publisher>
@@ -125,8 +125,7 @@
                 </docImprint>
                 <docDate>2009</docDate>
                 <space/>
-                <figure n="basas-logo.png">
-                    <figDesc>Financial support by The British Association for South Asian Studies</figDesc>
+                <figure n="basas-logo.png">  <figDesc>Financial support by The British Association for South Asian Studies</figDesc>
                     <graphic url="basas-logo.png" scale="0.5"/>
                 </figure>
             </titlePage>
@@ -586,8 +585,8 @@
                         <l xml:id="nāradasmṛti-body-div-1-div-2-lg-37-l-2">NM02.037c/ teṣāṃ jihvāṃ samutkṛtya rājā śūle vidhāpayet || J edn Mā 2.37 ||</l>
                     </lg>
                     <lg type="stanza" xml:id="nāradasmṛti-body-div-1-div-2-lg-38">
-                        <l xml:id="nāradasmṛti-body-div-1-div-2-lg-38-l-1">NM02.038a/ ājñā lekhaḥ paṭṭakaḥ śāsanaṃ vā<lb xml:id="nāradasmṛti-body-div-1-div-2-lg-38-l-1-lb"/>ādhiḥ pattraṃ vikrayo vā krayo vā |</l>
-                        <l xml:id="nāradasmṛti-body-div-1-div-2-lg-38-l-2">NM02.038c/ rājñe kuryāt pūrvam āvedanaṃ yas<lb xml:id="nāradasmṛti-body-div-1-div-2-lg-38-l-2-lb"/>tasya jñeyaḥ pūrvapakṣaḥ vidhijñaiḥ || J edn Mā 2.38 ||</l>
+                        <l xml:id="nāradasmṛti-body-div-1-div-2-lg-38-l-1">NM02.038a/ ājñā lekhaḥ paṭṭakaḥ śāsanaṃ vā <lb xml:id="nāradasmṛti-body-div-1-div-2-lg-38-l-1-lb"/> ādhiḥ pattraṃ vikrayo vā krayo vā |</l>
+                        <l xml:id="nāradasmṛti-body-div-1-div-2-lg-38-l-2">NM02.038c/ rājñe kuryāt pūrvam āvedanaṃ yas <lb xml:id="nāradasmṛti-body-div-1-div-2-lg-38-l-2-lb"/> tasya jñeyaḥ pūrvapakṣaḥ vidhijñaiḥ || J edn Mā 2.38 ||</l>
                     </lg>
                     <pb n="40" xml:id="nāradasmṛti-body-div-1-div-2-pb-10"/>
                     <lg type="stanza" xml:id="nāradasmṛti-body-div-1-div-2-lg-39">
@@ -691,8 +690,8 @@
                     </lg>
                     <pb n="48" xml:id="nāradasmṛti-body-div-1-div-3-pb-7"/>
                     <lg type="stanza" xml:id="nāradasmṛti-body-div-1-div-3-lg-17">
-                        <l xml:id="nāradasmṛti-body-div-1-div-3-lg-17-l-1">NM03.017a/ na sā sabhā yatra na santi vṛddhā<lb xml:id="nāradasmṛti-body-div-1-div-3-lg-17-l-1-lb"/>vṛddhā na te ye na vadanti dharmam |</l>
-                        <l xml:id="nāradasmṛti-body-div-1-div-3-lg-17-l-2">NM03.017c/ nāsau dharmo yatra na satyam asti<lb xml:id="nāradasmṛti-body-div-1-div-3-lg-17-l-2-lb"/>na tat satyaṃ yac chalenānuviddham || 17 ||</l>
+                        <l xml:id="nāradasmṛti-body-div-1-div-3-lg-17-l-1">NM03.017a/ na sā sabhā yatra na santi vṛddhā <lb xml:id="nāradasmṛti-body-div-1-div-3-lg-17-l-1-lb"/> vṛddhā na te ye na vadanti dharmam |</l>
+                        <l xml:id="nāradasmṛti-body-div-1-div-3-lg-17-l-2">NM03.017c/ nāsau dharmo yatra na satyam asti <lb xml:id="nāradasmṛti-body-div-1-div-3-lg-17-l-2-lb"/> na tat satyaṃ yac chalenānuviddham || 17 ||</l>
                     </lg>
                 </div>
             </div>
@@ -3975,8 +3974,8 @@
                         <l xml:id="nāradasmṛti-body-div-3-div-1-lg-68-l-2">N19.068c/ taddvādaśa suvarṇasya dīnāraś citrakaḥ smṛtaḥ || 68 ||</l>
                     </lg>
                     <lg type="stanza" xml:id="nāradasmṛti-body-div-3-div-1-lg-69">
-                        <l xml:id="nāradasmṛti-body-div-3-div-1-lg-69-l-1">N19.069a/ vārttāṃ trayīṃ cāpy atha daṇḍanītim<lb xml:id="nāradasmṛti-body-div-3-div-1-lg-69-l-1-lb"/>rājānuvartet santatāpramattaḥ |</l>
-                        <l xml:id="nāradasmṛti-body-div-3-div-1-lg-69-l-2">N19.069c/ hanyād upāyair nipuṇair gṛhītān<lb xml:id="nāradasmṛti-body-div-3-div-1-lg-69-l-2-lb"/>pure ca rāṣṭre nigṛhṇīyāt pāpān || 69 ||</l>
+                        <l xml:id="nāradasmṛti-body-div-3-div-1-lg-69-l-1">N19.069a/ vārttāṃ trayīṃ cāpy atha daṇḍanītim <lb xml:id="nāradasmṛti-body-div-3-div-1-lg-69-l-1-lb"/> rājānuvartet santatāpramattaḥ |</l>
+                        <l xml:id="nāradasmṛti-body-div-3-div-1-lg-69-l-2">N19.069c/ hanyād upāyair nipuṇair gṛhītān <lb xml:id="nāradasmṛti-body-div-3-div-1-lg-69-l-2-lb"/> pure ca rāṣṭre nigṛhṇīyāt pāpān || 69 ||</l>
                     </lg>
                 </div>
                 <div n="20" type="chapter" xml:id="nāradasmṛti-body-div-3-div-2">

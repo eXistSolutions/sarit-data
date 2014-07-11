@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dn-sarit__aṣṭāvakragītā__nāgarī">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sarit__aṣṭāvakragītā__nāgarī">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -13,13 +13,13 @@
                 <authority>SARIT: Search and Retrieval of Indic Texts</authority>
                 <availability status="restricted">
                     <p>Copyright Notice</p>
-                    <p>Copyright<persName>Suryansu Ray</persName>2012</p>
+                    <p>Copyright <persName>Suryansu Ray</persName> 2012</p>
                     <p>
-                        <ref target="http://creativecommons.org/licenses/by-sa/3.0/" type="licence">Distributed by<ref target="http://sarit.indology.info" type="url">SARIT</ref>under a Creative Commons Attribution-ShareAlike 3.0 Unported License.</ref>
+                        <ref target="http://creativecommons.org/licenses/by-sa/3.0/" type="licence">Distributed by <ref target="http://sarit.indology.info" type="url">SARIT</ref> under a Creative Commons Attribution-ShareAlike 3.0 Unported License. </ref>
                     </p>
-                    <p>Under this licence, you are free<list>
+                    <p>Under this licence, you are free <list>
                             <item>to Share — to copy, distribute and transmit the work</item>
-                            <item>to Remix — to adapt the work</item>
+                            <item>to Remix — to adapt the work </item>
                         </list>
                     </p>
                     <p>Under the following conditions:</p>
@@ -40,33 +40,33 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Aṣṭāvakra-Gītā bhāṣā-ṭīkā sahita. Ṭīkākāra<addName>Rāyabahādura</addName>
+                    <title>Aṣṭāvakra-Gītā bhāṣā-ṭīkā sahita. Ṭīkākāra <addName>Rāyabahādura</addName>
                         <persName>Bābū Jālimasimha</persName>
                     </title>
                     <publisher>Tejakumāra-Pres, Bukaḍipo</publisher>
                     <placeName>Lakhnaū</placeName>
-                    <date>1971</date>Digitized at<ref type="url"/>
+                    <date>1971</date> Digitized at <ref type="url"/>
                 </bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-            <p>The printed edition from which this e-text was transcribed was written in the Devanāgarī script. The electronic text below is in a lossless transliteration using the Latin alphabet. The transliteration scheme used is the IAST (<ref target="http://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration">The International Alphabet of Sanskrit Transliteration</ref>). IAST differs in small ways from ISO 15919, but is preferred by most working Sanskrit scholars. Conversion of this file to ISO 15919 can be achieved by performing the following replacements throughout the file:<code>ṛ -&gt; r̥ and ṁ -&gt; ṃ</code>
+            <p>The printed edition from which this e-text was transcribed was written in the Devanāgarī script. The electronic text below is in a lossless transliteration using the Latin alphabet. The transliteration scheme used is the IAST (<ref target="http://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration">The International Alphabet of Sanskrit Transliteration</ref>). IAST differs in small ways from ISO 15919, but is preferred by most working Sanskrit scholars. Conversion of this file to ISO 15919 can be achieved by performing the following replacements throughout the file: <code> ṛ -&gt; r̥ and ṁ -&gt; ṃ </code>
             </p>
-            <p>Text divison is as Devanāgarī ("ityevam" not "ity&#160;evam".)</p>
+            <p>Text divison is as Devanāgarī ("ityevam" not "ity&#160;evam".) </p>
             <p>Initial vowel elision for avagraha is reversed and marked with a + sign: e.g., "prathamo+adhyāyaḥ"</p>
             <editorialDecl>
-                <p>The e-text was typed by Suryamsu Ray personally from a reprint of the Lucknow 1971 edition. He notes:<quote>Only one edition I could buy myself from Munshiram Manoharlal Publisher Private Ltd., which is in Hindi with Hindi commentary as follows: "<bibl>Ashtavakragita", with Hindi commentary by Raibahadur Babu Zalim Singh, edited by Dr. Brijesh Kumar Shukla, published by Tejkumar Bookdepot P. Ltd., Lucknow, UP, India.</bibl>I wanted to have at least one more version of the text for comparison wherever doubts arose. Many Ashrams publish ancient texts for their own need. From a religious mela I procured one, whose printing and exposition is less that desirable. However, it served me the purpose of pinpointing the errors, for which I apply mainly chhandas and usual philosophical word combinations and phrases.</quote>
+                <p>The e-text was typed by Suryamsu Ray personally from a reprint of the Lucknow 1971 edition. He notes: <quote>Only one edition I could buy myself from Munshiram Manoharlal Publisher Private Ltd., which is in Hindi with Hindi commentary as follows: "<bibl>Ashtavakragita", with Hindi commentary by Raibahadur Babu Zalim Singh, edited by Dr. Brijesh Kumar Shukla, published by Tejkumar Bookdepot P. Ltd., Lucknow, UP, India.</bibl> I wanted to have at least one more version of the text for comparison wherever doubts arose. Many Ashrams publish ancient texts for their own need. From a religious mela I procured one, whose printing and exposition is less that desirable. However, it served me the purpose of pinpointing the errors, for which I apply mainly chhandas and usual philosophical word combinations and phrases.</quote>
                 </p>
             </editorialDecl>
         </encodingDesc>
         <revisionDesc>
-            <change who="#aso" when="2014-06-24">Automatic conversion from Roman to Devanāgarī.</change>
-            <change>Initial e-text created by<persName>Suryamsu Ray</persName>in<date>2012</date>
+            <change who="#aso" when="2014-06-24"> Automatic conversion from Roman to Devanāgarī. </change>
+            <change>Initial e-text created by <persName>Suryamsu Ray</persName> in <date>2012</date>
             </change>
-            <change>Conversion by OxGarage from .doc to TEI P5, and initial TEI header.<persName>Dominik Wujastyk</persName>
+            <change>Conversion by OxGarage from .doc to TEI P5, and initial TEI header. <persName>Dominik Wujastyk</persName>
                 <date>8 July 1013</date>
             </change>
-            <change>Added div divisions for the chapters; moved the verse xml:id numbers to the beginning of the ślokas instead of the beginning of the second line of the ślokas<persName>Dominik Wujastyk</persName>
+            <change> Added div divisions for the chapters; moved the verse xml:id numbers to the beginning of the ślokas instead of the beginning of the second line of the ślokas <persName>Dominik Wujastyk</persName>
                 <date>13 July 1013</date>
             </change>
             <change>Corrected the note in notesStmt since we now know the edition on which this e-text is based. Corrected the encodingDesc to match the known source-edition.<persName>Dominik Wujastyk</persName>
@@ -82,12 +82,12 @@
                     <hi rend="bold" xml:id="dn-aṣṭāvakragītā-body-div-1-p-1-hi">॥ अथ श्रीमदष्टावक्रगीता॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-1-p-2">
-                    <hi rend="bold" xml:id="dn-aṣṭāvakragītā-body-div-1-p-2-hi">जनक उवाच॥१॥</hi>
+                    <hi rend="bold" xml:id="dn-aṣṭāvakragītā-body-div-1-p-2-hi"> जनक उवाच॥१॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-1-p-3">कथं ज्ञानमवाप्नोति कथं मुक्तिर्भविष्यति।</p>
                 <p xml:id="dn-verse_1.1">वैराग्यं च कथं प्राप्तमेतद्ब्रूहि मम प्रभो॥१।१॥</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-1-p-5">
-                    <hi rend="bold" xml:id="dn-aṣṭāvakragītā-body-div-1-p-5-hi">अष्टावक्र उवाच॥</hi>
+                    <hi rend="bold" xml:id="dn-aṣṭāvakragītā-body-div-1-p-5-hi"> अष्टावक्र उवाच॥</hi>
                 </p>
                 <p xml:id="dn-verse_1.2">मुक्तिमिच्छसि चेत्तात विषयान्विषवत्त्यज।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-1-p-7">क्षमार्जवदयातोषसत्यं पीयूषवद्भज॥१।२॥</p>
@@ -109,7 +109,7 @@
                 <p xml:id="dn-aṣṭāvakragītā-body-div-1-p-23">आनन्दपरमानन्दः स बोधस्त्वं सुखं चर॥१।१०॥</p>
                 <p xml:id="dn-verse_1.11">मुक्ताभिमानी मुक्तो हि बद्धो बद्धाभिमान्यपि।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-1-p-25">किंवदन्तीह सत्येयं या मतिः सा गतिर्भवेत्॥१।११॥</p>
-                <p xml:id="dn-verse_1.13">आत्मा साक्षी विभुः पूर्ण एको मुक्तश्चिदक्रियः।</p>
+                <p xml:id="dn-verse_1.13">आत्मा साक्षी विभुः पूर्ण एको मुक्तश्चिदक्रियः। </p>
                 <p xml:id="dn-verse_1.12">असङ्गो निःस्पृहः शान्तो भ्रमात्संसारवानिव॥१।१२॥</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-1-p-28">कूटस्थं बोधमद्वैतमात्मानं परिभावय।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-1-p-29">आभासोऽअहं भ्रमं मुक्त्वा भावं बाह्यमथान्तरम्॥१।१३॥</p>
@@ -131,7 +131,7 @@
             <div n="2" xml:id="dn-aṣṭāvakragītā-body-div-2">
                 <head xml:id="dn-aṣṭāvakragītā-body-div-2-head">प्रकरण २</head>
                 <p xml:id="dn-verse_2.1">
-                    <hi rend="bold" xml:id="dn-verse_2.1-hi">जनक उवाच॥२॥</hi>
+                    <hi rend="bold" xml:id="dn-verse_2.1-hi"> जनक उवाच॥२॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-2-p-2">अहो निरञ्जनः शान्तो बोधोऽअहं प्रकृतेः परः।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-2-p-3">एतावन्तमहं कालं मोहेनैव विडम्बितः॥२।१॥</p>
@@ -187,7 +187,7 @@
             <div n="3" xml:id="dn-aṣṭāvakragītā-body-div-3">
                 <head xml:id="dn-aṣṭāvakragītā-body-div-3-head">प्रकरण ३</head>
                 <p xml:id="dn-verse_3.1">
-                    <hi rend="bold" xml:id="dn-verse_3.1-hi">अष्टावक्र उवाच॥३॥</hi>
+                    <hi rend="bold" xml:id="dn-verse_3.1-hi"> अष्टावक्र उवाच॥३॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-3-p-2">अविनाशिनमात्मानमेकं विज्ञाय तत्त्वतः।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-3-p-3">तवात्मज्ञानधीरस्य कथमर्थार्जने रतिः॥३।१॥</p>
@@ -221,7 +221,7 @@
             <div n="4" xml:id="dn-aṣṭāvakragītā-body-div-4">
                 <head xml:id="dn-aṣṭāvakragītā-body-div-4-head">प्रकरण ४</head>
                 <p xml:id="dn-verse_4.1">
-                    <hi rend="bold" xml:id="dn-verse_4.1-hi">जनक उवाच॥४॥</hi>
+                    <hi rend="bold" xml:id="dn-verse_4.1-hi"> जनक उवाच॥४॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-4-p-2">हन्तात्मज्ञस्य धीरस्य खेलतो भोगलीलया।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-4-p-3">न हि संसारवाहीकैर्मूढैः सह समानता॥४।१॥</p>
@@ -239,7 +239,7 @@
             <div n="5" xml:id="dn-aṣṭāvakragītā-body-div-5">
                 <head xml:id="dn-aṣṭāvakragītā-body-div-5-head">प्रकरण ५</head>
                 <p xml:id="dn-verse_5.1">
-                    <hi rend="bold" xml:id="dn-verse_5.1-hi">अष्टावक्र उवाच॥५॥</hi>
+                    <hi rend="bold" xml:id="dn-verse_5.1-hi"> अष्टावक्र उवाच॥५॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-5-p-2">न ते सङ्गोऽअस्ति केनापि किं शुद्धस्त्यक्तुमिच्छसि।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-5-p-3">सङ्घातविलयं कुर्वन्नेवमेव लयं व्रज॥५।१॥</p>
@@ -253,7 +253,7 @@
             <div n="6" xml:id="dn-aṣṭāvakragītā-body-div-6">
                 <head xml:id="dn-aṣṭāvakragītā-body-div-6-head">प्रकरण ६</head>
                 <p xml:id="dn-verse_6.1">
-                    <hi rend="bold" xml:id="dn-verse_6.1-hi">जनक उवाच॥६॥</hi>
+                    <hi rend="bold" xml:id="dn-verse_6.1-hi"> जनक उवाच॥६॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-6-p-2">आकाशवदनन्तोऽअहं घटवत्प्राकृतं जगत्।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-6-p-3">इति ज्ञानं तथैतस्य न त्यागो न ग्रहो लयः॥६।१॥</p>
@@ -267,7 +267,7 @@
             <div n="7" xml:id="dn-aṣṭāvakragītā-body-div-7">
                 <head xml:id="dn-aṣṭāvakragītā-body-div-7-head">प्रकरण ७</head>
                 <p xml:id="dn-verse_7.1">
-                    <hi rend="bold" xml:id="dn-verse_7.1-hi">जनक उवाच॥७॥</hi>
+                    <hi rend="bold" xml:id="dn-verse_7.1-hi"> जनक उवाच॥७॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-7-p-2">मय्यनन्तमहाम्भोधौ विश्वपोत इतस्ततः।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-7-p-3">भ्रमति स्वान्तवातेन न ममास्त्यसहिष्णुता॥७।१॥</p>
@@ -283,7 +283,7 @@
             <div n="8" xml:id="dn-aṣṭāvakragītā-body-div-8">
                 <head xml:id="dn-aṣṭāvakragītā-body-div-8-head">प्रकरण ८</head>
                 <p xml:id="dn-verse_8.1">
-                    <hi rend="bold" xml:id="dn-verse_8.1-hi">अष्टावक्र उवाच॥८॥</hi>
+                    <hi rend="bold" xml:id="dn-verse_8.1-hi"> अष्टावक्र उवाच॥८॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-8-p-2">तदा बन्धो यदा चित्तं किञ्चिद्वाञ्छति शोचति।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-8-p-3">किञ्चिन्मुञ्चति गृह्णाति किञ्चिद्धृष्यति कुप्यति॥८।१॥</p>
@@ -297,7 +297,7 @@
             <div n="9" xml:id="dn-aṣṭāvakragītā-body-div-9">
                 <head xml:id="dn-aṣṭāvakragītā-body-div-9-head">प्रकरण ९</head>
                 <p xml:id="dn-verse_9.1">
-                    <hi rend="bold" xml:id="dn-verse_9.1-hi">अष्टावक्र उवाच॥९॥</hi>
+                    <hi rend="bold" xml:id="dn-verse_9.1-hi"> अष्टावक्र उवाच॥९॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-9-p-2">कृताकृते च द्वन्द्वानि कदा शान्तानि कस्य वा।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-9-p-3">एवं ज्ञात्वेह निर्वेदाद्भव त्यागपरोऽअव्रती॥९।१॥</p>
@@ -319,7 +319,7 @@
             <div n="10" xml:id="dn-aṣṭāvakragītā-body-div-10">
                 <head xml:id="dn-aṣṭāvakragītā-body-div-10-head">प्रकरण १०</head>
                 <p xml:id="dn-verse_10.1">
-                    <hi rend="bold" xml:id="dn-verse_10.1-hi">अष्टावक्र उवाच॥१०॥</hi>
+                    <hi rend="bold" xml:id="dn-verse_10.1-hi"> अष्टावक्र उवाच॥१०॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-10-p-2">विहाय वैरिणं काममर्थं चानर्थसंकुलम्।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-10-p-3">धर्ममप्येतयोर्हेतुं सर्वत्रानादरं कुरु॥१०।१॥</p>
@@ -341,7 +341,7 @@
             <div n="11" xml:id="dn-aṣṭāvakragītā-body-div-11">
                 <head xml:id="dn-aṣṭāvakragītā-body-div-11-head">प्रकरण ११</head>
                 <p xml:id="dn-verse_11.1">
-                    <hi rend="bold" xml:id="dn-verse_11.1-hi">अष्टावक्र उवाच॥११॥</hi>
+                    <hi rend="bold" xml:id="dn-verse_11.1-hi"> अष्टावक्र उवाच॥११॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-11-p-2">भावाभावविकारश्च स्वभावादिति निश्चयी।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-11-p-3">निर्विकारो गतक्लेशः सुखेनैवोपशाम्यति॥११।१॥</p>
@@ -363,7 +363,7 @@
             <div n="12" xml:id="dn-aṣṭāvakragītā-body-div-12">
                 <head xml:id="dn-aṣṭāvakragītā-body-div-12-head">प्रकरण १२</head>
                 <p xml:id="dn-verse_12.1">
-                    <hi rend="bold" xml:id="dn-verse_12.1-hi">जनक उवाच॥१२॥</hi>
+                    <hi rend="bold" xml:id="dn-verse_12.1-hi"> जनक उवाच॥१२॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-12-p-2">कायकृत्यासहः पूर्वं ततो वाग्विस्तरासहः।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-12-p-3">अथ चिन्तासहस्तस्मादेवमेवाहमास्थितः॥१२।१॥</p>
@@ -385,7 +385,7 @@
             <div n="13" xml:id="dn-aṣṭāvakragītā-body-div-13">
                 <head xml:id="dn-aṣṭāvakragītā-body-div-13-head">प्रकरण १३</head>
                 <p xml:id="dn-verse_13.1">
-                    <hi rend="bold" xml:id="dn-verse_13.1-hi">जनक उवाच॥१३॥</hi>
+                    <hi rend="bold" xml:id="dn-verse_13.1-hi"> जनक उवाच॥१३॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-13-p-2">अकिञ्चनभवं स्वास्थ्यं कौपीनत्वेऽअपि दुर्लभम्।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-13-p-3">त्यागादाने विहायास्मादहमासे यथासुखम्॥१३।१॥</p>
@@ -405,7 +405,7 @@
             <div n="14" xml:id="dn-aṣṭāvakragītā-body-div-14">
                 <head xml:id="dn-aṣṭāvakragītā-body-div-14-head">प्रकरण १४</head>
                 <p xml:id="dn-verse_14.1">
-                    <hi rend="bold" xml:id="dn-verse_14.1-hi">जनक उवाच॥१४॥</hi>
+                    <hi rend="bold" xml:id="dn-verse_14.1-hi"> जनक उवाच॥१४॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-14-p-2">प्रकृत्या शून्यचित्तो यः प्रमादाद्भावभावनः।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-14-p-3">निद्रितो बोधित इव क्षीणसंसरणो हि सः॥१४।१॥</p>
@@ -419,7 +419,7 @@
             <div n="15" xml:id="dn-aṣṭāvakragītā-body-div-15">
                 <head xml:id="dn-aṣṭāvakragītā-body-div-15-head">प्रकरण १५</head>
                 <p xml:id="dn-verse_15.1">
-                    <hi rend="bold" xml:id="dn-verse_15.1-hi">अष्टावक्र उवाच॥१५॥</hi>
+                    <hi rend="bold" xml:id="dn-verse_15.1-hi"> अष्टावक्र उवाच॥१५॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-15-p-2">यथातथोपदेशेन कृतार्थः सत्त्वबुद्धिमान्।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-15-p-3">आजीवमपि जिज्ञासुः परस्तत्र विमुह्यति॥१५।१॥</p>
@@ -465,7 +465,7 @@
             <div n="16" xml:id="dn-aṣṭāvakragītā-body-div-16">
                 <head xml:id="dn-aṣṭāvakragītā-body-div-16-head">प्रकरण १६</head>
                 <p xml:id="dn-verse_16.1">
-                    <hi rend="bold" xml:id="dn-verse_16.1-hi">अष्टावक्र उवाच॥१६॥</hi>
+                    <hi rend="bold" xml:id="dn-verse_16.1-hi"> अष्टावक्र उवाच॥१६॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-16-p-2">आचक्ष्व शृणु वा तात नानाशास्त्राण्यनेकशः।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-16-p-3">तथापि न तव स्वास्थ्यं सर्वविस्मरणादृते॥१६।१॥</p>
@@ -493,7 +493,7 @@
             <div n="17" xml:id="dn-aṣṭāvakragītā-body-div-17">
                 <head xml:id="dn-aṣṭāvakragītā-body-div-17-head">प्रकरण १७</head>
                 <p xml:id="dn-verse_17.1">
-                    <hi rend="bold" xml:id="dn-verse_17.1-hi">अष्टावक्र उवाच॥१७॥</hi>
+                    <hi rend="bold" xml:id="dn-verse_17.1-hi"> अष्टावक्र उवाच॥१७॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-17-p-2">तेन ज्ञानफलं प्राप्तं योगाभ्यासफलं तथा।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-17-p-3">तृप्तः स्वच्छेन्द्रियो नित्यमेकाकी रमते तु यः॥१७।१॥</p>
@@ -539,7 +539,7 @@
             <div n="18" xml:id="dn-aṣṭāvakragītā-body-div-18">
                 <head xml:id="dn-aṣṭāvakragītā-body-div-18-head">प्रकरण १८</head>
                 <p xml:id="dn-verse_18.1">
-                    <hi rend="bold" xml:id="dn-verse_18.1-hi">अष्टावक्र उवाच॥१८॥</hi>
+                    <hi rend="bold" xml:id="dn-verse_18.1-hi"> अष्टावक्र उवाच॥१८॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-18-p-2">यस्य बोधोदये तावत्स्वप्नवद्भवति भ्रमः।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-18-p-3">तस्मै सुखैकरूपाय नमः शान्ताय तेजसे॥१८।१॥</p>
@@ -745,7 +745,7 @@
             <div n="19" xml:id="dn-aṣṭāvakragītā-body-div-19">
                 <head xml:id="dn-aṣṭāvakragītā-body-div-19-head">प्रकरण १९</head>
                 <p xml:id="dn-verse_19.1">
-                    <hi rend="bold" xml:id="dn-verse_19.1-hi">जनक उवाच॥१९॥</hi>
+                    <hi rend="bold" xml:id="dn-verse_19.1-hi"> जनक उवाच॥१९॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-19-p-2">तत्त्वविज्ञानसन्दंशमादाय हृदयोदरात्।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-19-p-3">नानाविधपरामर्शशल्योद्धारः कृतो मया॥१९।१॥</p>
@@ -767,7 +767,7 @@
             <div n="20" xml:id="dn-aṣṭāvakragītā-body-div-20">
                 <head xml:id="dn-aṣṭāvakragītā-body-div-20-head">प्रकरण २०</head>
                 <p xml:id="dn-verse_20.1">
-                    <hi rend="bold" xml:id="dn-verse_20.1-hi">जनक उवाच॥२०॥</hi>
+                    <hi rend="bold" xml:id="dn-verse_20.1-hi"> जनक उवाच॥२०॥</hi>
                 </p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-20-p-2">क्व भूतानि क्व देहो वा क्वेन्द्रियाणि क्व वा मनः।</p>
                 <p xml:id="dn-aṣṭāvakragītā-body-div-20-p-3">क्व शून्यं क्व च नैराश्यं मत्स्वरूपे निरञ्जने॥२०।१॥</p>

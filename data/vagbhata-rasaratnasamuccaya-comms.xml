@@ -20,11 +20,11 @@
                 <availability status="restricted">
                     <p>Copyright (C) Oliver Hellwig, 2013</p>
                     <p>
-                        <ref target="http://creativecommons.org/licenses/by-sa/3.0/" type="licence">Distributed by<ref target="http://sarit.indology.info" type="url">SARIT</ref>under a Creative Commons Attribution-ShareAlike 3.0 Unported License.</ref>
+                        <ref target="http://creativecommons.org/licenses/by-sa/3.0/" type="licence">Distributed by <ref target="http://sarit.indology.info" type="url">SARIT</ref> under a Creative Commons Attribution-ShareAlike 3.0 Unported License. </ref>
                     </p>
-                    <p>Under this licence, you are free<list>
+                    <p>Under this licence, you are free <list>
                             <item>to Share — to copy, distribute and transmit the work</item>
-                            <item>to Remix — to adapt the work</item>
+                            <item>to Remix — to adapt the work </item>
                         </list>
                     </p>
                     <p>Under the following conditions:</p>
@@ -49,14 +49,14 @@
                         <author>Vāgbhaṭa</author>
                         <editor>Aśubodhavidyābhūṣaṇa</editor>
                         <editor>Nityabodhavidyāratna</editor>
-                        <title>Saṭīkaḥ Rasaratnasamuccayaḥ. (Prācīnarasagranthaḥ) Mahāmati śrīmad<persName>Vāgbhaṭācāryya</persName>viracitaḥ.<persName>Aśubodhavidyābhūṣaṇena</persName>tathā<persName>Nityabodhavidyāratnena</persName>ca viracitayā<title>Rasaratnasamuccayabodhinyākhyayā</title>ṭīkayā samalaṅkṛtaḥ prakāśitaś ca</title>
+                        <title>Saṭīkaḥ Rasaratnasamuccayaḥ. (Prācīnarasagranthaḥ) Mahāmati śrīmad <persName>Vāgbhaṭācāryya</persName>viracitaḥ. <persName>Aśubodhavidyābhūṣaṇena</persName> tathā <persName>Nityabodhavidyāratnena</persName> ca viracitayā <title>Rasaratnasamuccayabodhinyākhyayā</title> ṭīkayā samalaṅkṛtaḥ prakāśitaś ca</title>
                         <imprint>
                             <publisher>
-                                <persName>Aśubodhavidyābhūṣaṇa</persName>and<persName>Nityabodhavidyāratna</persName>
+                                <persName>Aśubodhavidyābhūṣaṇa</persName> and <persName>Nityabodhavidyāratna</persName>
                             </publisher>
                             <date>1927</date>
                             <pubPlace>Kalikātā</pubPlace>
-                            <note resp="Oliver Hellwig">This edition has been scanned and made publicly available online at the<orgName>Digital Library of India</orgName>
+                            <note resp="Oliver Hellwig">This edition has been scanned and made publicly available online at the <orgName>Digital Library of India</orgName>
                             </note>
                             <note>Meulenbeld, History of Indian Medical Literature (Groningen, 1999-2002), IIA p.672 f. notes that "The Bodhinī is an interesting and useful commentary; it gives much attention to the text of the Rasaratnasamuccaya; a large number of variants and parallels are discussed by the authros, who were Bengali brāhmaṇas, sons of the well-known Jīvānanda Vidyāsāgara [Bhaṭṭācārya]". The Bodhinī gives English language equivalents for some items, such as "ग्लस्" (glass) and बोतल् (bottle) (1927 edition, p.185, on ch.7, vv.17-19)</note>
                         </imprint>
@@ -66,18 +66,18 @@
         </fileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p>The published edition from which this e-text was transcribed is printed in the Devanāgarī script. The electronic text below is in a lossless transliteration using the Latin alphabet. The transliteration scheme used is the IAST (<ref target="http://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration">The International Alphabet of Sanskrit Transliteration</ref>). IAST differs in small ways from ISO 15919, but is preferred by most working Sanskrit scholars. Conversion of this file to ISO 15919 can be achieved by performing the following replacements throughout the file:<code>ṛ -&gt; r̥ and ṃ -&gt; ṁ</code>
+                <p>The published edition from which this e-text was transcribed is printed in the Devanāgarī script. The electronic text below is in a lossless transliteration using the Latin alphabet. The transliteration scheme used is the IAST (<ref target="http://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration">The International Alphabet of Sanskrit Transliteration</ref>). IAST differs in small ways from ISO 15919, but is preferred by most working Sanskrit scholars. Conversion of this file to ISO 15919 can be achieved by performing the following replacements throughout the file: <code> ṛ -&gt; r̥ and ṃ -&gt; ṁ </code>
                 </p>
-                <p>Text divison is as Devanāgarī ("ityevam" not "ity&#160;evam".)</p>
+                <p>Text divison is as Devanāgarī ("ityevam" not "ity&#160;evam".) </p>
                 <normalization>
                     <p>Initial vowel elision for avagraha is reversed and marked with a + sign: e.g., "prathamo+adhyāyaḥ"</p>
                 </normalization>
                 <segmentation>
-                    <p>Structure of references:<list>
+                    <p>Structure of references: <list>
                             <item>VRrs_nn.nn = VāgbhaṭaRasaratnasamuccaya_adhyāya.verse</item>
                             <item>VRrsBo_nn.nn;nn = Rasaratnasamuccayabodhinī (line)</item>
                             <item>VRrsṬī_nn.nn;nn = Rasaratnasamuccayaṭīkā (line)</item>
-                        </list>The numbering of commentary lines includes a reference to the last verse/line of the preceding mula text.</p>
+                        </list> The numbering of commentary lines includes a reference to the last verse/line of the preceding mula text.</p>
                 </segmentation>
                 <interpretation>
                     <p>Notes added by Oliver Hellwig, and tagged as such.</p>
@@ -86,11 +86,11 @@
         </encodingDesc>
         <revisionDesc>
             <listChange>
-                <change when="2007" who="Reinhold Gruenendahl">Received raw files from<persName>Oliver Hellwig</persName>and uploaded them to GRETIL (http://gretil.sub.uni-goettingen.de/)<persName>Reinhold Gruenendahl</persName>added chapter numbering, and reformated some file(s) in this manner when<persName>Oliver Hellwig</persName>sent an update.</change>
+                <change when="2007" who="Reinhold Gruenendahl">Received raw files from <persName>Oliver Hellwig </persName>and uploaded them to GRETIL (http://gretil.sub.uni-goettingen.de/) <persName>Reinhold Gruenendahl</persName> added chapter numbering, and reformated some file(s) in this manner when <persName>Oliver Hellwig</persName> sent an update.</change>
                 <change when="2013-03-13" who="Dominik Wujastyk">TEI encoding</change>
                 <change when="2013-03-13" who="Dominik Wujastyk">Tagging the distinction between text and commentaries.</change>
                 <change when="2013-03-14" who="Dominik Wujastyk">Updates to TEI header.</change>
-                <change when="2013-03-14" who="Dominik Wujastyk">Added info from Meulenbeld's HIML, and changed the metadata to recognize that the commentaries are only selectively transcribed.</change>
+                <change when="2013-03-14" who="Dominik Wujastyk">Added info from Meulenbeld's HIML, and changed the metadata to recognize that the commentaries are only selectively transcribed. </change>
                 <change>Corrected the verse numbering of ch. 16 vv. 156-158 to follow the Calcutta 1927 edition.</change>
                 <change>Corrected the verse numbering of chs. 17 and 22 to follow the Calcutta 1927 edition.</change>
             </listChange>
@@ -8270,7 +8270,7 @@
                     <p xml:id="rasaratnasamuccaya_bodhinī_ṭīkā-body-div-16-div-p-320">sauvarcalaṃ viḍaṅgāni sāmudraṃ tryūṣaṇaṃ samam /</p>
                     <p xml:id="rasaratnasamuccaya_bodhinī_ṭīkā-body-div-16-div-p-321">viṣamuṣṭiḥ sarvatulyā jaṃbīrāmlena marditam // VRrs_16.155 //</p>
                     <p xml:id="rasaratnasamuccaya_bodhinī_ṭīkā-body-div-16-div-p-322">maricābhāṃ vaṭīṃ khādedvahnimāṃdyapraśāṃtaye /</p>
-                    <p xml:id="rasaratnasamuccaya_bodhinī_ṭīkā-body-div-16-div-p-323">pathyā śuṇṭhī guḍaṃ cānu palārdhaṃ bhakṣayetsadā //</p>
+                    <p xml:id="rasaratnasamuccaya_bodhinī_ṭīkā-body-div-16-div-p-323">pathyā śuṇṭhī guḍaṃ cānu palārdhaṃ bhakṣayetsadā // </p>
                     <p xml:id="rasaratnasamuccaya_bodhinī_ṭīkā-body-div-16-div-p-324">agnimāṃdye vaṭī khyātā sarvarogakulāntakā // VRrs_16.156 //</p>
                     <note resp="Oliver Hellwig" xml:id="rasaratnasamuccaya_bodhinī_ṭīkā-body-div-16-div-note-38">sāmānyopāyaḥ</note>
                     <p xml:id="rasaratnasamuccaya_bodhinī_ṭīkā-body-div-16-div-p-325">mṛtaṃ tāmraṃ kaṇātulyaṃ cūrṇaṃ kṣaudravimiśritam /</p>
@@ -8404,7 +8404,6 @@
                     <p xml:id="rasaratnasamuccaya_bodhinī_ṭīkā-body-div-18-div-p-57">cakrikābandhanāmā+ayaṃ prasūtastrīgadāpahaḥ // VRrs_22.29</p>
                     <note resp="Dominik Wujastyk" xml:id="rasaratnasamuccaya_bodhinī_ṭīkā-body-div-18-div-note-4">vv.22.29-30.138 to be added</note>
                 </div>
-            </div>
-        </body>
+            </div>  </body>
     </text>
 </TEI>

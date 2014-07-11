@@ -13,13 +13,13 @@
                 <authority>SARIT: Search and Retrieval of Indic Texts</authority>
                 <availability status="restricted">
                     <p>Copyright Notice</p>
-                    <p>Copyright<persName>Suryansu Ray</persName>2012</p>
+                    <p>Copyright <persName>Suryansu Ray</persName> 2012</p>
                     <p>
-                        <ref target="http://creativecommons.org/licenses/by-sa/3.0/" type="licence">Distributed by<ref target="http://sarit.indology.info" type="url">SARIT</ref>under a Creative Commons Attribution-ShareAlike 3.0 Unported License.</ref>
+                        <ref target="http://creativecommons.org/licenses/by-sa/3.0/" type="licence">Distributed by <ref target="http://sarit.indology.info" type="url">SARIT</ref> under a Creative Commons Attribution-ShareAlike 3.0 Unported License. </ref>
                     </p>
-                    <p>Under this licence, you are free<list>
+                    <p>Under this licence, you are free <list>
                             <item>to Share — to copy, distribute and transmit the work</item>
-                            <item>to Remix — to adapt the work</item>
+                            <item>to Remix — to adapt the work </item>
                         </list>
                     </p>
                     <p>Under the following conditions:</p>
@@ -40,32 +40,32 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Aṣṭāvakra-Gītā bhāṣā-ṭīkā sahita. Ṭīkākāra<addName>Rāyabahādura</addName>
+                    <title>Aṣṭāvakra-Gītā bhāṣā-ṭīkā sahita. Ṭīkākāra <addName>Rāyabahādura</addName>
                         <persName>Bābū Jālimasimha</persName>
                     </title>
                     <publisher>Tejakumāra-Pres, Bukaḍipo</publisher>
                     <placeName>Lakhnaū</placeName>
-                    <date>1971</date>Digitized at<ref type="url"/>
+                    <date>1971</date> Digitized at <ref type="url"/>
                 </bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-            <p>The printed edition from which this e-text was transcribed was written in the Devanāgarī script. The electronic text below is in a lossless transliteration using the Latin alphabet. The transliteration scheme used is the IAST (<ref target="http://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration">The International Alphabet of Sanskrit Transliteration</ref>). IAST differs in small ways from ISO 15919, but is preferred by most working Sanskrit scholars. Conversion of this file to ISO 15919 can be achieved by performing the following replacements throughout the file:<code>ṛ -&gt; r̥ and ṁ -&gt; ṃ</code>
+            <p>The printed edition from which this e-text was transcribed was written in the Devanāgarī script. The electronic text below is in a lossless transliteration using the Latin alphabet. The transliteration scheme used is the IAST (<ref target="http://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration">The International Alphabet of Sanskrit Transliteration</ref>). IAST differs in small ways from ISO 15919, but is preferred by most working Sanskrit scholars. Conversion of this file to ISO 15919 can be achieved by performing the following replacements throughout the file: <code> ṛ -&gt; r̥ and ṁ -&gt; ṃ </code>
             </p>
-            <p>Text divison is as Devanāgarī ("ityevam" not "ity&#160;evam".)</p>
+            <p>Text divison is as Devanāgarī ("ityevam" not "ity&#160;evam".) </p>
             <p>Initial vowel elision for avagraha is reversed and marked with a + sign: e.g., "prathamo+adhyāyaḥ"</p>
             <editorialDecl>
-                <p>The e-text was typed by Suryamsu Ray personally from a reprint of the Lucknow 1971 edition. He notes:<quote>Only one edition I could buy myself from Munshiram Manoharlal Publisher Private Ltd., which is in Hindi with Hindi commentary as follows: "<bibl>Ashtavakragita", with Hindi commentary by Raibahadur Babu Zalim Singh, edited by Dr. Brijesh Kumar Shukla, published by Tejkumar Bookdepot P. Ltd., Lucknow, UP, India.</bibl>I wanted to have at least one more version of the text for comparison wherever doubts arose. Many Ashrams publish ancient texts for their own need. From a religious mela I procured one, whose printing and exposition is less that desirable. However, it served me the purpose of pinpointing the errors, for which I apply mainly chhandas and usual philosophical word combinations and phrases.</quote>
+                <p>The e-text was typed by Suryamsu Ray personally from a reprint of the Lucknow 1971 edition. He notes: <quote>Only one edition I could buy myself from Munshiram Manoharlal Publisher Private Ltd., which is in Hindi with Hindi commentary as follows: "<bibl>Ashtavakragita", with Hindi commentary by Raibahadur Babu Zalim Singh, edited by Dr. Brijesh Kumar Shukla, published by Tejkumar Bookdepot P. Ltd., Lucknow, UP, India.</bibl> I wanted to have at least one more version of the text for comparison wherever doubts arose. Many Ashrams publish ancient texts for their own need. From a religious mela I procured one, whose printing and exposition is less that desirable. However, it served me the purpose of pinpointing the errors, for which I apply mainly chhandas and usual philosophical word combinations and phrases.</quote>
                 </p>
             </editorialDecl>
         </encodingDesc>
         <revisionDesc>
-            <change>Initial e-text created by<persName>Suryamsu Ray</persName>in<date>2012</date>
+            <change>Initial e-text created by <persName>Suryamsu Ray</persName> in <date>2012</date>
             </change>
-            <change>Conversion by OxGarage from .doc to TEI P5, and initial TEI header.<persName>Dominik Wujastyk</persName>
+            <change>Conversion by OxGarage from .doc to TEI P5, and initial TEI header. <persName>Dominik Wujastyk</persName>
                 <date>8 July 1013</date>
             </change>
-            <change>Added div divisions for the chapters; moved the verse xml:id numbers to the beginning of the ślokas instead of the beginning of the second line of the ślokas<persName>Dominik Wujastyk</persName>
+            <change> Added div divisions for the chapters; moved the verse xml:id numbers to the beginning of the ślokas instead of the beginning of the second line of the ślokas <persName>Dominik Wujastyk</persName>
                 <date>13 July 1013</date>
             </change>
             <change>Corrected the note in notesStmt since we now know the edition on which this e-text is based. Corrected the encodingDesc to match the known source-edition.<persName>Dominik Wujastyk</persName>
@@ -81,12 +81,12 @@
                     <hi rend="bold" xml:id="aṣṭāvakragītā-body-div-1-p-1-hi">|| atha śrīmadaṣṭāvakragītā||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-1-p-2">
-                    <hi rend="bold" xml:id="aṣṭāvakragītā-body-div-1-p-2-hi">janaka uvāca||1||</hi>
+                    <hi rend="bold" xml:id="aṣṭāvakragītā-body-div-1-p-2-hi"> janaka uvāca||1||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-1-p-3">kathaṃ jñānamavāpnoti kathaṃ muktirbhaviṣyati|</p>
                 <p xml:id="verse_1.1">vairāgyaṃ ca kathaṃ prāptametadbrūhi mama prabho||1|1||</p>
                 <p xml:id="aṣṭāvakragītā-body-div-1-p-5">
-                    <hi rend="bold" xml:id="aṣṭāvakragītā-body-div-1-p-5-hi">aṣṭāvakra uvāca||</hi>
+                    <hi rend="bold" xml:id="aṣṭāvakragītā-body-div-1-p-5-hi"> aṣṭāvakra uvāca||</hi>
                 </p>
                 <p xml:id="verse_1.2">muktimicchasi cettāta viṣayānviṣavattyaja|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-1-p-7">kṣamārjavadayātoṣasatyaṃ pīyūṣavadbhaja||1|2||</p>
@@ -108,7 +108,7 @@
                 <p xml:id="aṣṭāvakragītā-body-div-1-p-23">ānandaparamānandaḥ sa bodhastvaṃ sukhaṃ cara||1|10||</p>
                 <p xml:id="verse_1.11">muktābhimānī mukto hi baddho baddhābhimānyapi|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-1-p-25">kiṃvadantīha satyeyaṃ yā matiḥ sā gatirbhavet||1|11||</p>
-                <p xml:id="verse_1.13">ātmā sākṣī vibhuḥ pūrṇa eko muktaścidakriyaḥ|</p>
+                <p xml:id="verse_1.13">ātmā sākṣī vibhuḥ pūrṇa eko muktaścidakriyaḥ| </p>
                 <p xml:id="verse_1.12">asaṅgo niḥspṛhaḥ śānto bhramātsaṃsāravāniva||1|12||</p>
                 <p xml:id="aṣṭāvakragītā-body-div-1-p-28">kūṭasthaṃ bodhamadvaitamātmānaṃ paribhāvaya|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-1-p-29">ābhāso+ahaṃ bhramaṃ muktvā bhāvaṃ bāhyamathāntaram||1|13||</p>
@@ -130,7 +130,7 @@
             <div n="2" xml:id="aṣṭāvakragītā-body-div-2">
                 <head xml:id="aṣṭāvakragītā-body-div-2-head">Prakaraṇa 2</head>
                 <p xml:id="verse_2.1">
-                    <hi rend="bold" xml:id="verse_2.1-hi">janaka uvāca||2||</hi>
+                    <hi rend="bold" xml:id="verse_2.1-hi"> janaka uvāca||2||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-2-p-2">aho nirañjanaḥ śānto bodho+ahaṃ prakṛteḥ paraḥ|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-2-p-3">etāvantamahaṃ kālaṃ mohenaiva viḍambitaḥ||2|1||</p>
@@ -186,7 +186,7 @@
             <div n="3" xml:id="aṣṭāvakragītā-body-div-3">
                 <head xml:id="aṣṭāvakragītā-body-div-3-head">Prakaraṇa 3</head>
                 <p xml:id="verse_3.1">
-                    <hi rend="bold" xml:id="verse_3.1-hi">aṣṭāvakra uvāca||3||</hi>
+                    <hi rend="bold" xml:id="verse_3.1-hi"> aṣṭāvakra uvāca||3||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-3-p-2">avināśinamātmānamekaṃ vijñāya tattvataḥ|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-3-p-3">tavātmajñānadhīrasya kathamarthārjane ratiḥ||3|1||</p>
@@ -220,7 +220,7 @@
             <div n="4" xml:id="aṣṭāvakragītā-body-div-4">
                 <head xml:id="aṣṭāvakragītā-body-div-4-head">Prakaraṇa 4</head>
                 <p xml:id="verse_4.1">
-                    <hi rend="bold" xml:id="verse_4.1-hi">janaka uvāca||4||</hi>
+                    <hi rend="bold" xml:id="verse_4.1-hi"> janaka uvāca||4||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-4-p-2">hantātmajñasya dhīrasya khelato bhogalīlayā|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-4-p-3">na hi saṃsāravāhīkairmūḍhaiḥ saha samānatā||4|1||</p>
@@ -238,7 +238,7 @@
             <div n="5" xml:id="aṣṭāvakragītā-body-div-5">
                 <head xml:id="aṣṭāvakragītā-body-div-5-head">Prakaraṇa 5</head>
                 <p xml:id="verse_5.1">
-                    <hi rend="bold" xml:id="verse_5.1-hi">aṣṭāvakra uvāca||5||</hi>
+                    <hi rend="bold" xml:id="verse_5.1-hi"> aṣṭāvakra uvāca||5||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-5-p-2">na te saṅgo+asti kenāpi kiṃ śuddhastyaktumicchasi|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-5-p-3">saṅghātavilayaṃ kurvannevameva layaṃ vraja||5|1||</p>
@@ -252,7 +252,7 @@
             <div n="6" xml:id="aṣṭāvakragītā-body-div-6">
                 <head xml:id="aṣṭāvakragītā-body-div-6-head">Prakaraṇa 6</head>
                 <p xml:id="verse_6.1">
-                    <hi rend="bold" xml:id="verse_6.1-hi">janaka uvāca||6||</hi>
+                    <hi rend="bold" xml:id="verse_6.1-hi"> janaka uvāca||6||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-6-p-2">ākāśavadananto+ahaṃ ghaṭavatprākṛtaṃ jagat|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-6-p-3">iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|1||</p>
@@ -266,7 +266,7 @@
             <div n="7" xml:id="aṣṭāvakragītā-body-div-7">
                 <head xml:id="aṣṭāvakragītā-body-div-7-head">Prakaraṇa 7</head>
                 <p xml:id="verse_7.1">
-                    <hi rend="bold" xml:id="verse_7.1-hi">janaka uvāca||7||</hi>
+                    <hi rend="bold" xml:id="verse_7.1-hi"> janaka uvāca||7||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-7-p-2">mayyanantamahāmbhodhau viśvapota itastataḥ|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-7-p-3">bhramati svāntavātena na mamāstyasahiṣṇutā||7|1||</p>
@@ -282,7 +282,7 @@
             <div n="8" xml:id="aṣṭāvakragītā-body-div-8">
                 <head xml:id="aṣṭāvakragītā-body-div-8-head">Prakaraṇa 8</head>
                 <p xml:id="verse_8.1">
-                    <hi rend="bold" xml:id="verse_8.1-hi">aṣṭāvakra uvāca||8||</hi>
+                    <hi rend="bold" xml:id="verse_8.1-hi"> aṣṭāvakra uvāca||8||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-8-p-2">tadā bandho yadā cittaṃ kiñcidvāñchati śocati|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-8-p-3">kiñcinmuñcati gṛhṇāti kiñciddhṛṣyati kupyati||8|1||</p>
@@ -296,7 +296,7 @@
             <div n="9" xml:id="aṣṭāvakragītā-body-div-9">
                 <head xml:id="aṣṭāvakragītā-body-div-9-head">Prakaraṇa 9</head>
                 <p xml:id="verse_9.1">
-                    <hi rend="bold" xml:id="verse_9.1-hi">aṣṭāvakra uvāca||9||</hi>
+                    <hi rend="bold" xml:id="verse_9.1-hi"> aṣṭāvakra uvāca||9||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-9-p-2">kṛtākṛte ca dvandvāni kadā śāntāni kasya vā|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-9-p-3">evaṃ jñātveha nirvedādbhava tyāgaparo+avratī||9|1||</p>
@@ -318,7 +318,7 @@
             <div n="10" xml:id="aṣṭāvakragītā-body-div-10">
                 <head xml:id="aṣṭāvakragītā-body-div-10-head">Prakaraṇa 10</head>
                 <p xml:id="verse_10.1">
-                    <hi rend="bold" xml:id="verse_10.1-hi">aṣṭāvakra uvāca||10||</hi>
+                    <hi rend="bold" xml:id="verse_10.1-hi"> aṣṭāvakra uvāca||10||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-10-p-2">vihāya vairiṇaṃ kāmamarthaṃ cānarthasaṃkulam|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-10-p-3">dharmamapyetayorhetuṃ sarvatrānādaraṃ kuru||10|1||</p>
@@ -340,7 +340,7 @@
             <div n="11" xml:id="aṣṭāvakragītā-body-div-11">
                 <head xml:id="aṣṭāvakragītā-body-div-11-head">Prakaraṇa 11</head>
                 <p xml:id="verse_11.1">
-                    <hi rend="bold" xml:id="verse_11.1-hi">aṣṭāvakra uvāca||11||</hi>
+                    <hi rend="bold" xml:id="verse_11.1-hi"> aṣṭāvakra uvāca||11||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-11-p-2">bhāvābhāvavikāraśca svabhāvāditi niścayī|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-11-p-3">nirvikāro gatakleśaḥ sukhenaivopaśāmyati||11|1||</p>
@@ -362,7 +362,7 @@
             <div n="12" xml:id="aṣṭāvakragītā-body-div-12">
                 <head xml:id="aṣṭāvakragītā-body-div-12-head">Prakaraṇa 12</head>
                 <p xml:id="verse_12.1">
-                    <hi rend="bold" xml:id="verse_12.1-hi">janaka uvāca||12||</hi>
+                    <hi rend="bold" xml:id="verse_12.1-hi"> janaka uvāca||12||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-12-p-2">kāyakṛtyāsahaḥ pūrvaṃ tato vāgvistarāsahaḥ|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-12-p-3">atha cintāsahastasmādevamevāhamāsthitaḥ||12|1||</p>
@@ -384,7 +384,7 @@
             <div n="13" xml:id="aṣṭāvakragītā-body-div-13">
                 <head xml:id="aṣṭāvakragītā-body-div-13-head">Prakaraṇa 13</head>
                 <p xml:id="verse_13.1">
-                    <hi rend="bold" xml:id="verse_13.1-hi">janaka uvāca||13||</hi>
+                    <hi rend="bold" xml:id="verse_13.1-hi"> janaka uvāca||13||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-13-p-2">akiñcanabhavaṃ svāsthyaṃ kaupīnatve+api durlabham|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-13-p-3">tyāgādāne vihāyāsmādahamāse yathāsukham||13|1||</p>
@@ -404,7 +404,7 @@
             <div n="14" xml:id="aṣṭāvakragītā-body-div-14">
                 <head xml:id="aṣṭāvakragītā-body-div-14-head">Prakaraṇa 14</head>
                 <p xml:id="verse_14.1">
-                    <hi rend="bold" xml:id="verse_14.1-hi">janaka uvāca||14||</hi>
+                    <hi rend="bold" xml:id="verse_14.1-hi"> janaka uvāca||14||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-14-p-2">prakṛtyā śūnyacitto yaḥ pramādādbhāvabhāvanaḥ|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-14-p-3">nidrito bodhita iva kṣīṇasaṃsaraṇo hi saḥ||14|1||</p>
@@ -418,7 +418,7 @@
             <div n="15" xml:id="aṣṭāvakragītā-body-div-15">
                 <head xml:id="aṣṭāvakragītā-body-div-15-head">Prakaraṇa 15</head>
                 <p xml:id="verse_15.1">
-                    <hi rend="bold" xml:id="verse_15.1-hi">aṣṭāvakra uvāca||15||</hi>
+                    <hi rend="bold" xml:id="verse_15.1-hi"> aṣṭāvakra uvāca||15||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-15-p-2">yathātathopadeśena kṛtārthaḥ sattvabuddhimān|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-15-p-3">ājīvamapi jijñāsuḥ parastatra vimuhyati||15|1||</p>
@@ -464,7 +464,7 @@
             <div n="16" xml:id="aṣṭāvakragītā-body-div-16">
                 <head xml:id="aṣṭāvakragītā-body-div-16-head">Prakaraṇa 16</head>
                 <p xml:id="verse_16.1">
-                    <hi rend="bold" xml:id="verse_16.1-hi">aṣṭāvakra uvāca||16||</hi>
+                    <hi rend="bold" xml:id="verse_16.1-hi"> aṣṭāvakra uvāca||16||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-16-p-2">ācakṣva śṛṇu vā tāta nānāśāstrāṇyanekaśaḥ|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-16-p-3">tathāpi na tava svāsthyaṃ sarvavismaraṇādṛte||16|1||</p>
@@ -492,7 +492,7 @@
             <div n="17" xml:id="aṣṭāvakragītā-body-div-17">
                 <head xml:id="aṣṭāvakragītā-body-div-17-head">Prakaraṇa 17</head>
                 <p xml:id="verse_17.1">
-                    <hi rend="bold" xml:id="verse_17.1-hi">aṣṭāvakra uvāca||17||</hi>
+                    <hi rend="bold" xml:id="verse_17.1-hi"> aṣṭāvakra uvāca||17||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-17-p-2">tena jñānaphalaṃ prāptaṃ yogābhyāsaphalaṃ tathā|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-17-p-3">tṛptaḥ svacchendriyo nityamekākī ramate tu yaḥ||17|1||</p>
@@ -538,7 +538,7 @@
             <div n="18" xml:id="aṣṭāvakragītā-body-div-18">
                 <head xml:id="aṣṭāvakragītā-body-div-18-head">Prakaraṇa 18</head>
                 <p xml:id="verse_18.1">
-                    <hi rend="bold" xml:id="verse_18.1-hi">aṣṭāvakra uvāca||18||</hi>
+                    <hi rend="bold" xml:id="verse_18.1-hi"> aṣṭāvakra uvāca||18||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-18-p-2">yasya bodhodaye tāvatsvapnavadbhavati bhramaḥ|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-18-p-3">tasmai sukhaikarūpāya namaḥ śāntāya tejase||18|1||</p>
@@ -744,7 +744,7 @@
             <div n="19" xml:id="aṣṭāvakragītā-body-div-19">
                 <head xml:id="aṣṭāvakragītā-body-div-19-head">Prakaraṇa 19</head>
                 <p xml:id="verse_19.1">
-                    <hi rend="bold" xml:id="verse_19.1-hi">janaka uvāca||19||</hi>
+                    <hi rend="bold" xml:id="verse_19.1-hi"> janaka uvāca||19||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-19-p-2">tattvavijñānasandaṃśamādāya hṛdayodarāt|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-19-p-3">nānāvidhaparāmarśaśalyoddhāraḥ kṛto mayā||19|1||</p>
@@ -766,7 +766,7 @@
             <div n="20" xml:id="aṣṭāvakragītā-body-div-20">
                 <head xml:id="aṣṭāvakragītā-body-div-20-head">Prakaraṇa 20</head>
                 <p xml:id="verse_20.1">
-                    <hi rend="bold" xml:id="verse_20.1-hi">janaka uvāca||20||</hi>
+                    <hi rend="bold" xml:id="verse_20.1-hi"> janaka uvāca||20||</hi>
                 </p>
                 <p xml:id="aṣṭāvakragītā-body-div-20-p-2">kva bhūtāni kva deho vā kvendriyāṇi kva vā manaḥ|</p>
                 <p xml:id="aṣṭāvakragītā-body-div-20-p-3">kva śūnyaṃ kva ca nairāśyaṃ matsvarūpe nirañjane||20|1||</p>

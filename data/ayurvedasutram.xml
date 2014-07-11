@@ -19,11 +19,11 @@
                 <availability status="restricted">
                     <p>Copyright Notice</p>
                     <p>Machine-readable version copyright (C) Zoe Slatoff, 2010.</p>
-                    <p>Distributed by<ref type="url" target="http://sarit.indology.info">SARIT</ref>under a<ref type="licence" target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License.</ref>
+                    <p>Distributed by <ref type="url" target="http://sarit.indology.info">SARIT</ref> under a <ref type="licence" target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License. </ref>
                     </p>
-                    <p>Under this licence, you are free<list>
+                    <p>Under this licence, you are free <list>
                             <item>to Share — to copy, distribute and transmit the work</item>
-                            <item>to Remix — to adapt the work</item>
+                            <item>to Remix — to adapt the work </item>
                         </list>
                     </p>
                     <p>Under the following conditions:</p>
@@ -49,7 +49,7 @@
                     <pubPlace>Mysore</pubPlace>
                     <publisher>University of Mysore</publisher>
                     <date>1922</date>
-                    <note>Copyright (C) 1922-2004<persName>Rudrapatnam Shamasastry</persName>(<date type="lifespan" from="1868" to="1944">1868–1944</date>. (See URL:<ref target="http://copyright.gov.in/Documents/handbook.html">http://copyright.gov.in/Documents/handbook.html</ref>)</note>
+                    <note>Copyright (C) 1922-2004 <persName>Rudrapatnam Shamasastry</persName> (<date type="lifespan" from="1868" to="1944">1868–1944</date>. (See URL: <ref target="http://copyright.gov.in/Documents/handbook.html">http://copyright.gov.in/Documents/handbook.html</ref>)</note>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -60,10 +60,10 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
-            <change n="1" when="2010-11">Conversion to TEI by<persName>Dominik Wujastyk</persName>.</change>
-            <change n="2" when="2011-01">Addition of revisionDesc element by<persName>Patrick Mc Allister</persName>
+            <change n="1" when="2010-11">Conversion to TEI by <persName>Dominik Wujastyk</persName>. </change>
+            <change n="2" when="2011-01">Addition of revisionDesc element by <persName>Patrick Mc Allister</persName>
             </change>
-            <change n="3" when="2013-03-15">Updated and simplified the TEI header, to bring it in line with current SARIT practice, by<persName>Dominik Wujastyk</persName>.</change>
+            <change n="3" when="2013-03-15"> Updated and simplified the TEI header, to bring it in line with current SARIT practice, by <persName>Dominik Wujastyk</persName>.</change>
         </revisionDesc>
     </teiHeader>
     <text xml:id="āyurvedasūtram" xml:lang="sa-Latn">
@@ -139,7 +139,7 @@
                     <label>1.32</label>
                     <item>doṣasañcārābhāvajāsthikarṇanāsādisandhijarujaśśastreṇaike nivartakāḥ</item>
                     <label>1.33</label>
-                    <item>prakāśamānaprathamaprayāṇādhigatanissṛtāmṛtapratiprayāṇāhṛtayogavibhāgadhātupoṣakasurasādanādarogavānajaraḥ</item>
+                    <item> prakāśamānaprathamaprayāṇādhigatanissṛtāmṛtapratiprayāṇāhṛtayogavibhāgadhātupoṣakasurasādanādarogavānajaraḥ</item>
                     <label>1.35</label>
                     <item>ya evaṃ veda</item>
                     <label>1.36</label>
@@ -185,11 +185,11 @@
                     <label>1.56</label>
                     <item>pavanapittahetukarasavirasajātājīrṇajanyāmarasāsṛgdhātucarādyadoṣa ubhayalakṣaṇayuktarogaḥ pavanapittaprakopajvaraḥ</item>
                     <label>1.57</label>
-                    <item>pavanakaphavikārahetukarasavirasajātājīrṇajanyāmayamāṃsamedodhātucara ubhayalakṣaṇasahitaḥ pavanakaphavikārajātajvaraḥ</item>
+                    <item> pavanakaphavikārahetukarasavirasajātājīrṇajanyāmayamāṃsamedodhātucara ubhayalakṣaṇasahitaḥ pavanakaphavikārajātajvaraḥ</item>
                     <label>1.58</label>
-                    <item>kaphapittavikārahetukarasavirasajātājīrṇajanyāmayāsthimajjādhātucarādyadoṣaś cobhayalakṣaṇayukto rogaḥ kaphapittavikārajātajvaraḥ</item>
+                    <item> kaphapittavikārahetukarasavirasajātājīrṇajanyāmayāsthimajjādhātucarādyadoṣaś cobhayalakṣaṇayukto rogaḥ kaphapittavikārajātajvaraḥ</item>
                     <label>1.59</label>
-                    <item>manaḥkāmabhayabhūtābhighātakālahetūtpannajvarasyāntarvidāhaśvāsakhāsamadabhramamūrcchacchardyatisāraśokakrodhabhayaguṇāstannivartakanivartakā āgantukajvarāḥ</item>
+                    <item> manaḥkāmabhayabhūtābhighātakālahetūtpannajvarasyāntarvidāhaśvāsakhāsamadabhramamūrcchacchardyatisāraśokakrodhabhayaguṇāstannivartakanivartakā āgantukajvarāḥ</item>
                     <label>1.60</label>
                     <item>pavanādyaprakopādagnibalaṃ poṣayankriyākramaḥ</item>
                     <label>1.61</label>
@@ -350,7 +350,7 @@
                     <label>2.49</label>
                     <item>nīrujāvayavādīdṛśau pitarau</item>
                     <label>2.50</label>
-                    <item>śuddhāśayaśuddhadoṣaśuddhānalaśuddhendriyaguṇahetukapārthivadravyaiḥ prajāḥ prajāyante</item>
+                    <item> śuddhāśayaśuddhadoṣaśuddhānalaśuddhendriyaguṇahetukapārthivadravyaiḥ prajāḥ prajāyante</item>
                     <label>2.51</label>
                     <item>śukraśoṇitasannipāto yoniḥ</item>
                     <label>2.52</label>
@@ -531,13 +531,13 @@
                     <label>3.40</label>
                     <item>śrotrendriyācchabdajñānam</item>
                     <label>3.41</label>
-                    <item>rasanendriyajanyabhramādāmavirasadoṣādikaikarasātsaṃśayavibhramau bhavataḥ</item>
+                    <item> rasanendriyajanyabhramādāmavirasadoṣādikaikarasātsaṃśayavibhramau bhavataḥ</item>
                     <label>3.42</label>
                     <item>ghrāṇendriyādgandhapratītistathā</item>
                     <label>3.43</label>
                     <item>śrotrendriyācchabdajñānaṃ tathā</item>
                     <label>3.44</label>
-                    <item>śoṣakadravyādhikyajātāsṛkpratibandhakapavanānalagatijātadoṣaviṣayakaviparyayajñānaṃ pramāpratibandhakahetukam</item>
+                    <item> śoṣakadravyādhikyajātāsṛkpratibandhakapavanānalagatijātadoṣaviṣayakaviparyayajñānaṃ pramāpratibandhakahetukam</item>
                     <label>3.45</label>
                     <item>sārdradravyaṃ tatra bheṣajam</item>
                     <label>3.46</label>
@@ -573,7 +573,7 @@
                     <label>3.61</label>
                     <item>tābhyāṃ cittavṛttinirodhaḥ</item>
                     <label>3.62</label>
-                    <item>yāvaddhātusirādisañcaratprāṇāpānavyānodānasamānānilanirodhanaṃ bhramahetukam</item>
+                    <item> yāvaddhātusirādisañcaratprāṇāpānavyānodānasamānānilanirodhanaṃ bhramahetukam</item>
                     <label>3.63</label>
                     <item>āsannaviṣayakajñānahetukāntarātmāntaḥkaraṇayogābhyāsavaśāt pavananirodhanādarogī sa cirāyurbhavati</item>
                     <label>3.64</label>
@@ -674,7 +674,7 @@
                     <label>4.11</label>
                     <item>īśvarapreritaceṣṭāśrayaṃ hitāhitakāryoddeśyaviṣayapravartakaceṣṭāśrayaṃ śarīram</item>
                     <label>4.12</label>
-                    <item>śuddharasāhārajanyadhātupreritasirāgatapavanavaśaccalanātmakam</item>
+                    <item> śuddharasāhārajanyadhātupreritasirāgatapavanavaśaccalanātmakam</item>
                     <label>4.13</label>
                     <item>jaṅghāpadmapoṣakāmṛtapravāhapariṇāmayogavaśaccalati</item>
                     <label>4.14</label>
@@ -694,33 +694,33 @@
                     <label>4.21</label>
                     <item>virasadravyādanājīrṇajanyasirāmārgasthitapavanavigatyā sirārasātiprasravaṇād ajīrṇādāmāmbuvṛddherudaraṃ jāyate</item>
                     <label>4.23</label>
-                    <item>pavanaprakopahetukarūkṣātiśītalalaghvativedanārucivivarṇavirasāsyatandrāmūrchādāhabhramatṛṣṇājvarātisārāṅgapītatvaṃ pittaprakopodarāmayahetukam</item>
+                    <item> pavanaprakopahetukarūkṣātiśītalalaghvativedanārucivivarṇavirasāsyatandrāmūrchādāhabhramatṛṣṇājvarātisārāṅgapītatvaṃ pittaprakopodarāmayahetukam</item>
                     <label>4.24</label>
-                    <item>śvāsakhāsabhramavidāhatimiratvakpalitatanuretodhātusirājātarasaḥ kaphaḥ kaphaṃ karoti</item>
+                    <item> śvāsakhāsabhramavidāhatimiratvakpalitatanuretodhātusirājātarasaḥ kaphaḥ kaphaṃ karoti</item>
                     <label>4.25</label>
                     <item>pavanapittaprakopajanakadvitrirasajātānusarita uktobhayalakṣaṇagrasta-vātapittodarāmayo jñeyaḥ</item>
                     <label>4.26</label>
-                    <item>kaphapittaprakopajanakadvitrirasajātānusaritatattallakṣaṇalakṣitakapha-pittodarāmayo jñeyaḥ | kaphavātodarāmayaṃ dvitrirasajātānusaritobhayalakṣaṇa-jñānajanyakaphavātāmayaṃ vidyāt | rasāsṛṅmāṃsamedovikārajanakadvitrirasānusaritatattallakṣaṇajñānagocarapavanapittakaphodarāmayo dussādhyaḥ</item>
+                    <item> kaphapittaprakopajanakadvitrirasajātānusaritatattallakṣaṇalakṣitakapha-pittodarāmayo jñeyaḥ | kaphavātodarāmayaṃ dvitrirasajātānusaritobhayalakṣaṇa-jñānajanyakaphavātāmayaṃ vidyāt | rasāsṛṅmāṃsamedovikārajanakadvitrirasānusaritatattallakṣaṇajñānagocarapavanapittakaphodarāmayo dussādhyaḥ</item>
                     <label>4.27</label>
                     <item>krimijanakaplīhodarāmayastathā</item>
                     <label>4.28</label>
                     <item>kaṭvamlalavaṇarasavaddravyādanajātamalamārgāvarodhanāt tatsirārandhramārgagatordhvahṛtparipūraṇapavanaprakopanāt pāṇḍuśophavisarparukprado bhavati</item>
                     <label>4.29</label>
-                    <item>bhramavamipipāsācharditṛṣṇāmūrchāntarvidāhāṅgaspandanārucipāṇḍutā pittapānḍuśobhalakṣaṇam | pādajānujaṅghrorukaṭipṛṣṭhabījapārśvāti vyathātisāra-rūkṣatātiśītasarvāṅgaspandanaṃ pavanaśobhapāṇḍulakṣaṇam</item>
+                    <item> bhramavamipipāsācharditṛṣṇāmūrchāntarvidāhāṅgaspandanārucipāṇḍutā pittapānḍuśobhalakṣaṇam | pādajānujaṅghrorukaṭipṛṣṭhabījapārśvāti vyathātisāra-rūkṣatātiśītasarvāṅgaspandanaṃ pavanaśobhapāṇḍulakṣaṇam</item>
                     <label>4.30</label>
                     <item>śvāsakhāsanāsākṣipakṣmakarṇakapoladantārtipīnasaśirastodanaṃ pāṇḍuśobhavisarpāmayalakṣaṇam</item>
                     <label>4.31</label>
                     <item>bāhyaviṣagrastavaddhātudūṣakāḥ</item>
                     <label>4.32</label>
-                    <item>vātapittarasavirasadravyasaṃsargajātavātagatirodhanādrasāsṛgdhātuvidūṣaṇat-tvakpālityaṃ pāṇḍurogahetukam</item>
+                    <item> vātapittarasavirasadravyasaṃsargajātavātagatirodhanādrasāsṛgdhātuvidūṣaṇat-tvakpālityaṃ pāṇḍurogahetukam</item>
                     <label>4.33</label>
                     <item>hṛdi sthitāmapittaviṣasāraṃ pādapadmaśoṣakam avarṇabodhakacatustriṃśatsirāsaṃsargavaśādamṛtapravāharodhanātpavanajanyāmayāḥ pravardhante</item>
                     <label>4.34</label>
                     <item>amṛtapravāhālavālopajīvyāvarṇodbodhaka sarandhrakābhyantaradharaṣaṭsirāmapittaviṣasāragrasanaṃ pavanaprakopahetukam</item>
                     <label>4.35</label>
-                    <item>sirāmārgagatapavanamāṃsadhātvanusṛtajānujaṅghorubījapārśvapadmagata i, u, ṛ, e, o, ai varṇodbodhakasarandhrakābhyantaradharasirāmārgagatapavanagati-nirodhānādanilaprkopo bhavati</item>
+                    <item> sirāmārgagatapavanamāṃsadhātvanusṛtajānujaṅghorubījapārśvapadmagata i, u, ṛ, e, o, ai varṇodbodhakasarandhrakābhyantaradharasirāmārgagatapavanagati-nirodhānādanilaprkopo bhavati</item>
                     <label>4.36</label>
-                    <item>tatsirāmārgagatapavanaprakopabhedādhiṣṭhānopādhibhedātpavanavikāra-bhedāḥ | āmapittaviṣarasavirodhiddravyaṃ bheṣajam</item>
+                    <item> tatsirāmārgagatapavanaprakopabhedādhiṣṭhānopādhibhedātpavanavikāra-bhedāḥ | āmapittaviṣarasavirodhiddravyaṃ bheṣajam</item>
                     <label>4.37</label>
                     <item>pūrvasmāddviguṇaṃ pṛthutayā bhāti</item>
                     <label>4.38</label>
@@ -758,13 +758,13 @@
                     <label>4.55</label>
                     <item>ekadoṣanivartakaṃ yāvattadekasārakam</item>
                     <label>4.56</label>
-                    <item>abdravyāvayavādhikyajanyasvādurasopalabdhiryadyattattatsārakam</item>
+                    <item> abdravyāvayavādhikyajanyasvādurasopalabdhiryadyattattatsārakam</item>
                     <label>4.57</label>
                     <item>ye ye śarīrāssamadravyātmakāḥ tatra tatra kiṃciducitasvādurasaḥ</item>
                     <label>4.58</label>
                     <item>tatpavananivartakaṃ subheṣajam</item>
                     <label>4.59</label>
-                    <item>analadravyāvayavādhikyajātādhikarūpopalambhakayāvadrasavaddravyaṃ tatsārakam</item>
+                    <item> analadravyāvayavādhikyajātādhikarūpopalambhakayāvadrasavaddravyaṃ tatsārakam</item>
                     <label>4.60</label>
                     <item>gaganadravyādhikaśabdaguṇopalambhakatvaṃ pramāṇam</item>
                     <label>4.61</label>
@@ -831,7 +831,7 @@
                     <label>5.24</label>
                     <item>viruddharasajātayāvaddhātvadhirohaṇādekadhātukaḥ</item>
                     <label>5.25</label>
-                    <item>rasājīrṇavirasādhikaviruddharasajadoṣādhikaikavaśābhibhūtassvasthānacyuto bahirujjvalayan jvarassāmajātaḥ</item>
+                    <item> rasājīrṇavirasādhikaviruddharasajadoṣādhikaikavaśābhibhūtassvasthānacyuto bahirujjvalayan jvarassāmajātaḥ</item>
                     <label>5.26</label>
                     <item>viṣamarasapacanarasavirasādiyāvaddhātuprasādādhīno doṣapacanakālaḥ</item>
                     <label>5.27</label>
@@ -851,13 +851,13 @@
                     <label>5.34</label>
                     <item>sānilānanilādhikānilarūkṣalaghubhāvito rasāsṛggataḥ</item>
                     <label>5.35</label>
-                    <item>pittāśrayāttadadhīnapittamāṃsamedonusarannasthimṛdukārakaḥ</item>
+                    <item> pittāśrayāttadadhīnapittamāṃsamedonusarannasthimṛdukārakaḥ</item>
                     <label>5.36</label>
                     <item>mandoṣṇādisamadoṣādhikākṣīṇavṛddhiguṇakāsthimajjāmedo ‘dhiṣṭhitāḥ</item>
                     <label>5.37</label>
                     <item>adoṣadhāturasānusārānusarāsthirasapacanacaramadhātupracārakāḥ</item>
                     <label>5.38</label>
-                    <item>bhūtapūrvapadārthajātadhātuhetubhūtānalasamarasapacanaviruddhārtharasapākayogād-viparyaya</item>
+                    <item> bhūtapūrvapadārthajātadhātuhetubhūtānalasamarasapacanaviruddhārtharasapākayogād-viparyaya</item>
                     <label>5.39</label>
                     <item>ṣaṭkamalānāmādibhūtaṃ mūlādhārakam</item>
                     <label>5.40</label>

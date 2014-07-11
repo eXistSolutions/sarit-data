@@ -5,7 +5,7 @@
                 <title type="main">Arthaśāstra</title>
                 <title type="sub">A SARIT edition</title>
                 <author>Kauṭalya</author>
-                <editor>R.P. Kangle</editor>
+                <editor>R. P. Kangle</editor>
                 <funder>The British Association for South Asian Studies</funder>
                 <funder>The British Academy</funder>
                 <principal>Muneo Tokunaga, Kyoto University</principal>
@@ -15,11 +15,11 @@
                 </respStmt>
                 <respStmt>
                     <persName xml:id="pma">Patrick Mc Allister (pma@rdorte.org)</persName>
-                    <resp>Maintenance of file for SARIT.</resp>
+                    <resp>Maintenance of file for SARIT. </resp>
                 </respStmt>
             </titleStmt>
             <editionStmt>
-                <edition>Version: 0.1_005,<date when-iso="2009-09-04T14:34:58+12">Fri Sep 4 14:34:58 NZST 2009</date>
+                <edition>Version: 0.1_005, <date when-iso="2009-09-04T14:34:58+12">Fri Sep 4 14:34:58 NZST 2009</date>
                 </edition>
                 <respStmt>
                     <persName>Richard Mahoney, Indica et Buddhica</persName>
@@ -37,11 +37,11 @@
                     <p>Copyright (C) 2009 Dominik Wujastyk.</p>
                     <p>Copyright (C) 1992-1993 members of the Joint Seminar on ``Law (dharma) and Society in Classical India'', coordinated by Y. Ikari at the Institute for Research in Humanities, Kyoto University.</p>
                     <p>
-                        <ref target="http://creativecommons.org/licenses/by-sa/3.0/" type="licence">Distributed by<ref target="http://sarit.indology.info" type="url">SARIT</ref>under a Creative Commons Attribution-ShareAlike 3.0 Unported License.</ref>
+                        <ref target="http://creativecommons.org/licenses/by-sa/3.0/" type="licence">Distributed by <ref target="http://sarit.indology.info" type="url">SARIT</ref> under a Creative Commons Attribution-ShareAlike 3.0 Unported License. </ref>
                     </p>
-                    <p>Under this licence, you are free<list>
+                    <p>Under this licence, you are free <list>
                             <item>to Share — to copy, distribute and transmit the work</item>
-                            <item>to Remix — to adapt the work</item>
+                            <item>to Remix — to adapt the work </item>
                         </list>
                     </p>
                     <p>Under the following conditions:</p>
@@ -75,7 +75,7 @@
                     <date>1993</date>
                     <note>The publishers would like to express their gratitude to Michio Yano for kindly making the base e-text of R.P. Kangle's edition available.</note>
                     <note>N.B. The publishers have taken all available steps to contact in good faith holders of copyright for this text. Should they not have succeeded in tracing the appropriate copyright holder, they are encouraged to contact us.</note>
-                    <note>Kyoto transcript based on:<bibl>
+                    <note>Kyoto transcript based on: <bibl>
                             <title>Kauṭalya / A critical edition with a glossary</title>
                             <author>Kauṭalya</author>
                             <editor>R.P. Kangle</editor>
@@ -89,7 +89,7 @@
                             <note>Language code of text: san</note>
                         </bibl>
                     </note>
-                    <note>SARIT transcript correlated with: 1.)<bibl>
+                    <note>SARIT transcript correlated with: 1.) <bibl>
                             <title>Kauṭalya / A critical edition with a glossary</title>
                             <author>Kauṭalya</author>
                             <editor>R.P. Kangle</editor>
@@ -101,7 +101,7 @@
                             <note>Edition statement: 1st ed</note>
                             <note>Language code of text: eng</note>
                             <note>Language code of text: san</note>
-                        </bibl>; 2.)<bibl>
+                        </bibl>; 2.) <bibl>
                             <title>Kauṭalya / An English translation with critical and explanatory notes</title>
                             <author>Kauṭalya</author>
                             <editor>R.P. Kangle</editor>
@@ -113,7 +113,7 @@
                             <note>Edition statement: 1st ed</note>
                             <note>Language code of text: eng</note>
                             <note>Language code of text: san</note>
-                        </bibl>; and 3.)<bibl>
+                        </bibl>; and 3.) <bibl>
                             <title>Kauṭalya / An English translation with critical and explanatory notes</title>
                             <author>Kauṭalya</author>
                             <editor>R.P. Kangle</editor>
@@ -132,19 +132,19 @@
         <encodingDesc>
             <projectDesc>
                 <p>
-                    <name>SARIT: Search and Retrieval of Indic Texts</name>is a corpus of Indic texts marked up according to the guidelines of the Text Encoding Initiative (TEI).</p>
+                    <name>SARIT: Search and Retrieval of Indic Texts</name> is a corpus of Indic texts marked up according to the guidelines of the Text Encoding Initiative (TEI).</p>
             </projectDesc>
             <editorialDecl>
-                <p>The manuscript from which this e-text was transcribed was written in the Devanāgarī script. The electronic text below is in a lossless transliteration using the Latin alphabet. The transliteration scheme used is the IAST (<ref target="http://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration">The International Alphabet of Sanskrit Transliteration</ref>). IAST differs in small ways from ISO 15919, but is preferred by most working Sanskrit scholars. Conversion of this file to ISO 15919 can be achieved by performing the following replacements throughout the file:<code>ṛ -&gt; r̥ and ṃ -&gt; ṁ</code>
+                <p>The manuscript from which this e-text was transcribed was written in the Devanāgarī script. The electronic text below is in a lossless transliteration using the Latin alphabet. The transliteration scheme used is the IAST (<ref target="http://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration">The International Alphabet of Sanskrit Transliteration</ref>). IAST differs in small ways from ISO 15919, but is preferred by most working Sanskrit scholars. Conversion of this file to ISO 15919 can be achieved by performing the following replacements throughout the file: <code> ṛ -&gt; r̥ and ṃ -&gt; ṁ </code>
                 </p>
-                <p>Text divison is as Devanāgarī ("ityevam" not "ity&#160;evam".)</p>
+                <p>Text divison is as Devanāgarī ("ityevam" not "ity&#160;evam".) </p>
                 <p>Initial vowel elision for avagraha is reversed and marked with a + sign: e.g., "prathamo+adhyāyaḥ"</p>
                 <p>Similarly, external sandhis are undone and marked: "yathā+amarā"</p>
                 <p>Members of a compound are separated by periods.</p>
                 <p>External sandhi is decomposed with -.</p>
                 <p>Prose sections are subdivided by a,b,c, etc..</p>
                 <correction>
-                    <p>The text was originally input by<persName>Muneo Tokunaga</persName>in June 1992; Proof read by the following members of the Joint Seminar on ``Law (dharma) and Society in Classical India'' (coordinated by<persName>Y. Ikari</persName>at the Institute for Research in Humanities, Kyoto University) in March 1993:<persName>Akihiko Akamatsu</persName>,<persName>Yasuke Ikari</persName>,<persName>Fumio Enomoto</persName>,<persName>Katsuhiko Kamimura</persName>,<persName>Toshifumi Goto</persName>,<persName>Jun Takashima</persName>,<persName>Hideaki Nakatani</persName>,<persName>Takao Hayashi</persName>,<persName>Masato Fujii</persName>,<persName>Toru Funayama</persName>,<persName>Michio Yano</persName>, and<persName>Nobuyuki Watase</persName>.</p>
+                    <p>The text was originally input by <persName>Muneo Tokunaga</persName> in June 1992; Proof read by the following members of the Joint Seminar on ``Law (dharma) and Society in Classical India'' (coordinated by <persName>Y. Ikari</persName> at the Institute for Research in Humanities, Kyoto University) in March 1993: <persName>Akihiko Akamatsu</persName>, <persName>Yasuke Ikari</persName>, <persName>Fumio Enomoto</persName>, <persName>Katsuhiko Kamimura</persName>, <persName>Toshifumi Goto</persName>, <persName>Jun Takashima</persName>, <persName>Hideaki Nakatani</persName>, <persName>Takao Hayashi</persName>, <persName>Masato Fujii</persName>, <persName>Toru Funayama</persName>, <persName>Michio Yano</persName>, and <persName>Nobuyuki Watase</persName>.</p>
                 </correction>
             </editorialDecl>
             <refsDecl>
@@ -170,7 +170,7 @@
                 <docTitle xml:id="arthaśāstra-front-titlePage-docTitle">
                     <titlePart xml:id="arthaśāstra-front-titlePage-docTitle-titlePart">The Kauṭilīya Arthaśāstra - SARIT transcript</titlePart>
                 </docTitle>
-                <byline>Compilation, data entry, proof correction by<docAuthor>Muneo Tokunaga et al., Kyoto University</docAuthor>Editing and conversion to TEI markup by<docAuthor>Richard Mahoney, Indica et Buddhica</docAuthor>
+                <byline>Compilation, data entry, proof correction by <docAuthor>Muneo Tokunaga et al., Kyoto University</docAuthor> Editing and conversion to TEI markup by <docAuthor>Richard Mahoney, Indica et Buddhica</docAuthor>
                 </byline>
                 <docImprint>
                     <publisher>
@@ -184,8 +184,7 @@
                 </docImprint>
                 <docDate>2009</docDate>
                 <space/>
-                <figure>
-                    <figDesc>Financial support by The British Association for South Asian Studies</figDesc>
+                <figure>  <figDesc>Financial support by The British Association for South Asian Studies</figDesc>
                     <graphic url="basas-logo.png" scale="0.5"/>
                 </figure>
             </titlePage>
@@ -225,7 +224,7 @@
                     <p xml:id="arthaśāstra-body-div-1-div-1-p-24">KAZ01.1.09e/ daṇḍa.upanāyi.vṛttam, sandhi.karma, samādhi.mokṣaḥ, madhyama.caritam, udāsīna.caritam, maṇḍala.caritam - iti ṣāḍguṇyaṃ saptamam adhikaraṇam | 9 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-1-p-25">KAZ01.1.10/ prakṛti.vyasana.vargaḥ, rāja.rājyayor vyasana.cintā, puruṣa.vyasana.vargaḥ, pīḍana.vargaḥ, stambha.vargaḥ, kośa.saṅga.vargaḥ, mitra.vyasana.vargaḥ - iti vyasana.ādhikārikam aṣṭamam adhikaraṇam | 10 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-1-p-26">KAZ01.1.11a/ śakti.deśa.kāla.bala.abala.jñānam, yātrā.kālāḥ, bala.upādāna.kālāḥ, samnāha.guṇāḥ, pratibala.karma, paścāt kopa.cintā, bāhya.ābhyantara.prakṛti.kopa.pratīkārāḥ -</p>
-                    <p xml:id="arthaśāstra-body-div-1-div-1-p-27">KAZ01.1.11b/ kṣaya.vyaya.lābha.-<pb n="3" xml:id="arthaśāstra-body-div-1-div-1-p-27-pb"/>viparimarśaḥ, bāhya.ābhyantarāś ca-āpadaḥ, duṣya.śatru.samyuktāḥ, artha.anartha.saṃśaya.yuktāḥ, tāsām upāya.vikalpajāḥ siddhayaḥ - ity abhiyāsyat karma navamam adhikaraṇam | 11 |</p>
+                    <p xml:id="arthaśāstra-body-div-1-div-1-p-27">KAZ01.1.11b/ kṣaya.vyaya.lābha.-<pb n="3" xml:id="arthaśāstra-body-div-1-div-1-p-27-pb"/> viparimarśaḥ, bāhya.ābhyantarāś ca-āpadaḥ, duṣya.śatru.samyuktāḥ, artha.anartha.saṃśaya.yuktāḥ, tāsām upāya.vikalpajāḥ siddhayaḥ - ity abhiyāsyat karma navamam adhikaraṇam | 11 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-1-p-28">KAZ01.1.12/ skandha.āvāra.niveśaḥ, skandha.āvāra.prayāṇam, bala.vyasana.avaskanda.kāla.rakṣaṇam, kūṭa.yuddha.vikalpāḥ, sva.sainya.utsāhanam, sva.bala.anya.bala.vyāyogaḥ, yuddha.bhūmayaḥ, patty.aśva.ratha.hasti.karmāṇi, pakṣa.kakṣa.urasyānāṃ bala.agrato vyūha.vibhāgaḥ, sāra.phalgu.bala.vibhāgaḥ, patty.aśva.ratha.hasti.yuddhāni, daṇḍa.bhoga.maṇḍala.asaṃhata.vyūha.vyūhanam, tasya prativyūha.sthāpanam - iti sāṅgrāmikaṃ daśamam adhikaraṇam | 12 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-1-p-29">KAZ01.1.13/ bheda.upādānāni, upāṃśu.daṇḍāḥ - iti saṅgha.vṛttam ekādaśam adhikaraṇam | 13 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-1-p-30">KAZ01.1.14/ dūta.karma, mantra.yuddham, senā.mukhya.vadhaḥ, maṇḍala.protsāhanam, śastra.agni.rasa.praṇidhayaḥ, vīvadha.āsāra.prasāra.vadhaḥ, yoga.atisandhānam, daṇḍa.atisandhānam, eka.vijayaḥ - ity ābalīyasaṃ dvādaśam adhikaraṇam | 14 |</p>
@@ -345,7 +344,7 @@
                     <p xml:id="arthaśāstra-body-div-1-div-6-p-5">KAZ01.6.05/ yathā dāṇḍakyo nāma bhojaḥ kāmād brāhmaṇa.kanyām abhimanyamānaḥ sa-bandhu.rāṣṭro vinanāśa, karālaś ca vaidehaḥ | 5 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-6-p-6">KAZ01.6.06/ kopāj janamejayo brāhmaṇeṣu vikrāntaḥ, tāla.jaṅghaś ca bhṛguṣu | 6 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-6-p-7">KAZ01.6.07/ lobhād ailaś cāturvarṇyam atyāhārayamāṇaḥ, sauvīraś ca-ajabinduḥ | 7 |</p>
-                    <p xml:id="arthaśāstra-body-div-1-div-6-p-8">KAZ01.6.08/ mānād rāvaṇaḥ para.dārān aprayacchan,<pb n="8" xml:id="arthaśāstra-body-div-1-div-6-p-8-pb"/>duryodhano rājyād aṃśaṃ ca | 8 |</p>
+                    <p xml:id="arthaśāstra-body-div-1-div-6-p-8">KAZ01.6.08/ mānād rāvaṇaḥ para.dārān aprayacchan,<pb n="8" xml:id="arthaśāstra-body-div-1-div-6-p-8-pb"/> duryodhano rājyād aṃśaṃ ca | 8 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-6-p-9">KAZ01.6.09/ madād dambhodbhavo bhūta.avamānī, haihayaś ca-arjunaḥ | 9 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-6-p-10">KAZ01.6.10/ harṣād vātāpir agastyam atyāsādayan, vṛṣṇi.saṅghaś ca dvaipāyanam iti | 10 |</p>
                     <lg type="stanza" xml:id="arthaśāstra-body-div-1-div-6-lg-1">
@@ -619,7 +618,7 @@
                     <p xml:id="arthaśāstra-body-div-1-div-15-p-1">KAZ01.15.01/ kṛta.sva.pakṣa.para.pakṣa.upagrahaḥ kārya.ārambhāṃś cintayet | 1 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-15-p-2">KAZ01.15.02/ mantra.pūrvāḥ sarva.ārambhāḥ | 2 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-15-p-3">KAZ01.15.03/ tad.uddeśaḥ saṃvṛtaḥ kathānām anihśrāvī pakṣibhir apy anālokyaḥ syāt | 3 |</p>
-                    <p xml:id="arthaśāstra-body-div-1-div-15-p-4">KAZ01.15.04/ śrūyate hi śuka.sārikābhir mantro bhinnaḥ, śvabhir apy anyaiś ca<pb n="19" xml:id="arthaśāstra-body-div-1-div-15-p-4-pb"/>tiryag.yonibhir iti | 4 |</p>
+                    <p xml:id="arthaśāstra-body-div-1-div-15-p-4">KAZ01.15.04/ śrūyate hi śuka.sārikābhir mantro bhinnaḥ, śvabhir apy anyaiś ca<pb n="19" xml:id="arthaśāstra-body-div-1-div-15-p-4-pb"/> tiryag.yonibhir iti | 4 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-15-p-5">KAZ01.15.05/ tasmān mantra.uddeśam anāyukto na-upagacchet | 5 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-15-p-6">KAZ01.15.06/ ucchidyeta mantra.bhedī | 6 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-15-p-7">KAZ01.15.07/ mantra.bhedo hi dūta.amātya.svāminām iṅgita.ākārābhyām | 7 |</p>
@@ -681,7 +680,7 @@
                     <p xml:id="arthaśāstra-body-div-1-div-15-p-54">KAZ01.15.56/ sa tac cakṣuḥ | 56 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-15-p-55">KAZ01.15.57/ tasmād imaṃ dvy.akṣaṃ sahasra.akṣam āhuḥ | 57 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-15-p-56">KAZ01.15.58/ ātyayike kārye mantriṇo mantri.pariṣadaṃ ca-āhūya brūyāt | 58 |</p>
-                    <p xml:id="arthaśāstra-body-div-1-div-15-p-57">KAZ01.15.59/ tatra yad.bhūyiṣṭhā brūyuḥ kārya.siddhi.karaṃ vā tat kuryāt | 59 |<pb n="21" xml:id="arthaśāstra-body-div-1-div-15-p-57-pb"/>kurvataś ca --</p>
+                    <p xml:id="arthaśāstra-body-div-1-div-15-p-57">KAZ01.15.59/ tatra yad.bhūyiṣṭhā brūyuḥ kārya.siddhi.karaṃ vā tat kuryāt | 59 | <pb n="21" xml:id="arthaśāstra-body-div-1-div-15-p-57-pb"/> kurvataś ca --</p>
                     <lg type="stanza" xml:id="arthaśāstra-body-div-1-div-15-lg-3">
                         <l xml:id="arthaśāstra-body-div-1-div-15-lg-3-l-1">KAZ01.15.60ab/ na-asya guhyaṃ pare vidyuś chidraṃ vidyāt parasya ca |</l>
                         <l xml:id="arthaśāstra-body-div-1-div-15-lg-3-l-2">KAZ01.15.60cd/ gūhet kūrma-iva-aṅgāni yat syād vivṛtam ātmanaḥ || 60 ||</l>
@@ -707,7 +706,7 @@
                     <p xml:id="arthaśāstra-body-div-1-div-16-p-11">KAZ01.16.11/ śāsanaṃ ca yathā.uktaṃ brūyāt, prāṇa.ābādhe 'pi dṛṣṭe | 11 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-16-p-12">KAZ01.16.12/ parasya vāci vaktre dṛṣṭyāṃ ca prasādaṃ vākya.pūjanam iṣṭa.paripraśnaṃ guṇa.kathā.saṅgam āsannam āsanaṃ satkāram iṣṭeṣu smaraṇaṃ viśvāsa.gamanaṃ ca lakṣayet tuṣṭasya, viparītam atuṣṭasya | 12 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-16-p-13">KAZ01.16.13/ taṃ brūyāt - "dūta.mukhā hi rājānaḥ, tvaṃ ca-anye ca | 13 |</p>
-                    <p xml:id="arthaśāstra-body-div-1-div-16-p-14">KAZ01.16.14/ tasmād udyateṣv api<pb n="22" xml:id="arthaśāstra-body-div-1-div-16-p-14-pb"/>śastreṣu yathā.uktaṃ vaktāro dūtāḥ | 14 |</p>
+                    <p xml:id="arthaśāstra-body-div-1-div-16-p-14">KAZ01.16.14/ tasmād udyateṣv api<pb n="22" xml:id="arthaśāstra-body-div-1-div-16-p-14-pb"/> śastreṣu yathā.uktaṃ vaktāro dūtāḥ | 14 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-16-p-15">KAZ01.16.15/ teṣām anta.avasāyino 'py avadhyāḥ, kim aṅga punar brāhmaṇāḥ | 15 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-16-p-16">KAZ01.16.16/ parasya-etad vākyam | 16 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-16-p-17">KAZ01.16.17/ eṣa dūta.dharmaḥ" iti | 17 |</p>
@@ -766,7 +765,7 @@
                     <p xml:id="arthaśāstra-body-div-1-div-17-p-21">KAZ01.17.21/ sukha.uparuddhā hi putrāḥ pitaraṃ na-abhidruhyanti" iti | 21 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-17-p-22">KAZ01.17.22/ jīvan.maraṇam etad iti kauṭilyaḥ | 22 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-17-p-23">KAZ01.17.23/ kāṣṭham iva ghuṇa.jagdhaṃ rāja.kulam avinīta.putram abhiyukta.mātraṃ bhajyeta | 23 |</p>
-                    <p xml:id="arthaśāstra-body-div-1-div-17-p-24">KAZ01.17.24/ tasmād ṛtumatyāṃ mahiṣyām ṛtvijaś carum aindrābārhaspatyaṃ<pb n="24" xml:id="arthaśāstra-body-div-1-div-17-p-24-pb"/>nirvapeyuḥ | 24 |</p>
+                    <p xml:id="arthaśāstra-body-div-1-div-17-p-24">KAZ01.17.24/ tasmād ṛtumatyāṃ mahiṣyām ṛtvijaś carum aindrābārhaspatyaṃ<pb n="24" xml:id="arthaśāstra-body-div-1-div-17-p-24-pb"/> nirvapeyuḥ | 24 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-17-p-25">KAZ01.17.25/ āpanna.sattvāyāḥ kaumāra.bhṛtyo garbha.bharmaṇi prasave ca viyateta | 25 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-17-p-26">KAZ01.17.26/ prajātāyāḥ putra.saṃskāraṃ purohitaḥ kuryāt | 26 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-17-p-27">KAZ01.17.27/ samarthaṃ tadvido vinayeyuḥ | 27 |</p>
@@ -862,44 +861,44 @@
                     <p xml:id="arthaśāstra-body-div-1-div-19-p-28">KAZ01.19.28/ tena prakṛti.kopam ari.vaśaṃ vā gacchet | 28 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-19-p-29">KAZ01.19.29/ tasmād devatā.āśrama.pāṣaṇḍa.śrotriya.paśu.puṇya.sthānānāṃ bāla.vṛddha.vyādhita.vyasany.anāthānāṃ strīṇāṃ ca krameṇa kāryāṇi paśyet, kārya.gauravād ātyayika.vaśena vā | 29 |</p>
                     <lg type="stanza" xml:id="arthaśāstra-body-div-1-div-19-lg-1">
-                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-1-l-1">KAZ01.19.30ab/ sarvam ātyayikaṃ kāryaṃ śṛṇuyān na-atipātayet |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-1-l-1-note">KAZ01.19.30ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-1-l-1">KAZ01.19.30ab/ sarvam ātyayikaṃ kāryaṃ śṛṇuyān na-atipātayet | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-1-l-1-note">KAZ01.19.30ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-1-l-2">KAZ01.19.30cd/ kṛcchra.sādhyam atikrāntam asādhyaṃ vā-api jāyate || 30 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-1-l-2-note">KAZ01.19.30cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-1-l-2">KAZ01.19.30cd/ kṛcchra.sādhyam atikrāntam asādhyaṃ vā-api jāyate || 30 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-1-l-2-note">KAZ01.19.30cd/ ś</note>
                         </l>
                     </lg>
                     <lg type="stanza" xml:id="arthaśāstra-body-div-1-div-19-lg-2">
-                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-2-l-1">KAZ01.19.31ab/ agny.agāra.gataḥ kāryaṃ paśyed vaidya.tapasvinām |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-2-l-1-note">KAZ01.19.31ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-2-l-1">KAZ01.19.31ab/ agny.agāra.gataḥ kāryaṃ paśyed vaidya.tapasvinām | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-2-l-1-note">KAZ01.19.31ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-2-l-2">KAZ01.19.31cd/ purohita.ācārya.sakhaḥ pratyutthāya-abhivādya ca || 31 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-2-l-2-note">KAZ01.19.31cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-2-l-2">KAZ01.19.31cd/ purohita.ācārya.sakhaḥ pratyutthāya-abhivādya ca || 31 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-2-l-2-note">KAZ01.19.31cd/ ś</note>
                         </l>
                     </lg>
                     <lg type="stanza" xml:id="arthaśāstra-body-div-1-div-19-lg-3">
-                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-3-l-1">KAZ01.19.32ab/ tapasvināṃ tu kāryāṇi traividyaiḥ saha kārayet |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-3-l-1-note">KAZ01.19.32ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-3-l-1">KAZ01.19.32ab/ tapasvināṃ tu kāryāṇi traividyaiḥ saha kārayet | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-3-l-1-note">KAZ01.19.32ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-3-l-2">KAZ01.19.32cd/ māyā.yogavidāṃ caiva na svayaṃ kopa.kāraṇāt || 32 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-3-l-2-note">KAZ01.19.32cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-3-l-2">KAZ01.19.32cd/ māyā.yogavidāṃ caiva na svayaṃ kopa.kāraṇāt || 32 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-3-l-2-note">KAZ01.19.32cd/ ś</note>
                         </l>
                     </lg>
                     <lg type="stanza" xml:id="arthaśāstra-body-div-1-div-19-lg-4">
-                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-4-l-1">KAZ01.19.33ab/ rājño hi vratam utthānaṃ yajñaḥ kārya.anuśāsanam |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-4-l-1-note">KAZ01.19.33ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-4-l-1">KAZ01.19.33ab/ rājño hi vratam utthānaṃ yajñaḥ kārya.anuśāsanam | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-4-l-1-note">KAZ01.19.33ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-4-l-2">KAZ01.19.33cd/ dakṣiṇā vṛtti.sāmyaṃ tu dīkṣā tasya-abhiṣecanam || 33 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-4-l-2-note">KAZ01.19.33cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-4-l-2">KAZ01.19.33cd/ dakṣiṇā vṛtti.sāmyaṃ tu dīkṣā tasya-abhiṣecanam || 33 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-4-l-2-note">KAZ01.19.33cd/ ś</note>
                         </l>
                     </lg>
                     <lg type="stanza" xml:id="arthaśāstra-body-div-1-div-19-lg-5">
-                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-5-l-1">KAZ01.19.34ab/ prajā.sukhe sukhaṃ rājñaḥ prajānāṃ ca hite hitam |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-5-l-1-note">KAZ01.19.34ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-5-l-1">KAZ01.19.34ab/ prajā.sukhe sukhaṃ rājñaḥ prajānāṃ ca hite hitam | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-5-l-1-note">KAZ01.19.34ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-5-l-2">KAZ01.19.34cd/ na-ātma.priyaṃ hitaṃ rājñaḥ prajānāṃ tu priyaṃ hitam || 34 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-5-l-2-note">KAZ01.19.34cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-5-l-2">KAZ01.19.34cd/ na-ātma.priyaṃ hitaṃ rājñaḥ prajānāṃ tu priyaṃ hitam || 34 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-5-l-2-note">KAZ01.19.34cd/ ś</note>
                         </l>
                     </lg>
                     <lg type="stanza" xml:id="arthaśāstra-body-div-1-div-19-lg-6">
                         <l xml:id="arthaśāstra-body-div-1-div-19-lg-6-l-1">KAZ01.19.35ab/ tasmān nitya.utthito rājā kuryād artha.anuśāsanam |</l>
-                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-6-l-2">KAZ01.19.35cd/ arthasya mūlam utthānam anarthasya viparyayaḥ || 35 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-6-l-2-note">KAZ01.19.35cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-6-l-2">KAZ01.19.35cd/ arthasya mūlam utthānam anarthasya viparyayaḥ || 35 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-6-l-2-note">KAZ01.19.35cd/ ś</note>
                         </l>
                     </lg>
                     <lg type="stanza" xml:id="arthaśāstra-body-div-1-div-19-lg-7">
-                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-7-l-1">KAZ01.19.36ab/ anutthāne dhruvo nāśaḥ prāptasya-anāgatasya ca |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-7-l-1-note">KAZ01.19.36ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-7-l-1">KAZ01.19.36ab/ anutthāne dhruvo nāśaḥ prāptasya-anāgatasya ca | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-7-l-1-note">KAZ01.19.36ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-7-l-2">KAZ01.19.36cd/ prāpyate phalam utthānāl labhate ca-arthasampadam || 36 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-7-l-2-note">KAZ01.19.36cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-1-div-19-lg-7-l-2">KAZ01.19.36cd/ prāpyate phalam utthānāl labhate ca-arthasampadam || 36 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-19-lg-7-l-2-note">KAZ01.19.36cd/ ś</note>
                         </l>
                     </lg>
                     <pb n="28" xml:id="arthaśāstra-body-div-1-div-19-pb-2"/>
@@ -922,22 +921,22 @@
                     <p xml:id="arthaśāstra-body-div-1-div-20-p-13">KAZ01.20.13/ kakṣya.antareṣv antarvaṃśika.sainyaṃ tiṣṭhet | 13 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-20-p-14">KAZ01.20.14/ antar.gṛha.gataḥ sthavira.strī.pariśuddhāṃ devīṃ paśyet | 14 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-20-p-15">KAZ01.20.15/ devī.gṛhe līno hi bhrātā bhadrasenaṃ jaghāna, mātuḥ śayyā.antargataś ca putraḥ kārūṣam | 15 |</p>
-                    <p xml:id="arthaśāstra-body-div-1-div-20-p-16">KAZ01.20.16/ lājān madhunā-iti viṣeṇa paryasya devī kāśi.rājam, viṣa.digdhena nūpreṇa vairantyam, mekhalā.maṇinā<pb n="29" xml:id="arthaśāstra-body-div-1-div-20-p-16-pb"/>sauvīram, jālūtham ādarśena, veṇyāṃ gūḍhaṃ śastraṃ kṛtvā devī vidūrathaṃ jaghāna | 16 |</p>
+                    <p xml:id="arthaśāstra-body-div-1-div-20-p-16">KAZ01.20.16/ lājān madhunā-iti viṣeṇa paryasya devī kāśi.rājam, viṣa.digdhena nūpreṇa vairantyam, mekhalā.maṇinā<pb n="29" xml:id="arthaśāstra-body-div-1-div-20-p-16-pb"/> sauvīram, jālūtham ādarśena, veṇyāṃ gūḍhaṃ śastraṃ kṛtvā devī vidūrathaṃ jaghāna | 16 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-20-p-17">KAZ01.20.17/ tasmād etāny āspadāni pariharet | 17 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-20-p-18">KAZ01.20.18/ muṇḍa.jaṭila.kuhaka.pratisaṃsargaṃ bāhyābhiś ca dāsībhiḥ pratiṣedhayet | 18 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-20-p-19">KAZ01.20.19/ na ca-enāḥ kulyāḥ paśyeyuḥ, anyatra garbha.vyādhi.saṃsthābhyaḥ | 19 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-20-p-20">KAZ01.20.20/ rūpa.ājīvāḥ snāna.pragharṣa.śuddha.śarīrāḥ parivartita.vastra.alaṅkārāḥ paśyeyuḥ | 20 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-20-p-21">KAZ01.20.21/ aśītikāḥ puruṣāḥ pañcāśatkāḥ striyo vā mātā.pitṛ.vyañjanāḥ sthavira.varṣadhara.abhyāgārikāś ca-avarodhānāṃ śauca.āśaucaṃ vidyuḥ, sthāpayeyuś ca svāmi.hite, | 21 |</p>
                     <lg type="stanza" xml:id="arthaśāstra-body-div-1-div-20-lg-1">
-                        <l xml:id="arthaśāstra-body-div-1-div-20-lg-1-l-1">KAZ01.20.22ab/ sva.bhūmau ca vaset sarvaḥ para.bhūmau na sañcaret |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-20-lg-1-l-1-note">KAZ01.20.22ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-1-div-20-lg-1-l-1">KAZ01.20.22ab/ sva.bhūmau ca vaset sarvaḥ para.bhūmau na sañcaret | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-20-lg-1-l-1-note">KAZ01.20.22ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-1-div-20-lg-1-l-2">KAZ01.20.22cd/ na ca bāhyena saṃsargaṃ kaścid ābhyantaro vrajet || 22 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-20-lg-1-l-2-note">KAZ01.20.22cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-1-div-20-lg-1-l-2">KAZ01.20.22cd/ na ca bāhyena saṃsargaṃ kaścid ābhyantaro vrajet || 22 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-20-lg-1-l-2-note">KAZ01.20.22cd/ ś</note>
                         </l>
                     </lg>
                     <lg type="stanza" xml:id="arthaśāstra-body-div-1-div-20-lg-2">
-                        <l xml:id="arthaśāstra-body-div-1-div-20-lg-2-l-1">KAZ01.20.23ab/ sarvaṃ ca-avekṣitaṃ dravyaṃ nibaddha.āgama.nirgamam |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-20-lg-2-l-1-note">KAZ01.20.23ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-1-div-20-lg-2-l-1">KAZ01.20.23ab/ sarvaṃ ca-avekṣitaṃ dravyaṃ nibaddha.āgama.nirgamam | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-20-lg-2-l-1-note">KAZ01.20.23ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-1-div-20-lg-2-l-2">KAZ01.20.23cd/ nirgacched abhigacched vā mudrā.saṅkrānta.bhūmikam || 23 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-20-lg-2-l-2-note">KAZ01.20.23cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-1-div-20-lg-2-l-2">KAZ01.20.23cd/ nirgacched abhigacched vā mudrā.saṅkrānta.bhūmikam || 23 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-20-lg-2-l-2-note">KAZ01.20.23cd/ ś</note>
                         </l>
                     </lg>
                 </div>
@@ -982,9 +981,9 @@
                     <p xml:id="arthaśāstra-body-div-1-div-21-p-34">KAZ01.21.27/ na puruṣa.sambādham avagāheta | 27 |</p>
                     <p xml:id="arthaśāstra-body-div-1-div-21-p-35">KAZ01.21.28/ yātrā.samāja.utsava.prahavaṇāni ca daśa.vargika.adhiṣṭhitāni gacchet | 28 |</p>
                     <lg type="stanza" xml:id="arthaśāstra-body-div-1-div-21-lg">
-                        <l xml:id="arthaśāstra-body-div-1-div-21-lg-l-1">KAZ01.21.29ab/ yathā ca yoga.puruṣair anyān rājā-adhitiṣṭhati |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-21-lg-l-1-note">KAZ01.21.29ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-1-div-21-lg-l-1">KAZ01.21.29ab/ yathā ca yoga.puruṣair anyān rājā-adhitiṣṭhati | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-21-lg-l-1-note">KAZ01.21.29ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-1-div-21-lg-l-2">KAZ01.21.29cd/ tathā-ayam anya.ābādhebhyo rakṣed ātmānam ātmavān || 29 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-21-lg-l-2-note">KAZ01.21.29cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-1-div-21-lg-l-2">KAZ01.21.29cd/ tathā-ayam anya.ābādhebhyo rakṣed ātmānam ātmavān || 29 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-1-div-21-lg-l-2-note">KAZ01.21.29cd/ ś</note>
                         </l>
                     </lg>
                 </div>
@@ -1034,28 +1033,28 @@
                     <p xml:id="arthaśāstra-body-div-2-div-1-p-35">KAZ02.01.34/ naṭa.nartaka.gāyana.vādaka.vāg.jīvana.kuśīlavā na karma.vighnaṃ kuryuḥ | 34 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-1-p-36">KAZ02.01.35/ nirāśrayatvād grāmāṇāṃ kṣetra.abhiratatvāc ca puruṣāṇāṃ kośa.viṣṭi.dravya.dhānya.rasa.vṛddhir bhavati | 35 |</p>
                     <lg xml:id="arthaśāstra-body-div-2-div-1-lg-1">
-                        <l xml:id="arthaśāstra-body-div-2-div-1-lg-1-l-1">KAZ02.01.36ab/ para.cakra.aṭavī.grastaṃ vyādhi.durbhikṣa.pīḍitam |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-1-lg-1-l-1-note">KAZ02.01.36ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-1-lg-1-l-1">KAZ02.01.36ab/ para.cakra.aṭavī.grastaṃ vyādhi.durbhikṣa.pīḍitam | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-1-lg-1-l-1-note">KAZ02.01.36ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-1-lg-1-l-2">KAZ02.01.36cd/ deśaṃ parihared rājā vyaya.krīḍāś ca vārayet || 36 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-1-lg-1-l-2-note">KAZ02.01.36cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-1-lg-1-l-2">KAZ02.01.36cd/ deśaṃ parihared rājā vyaya.krīḍāś ca vārayet || 36 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-1-lg-1-l-2-note">KAZ02.01.36cd/ ś</note>
                         </l>
                     </lg>
                     <lg xml:id="arthaśāstra-body-div-2-div-1-lg-2">
-                        <l xml:id="arthaśāstra-body-div-2-div-1-lg-2-l-1">KAZ02.01.37ab/ daṇḍa.viṣṭi.kara.ābādhai rakṣed upahatāṃ kṛṣim |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-1-lg-2-l-1-note">KAZ02.01.37ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-1-lg-2-l-1">KAZ02.01.37ab/ daṇḍa.viṣṭi.kara.ābādhai rakṣed upahatāṃ kṛṣim | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-1-lg-2-l-1-note">KAZ02.01.37ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-1-lg-2-l-2">KAZ02.01.37cd/ stena.vyāla.viṣa.grāhair vyādhibhiś ca paśu.vrajān || 37 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-1-lg-2-l-2-note">KAZ02.01.37cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-1-lg-2-l-2">KAZ02.01.37cd/ stena.vyāla.viṣa.grāhair vyādhibhiś ca paśu.vrajān || 37 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-1-lg-2-l-2-note">KAZ02.01.37cd/ ś</note>
                         </l>
                     </lg>
                     <lg xml:id="arthaśāstra-body-div-2-div-1-lg-3">
-                        <l xml:id="arthaśāstra-body-div-2-div-1-lg-3-l-1">KAZ02.01.38ab/ vallabhaiḥ kārmikaiḥ stenair anta.pālaiś ca pīḍitam |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-1-lg-3-l-1-note">KAZ02.01.38ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-1-lg-3-l-1">KAZ02.01.38ab/ vallabhaiḥ kārmikaiḥ stenair anta.pālaiś ca pīḍitam | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-1-lg-3-l-1-note">KAZ02.01.38ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-1-lg-3-l-2">KAZ02.01.38cd/ śodhayet paśu.saṅghaiś ca kṣīyamāṇaṃ vaṇik.patham || 38 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-1-lg-3-l-2-note">KAZ02.01.38cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-1-lg-3-l-2">KAZ02.01.38cd/ śodhayet paśu.saṅghaiś ca kṣīyamāṇaṃ vaṇik.patham || 38 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-1-lg-3-l-2-note">KAZ02.01.38cd/ ś</note>
                         </l>
                     </lg>
                     <pb n="34" xml:id="arthaśāstra-body-div-2-div-1-pb-2"/>
                     <lg xml:id="arthaśāstra-body-div-2-div-1-lg-4">
-                        <l xml:id="arthaśāstra-body-div-2-div-1-lg-4-l-1">KAZ02.01.39ab/ evaṃ dravya.dvi.pavanaṃ setu.bandham atha-ākarān |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-1-lg-4-l-1-note">KAZ02.01.39ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-1-lg-4-l-1">KAZ02.01.39ab/ evaṃ dravya.dvi.pavanaṃ setu.bandham atha-ākarān | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-1-lg-4-l-1-note">KAZ02.01.39ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-1-lg-4-l-2">KAZ02.01.39cd/ rakṣet pūrva.kṛtān rājā navāṃś ca-abhipravartayet || 39 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-1-lg-4-l-2-note">KAZ02.01.39cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-1-lg-4-l-2">KAZ02.01.39cd/ rakṣet pūrva.kṛtān rājā navāṃś ca-abhipravartayet || 39 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-1-lg-4-l-2-note">KAZ02.01.39cd/ ś</note>
                         </l>
                     </lg>
                 </div>
@@ -1078,22 +1077,22 @@
                     <p xml:id="arthaśāstra-body-div-2-div-2-p-14">KAZ02.2.14/ para.anīka.vyūha.durga.skandha.āvāra.pramardanā hy atipramāṇa.śarīrāḥ prāṇa.hara.karmāṇo hastinaḥ | 14 |</p>
                     <pb n="35" xml:id="arthaśāstra-body-div-2-div-2-pb"/>
                     <lg xml:id="arthaśāstra-body-div-2-div-2-lg-1">
-                        <l xml:id="arthaśāstra-body-div-2-div-2-lg-1-l-1">KAZ02.2.15ab/ kāliṅga.aṅgarajāḥ śreṣṭhāḥ prācyāś cedi.karūṣajāḥ |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-2-lg-1-l-1-note">KAZ02.2.15ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-2-lg-1-l-1">KAZ02.2.15ab/ kāliṅga.aṅgarajāḥ śreṣṭhāḥ prācyāś cedi.karūṣajāḥ | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-2-lg-1-l-1-note">KAZ02.2.15ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-2-lg-1-l-2">KAZ02.2.15cd/ dāśārṇāś ca-apara.antāś ca dvipānāṃ madhyamā matāḥ || 15 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-2-lg-1-l-2-note">KAZ02.2.15cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-2-lg-1-l-2">KAZ02.2.15cd/ dāśārṇāś ca-apara.antāś ca dvipānāṃ madhyamā matāḥ || 15 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-2-lg-1-l-2-note">KAZ02.2.15cd/ ś</note>
                         </l>
                     </lg>
                     <lg xml:id="arthaśāstra-body-div-2-div-2-lg-2">
-                        <l xml:id="arthaśāstra-body-div-2-div-2-lg-2-l-1">KAZ02.2.16ab/ saurāṣṭrikāḥ pāñcanadās teṣāṃ pratyavarāḥ smṛtāḥ |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-2-lg-2-l-1-note">KAZ02.2.16ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-2-lg-2-l-1">KAZ02.2.16ab/ saurāṣṭrikāḥ pāñcanadās teṣāṃ pratyavarāḥ smṛtāḥ | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-2-lg-2-l-1-note">KAZ02.2.16ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-2-lg-2-l-2">KAZ02.2.16cd/ sarveṣāṃ karmaṇā vīryaṃ javas tejaś ca vardhate || 16 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-2-lg-2-l-2-note">KAZ02.2.16cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-2-lg-2-l-2">KAZ02.2.16cd/ sarveṣāṃ karmaṇā vīryaṃ javas tejaś ca vardhate || 16 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-2-lg-2-l-2-note">KAZ02.2.16cd/ ś</note>
                         </l>
                     </lg>
                 </div>
                 <div n="3" type="chapter" xml:id="arthaśāstra-body-div-2-div-3">
                     <head xml:id="arthaśāstra-body-div-2-div-3-head">Chapter 3 (Section 21): Construction of Forts</head>
                     <note place="margin" xml:id="arthaśāstra-body-div-2-div-3-note">[&#160;K tr. 69 :: K2 tr. 61</note>
-                    <p xml:id="arthaśāstra-body-div-2-div-3-p-1">KAZ02.3.01/ caturdiśaṃ jana.pada.ante sāmparāyikaṃ daiva.kṛtaṃ durgaṃ kārayet, antar.dvīpaṃ sthalaṃ vā nimna.avaruddham audakam, prāstaraṃ guhāṃ vā pārvatam, nirudaka.stambam iriṇaṃ vā dhānvanam,<pb n="36" xml:id="arthaśāstra-body-div-2-div-3-p-1-pb"/>khañjana.udakaṃ stamba.gahanaṃ vā vana.durgam | 1 |</p>
+                    <p xml:id="arthaśāstra-body-div-2-div-3-p-1">KAZ02.3.01/ caturdiśaṃ jana.pada.ante sāmparāyikaṃ daiva.kṛtaṃ durgaṃ kārayet, antar.dvīpaṃ sthalaṃ vā nimna.avaruddham audakam, prāstaraṃ guhāṃ vā pārvatam, nirudaka.stambam iriṇaṃ vā dhānvanam, <pb n="36" xml:id="arthaśāstra-body-div-2-div-3-p-1-pb"/> khañjana.udakaṃ stamba.gahanaṃ vā vana.durgam | 1 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-3-p-2">KAZ02.3.02/ teṣāṃ nadī.parvata.durgaṃ jana.pada.ārakṣa.sthānam, dhānvana.vana.durgam aṭavī.sthānam āpady apasāro vā | 2 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-3-p-3">KAZ02.3.03/ jana.pada.madhye samudaya.sthānaṃ sthānīyaṃ niveśayet, vāstuka.praśaste deśe nadī.saṅgame hradasya-aviśoṣasya-aṅke sarasas taṭākasya vā, vṛttaṃ dīrghaṃ catur.aśraṃ vā vāstu.vaśena vā pradakṣiṇa.udakaṃ paṇya.puṭa.bhedanam aṃsapatha.vāri.pathābhyām upetam | 3 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-3-p-4">KAZ02.3.04/ tasya parikhās tisro daṇḍa.antarāḥ kārayet caturdaśa dvādaśa daśa-iti daṇḍān vistīrṇāḥ, vistārād avagāḍhāḥ pāda.ūnam ardhaṃ vā, tribhāga.mūlāḥ, mūla.catur.aśrā vā, pāṣāṇa.upahitāḥ pāṣāṇa.iṣṭakā.baddha.pārśvā vā, toya.antikīr āgantu.toya.pūrṇā vā saparivāhāḥ padma.grāhavatīś ca | 4 |</p>
@@ -1130,15 +1129,15 @@
                     <p xml:id="arthaśāstra-body-div-2-div-3-p-34">KAZ02.3.33/ tri.bhāga.adhika.āyāmā bhāṇḍa.vāhinīḥ kulyāḥ kārayet | 33 |</p>
                     <pb n="38" xml:id="arthaśāstra-body-div-2-div-3-pb-2"/>
                     <lg xml:id="arthaśāstra-body-div-2-div-3-lg-1">
-                        <l xml:id="arthaśāstra-body-div-2-div-3-lg-1-l-1">KAZ02.3.34ab/ tāsu pāṣāṇa.kuddālāḥ kuṭhārī.kāṇḍa.kalpanāḥ |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-3-lg-1-l-1-note">KAZ02.3.34ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-3-lg-1-l-1">KAZ02.3.34ab/ tāsu pāṣāṇa.kuddālāḥ kuṭhārī.kāṇḍa.kalpanāḥ | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-3-lg-1-l-1-note">KAZ02.3.34ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-3-lg-1-l-2">KAZ02.3.34cd/ muṣuṇḍhī.mudgarā daṇḍāś cakra.yantra.śataghnayaḥ || 34 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-3-lg-1-l-2-note">KAZ02.3.34cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-3-lg-1-l-2">KAZ02.3.34cd/ muṣuṇḍhī.mudgarā daṇḍāś cakra.yantra.śataghnayaḥ || 34 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-3-lg-1-l-2-note">KAZ02.3.34cd/ ś</note>
                         </l>
                     </lg>
                     <lg xml:id="arthaśāstra-body-div-2-div-3-lg-2">
-                        <l xml:id="arthaśāstra-body-div-2-div-3-lg-2-l-1">KAZ02.3.35ab/ kāryāḥ kārmārikāḥ śūlā vedhana.agrāś ca veṇavaḥ |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-3-lg-2-l-1-note">KAZ02.3.35ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-3-lg-2-l-1">KAZ02.3.35ab/ kāryāḥ kārmārikāḥ śūlā vedhana.agrāś ca veṇavaḥ | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-3-lg-2-l-1-note">KAZ02.3.35ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-3-lg-2-l-2">KAZ02.3.35cd/ uṣṭra.grīvyo 'gni.samyogāḥ kupya.kalpe ca yo vidhiḥ || 35 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-3-lg-2-l-2-note">KAZ02.3.35cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-3-lg-2-l-2">KAZ02.3.35cd/ uṣṭra.grīvyo 'gni.samyogāḥ kupya.kalpe ca yo vidhiḥ || 35 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-3-lg-2-l-2-note">KAZ02.3.35cd/ ś</note>
                         </l>
                     </lg>
                 </div>
@@ -1178,9 +1177,9 @@
                     <p xml:id="arthaśāstra-body-div-2-div-4-p-30">KAZ02.4.30/ aneka.mukhyaṃ hi paraspara.bhayāt para.upajāpaṃ na-upaiti | 30 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-4-p-31">KAZ02.4.31/ etena-anta.pāla.durga.saṃskārā vyākhyātāḥ | 31 |</p>
                     <lg xml:id="arthaśāstra-body-div-2-div-4-lg">
-                        <l xml:id="arthaśāstra-body-div-2-div-4-lg-l-1">KAZ02.4.32ab/ na ca bāhirikān kuryāt pure rāṣṭra.upaghātakān |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-4-lg-l-1-note">KAZ02.4.32ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-4-lg-l-1">KAZ02.4.32ab/ na ca bāhirikān kuryāt pure rāṣṭra.upaghātakān | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-4-lg-l-1-note">KAZ02.4.32ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-4-lg-l-2">KAZ02.4.32cd/ kṣipej jana.pade ca-etān sarvān vā dāpayet karān || 32 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-4-lg-l-2-note">KAZ02.4.32cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-4-lg-l-2">KAZ02.4.32cd/ kṣipej jana.pade ca-etān sarvān vā dāpayet karān || 32 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-4-lg-l-2-note">KAZ02.4.32cd/ ś</note>
                         </l>
                     </lg>
                 </div>
@@ -1212,9 +1211,9 @@
                     <p xml:id="arthaśāstra-body-div-2-div-5-p-21">KAZ02.5.19/ paribhāṣaṇam avijñāte | 19 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-5-p-22">KAZ02.5.20/ corāṇām abhipradharṣaṇe citro ghātaḥ | 20 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-5-p-23">KAZ02.5.21/ tasmād āpta.puruWa.adhiṣṭhitaḥ samnidhātā nicayān anutiṣṭhet | 21 |</p>
-                    <p xml:id="arthaśāstra-body-div-2-div-5-p-24">KAZ02.5.22a/ bāhyam abhyantaraṃ cāyaṃ vidyād varṣa.śatād api |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-5-p-24-note">KAZ02.5.22a/ ś</note>
+                    <p xml:id="arthaśāstra-body-div-2-div-5-p-24">KAZ02.5.22a/ bāhyam abhyantaraṃ cāyaṃ vidyād varṣa.śatād api | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-5-p-24-note">KAZ02.5.22a/ ś</note>
                     </p>
-                    <p xml:id="arthaśāstra-body-div-2-div-5-p-25">KAZ02.5.22b/ yathā pṛṣṭo na sajjeta vyaye śeṣe ca sañcaye || 22 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-5-p-25-note">KAZ02.5.22b/ ś</note>
+                    <p xml:id="arthaśāstra-body-div-2-div-5-p-25">KAZ02.5.22b/ yathā pṛṣṭo na sajjeta vyaye śeṣe ca sañcaye || 22 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-5-p-25-note">KAZ02.5.22b/ ś</note>
                     </p>
                 </div>
                 <div n="6" type="chapter" xml:id="arthaśāstra-body-div-2-div-6">
@@ -1249,9 +1248,9 @@
                     <p xml:id="arthaśāstra-body-div-2-div-6-p-26">KAZ02.6.26/ tayor utpanno nitya.utpādiko lābha.utpādika iti vyayaḥ | 26 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-6-p-27">KAZ02.6.27/ sañjātād āya.vyaya.viśuddhā nīvī, prāptā ca-anuvṛttā ca | 27 |</p>
                     <lg xml:id="arthaśāstra-body-div-2-div-6-lg">
-                        <l xml:id="arthaśāstra-body-div-2-div-6-lg-l-1">KAZ02.6.28ab/ evaṃ kuryāt samudayaṃ vṛddhiṃ ca-āyasya darśayet |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-6-lg-l-1-note">KAZ02.6.28ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-6-lg-l-1">KAZ02.6.28ab/ evaṃ kuryāt samudayaṃ vṛddhiṃ ca-āyasya darśayet | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-6-lg-l-1-note">KAZ02.6.28ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-6-lg-l-2">KAZ02.6.28cd/ hrāsaṃ vyayasya ca prājñaḥ sādhayec ca viparyayam || 28 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-6-lg-l-2-note">KAZ02.6.28cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-6-lg-l-2">KAZ02.6.28cd/ hrāsaṃ vyayasya ca prājñaḥ sādhayec ca viparyayam || 28 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-6-lg-l-2-note">KAZ02.6.28cd/ ś</note>
                         </l>
                     </lg>
                 </div>
@@ -1301,9 +1300,9 @@
                     <p xml:id="arthaśāstra-body-div-2-div-7-p-39">KAZ02.7.39/ mithyā.vāde steya.daṇḍaḥ | 39 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-7-p-40">KAZ02.7.40/ paścāt.pratijñāte dvi.guṇaḥ, prasmṛta.utpanne ca | 40 |</p>
                     <lg xml:id="arthaśāstra-body-div-2-div-7-lg">
-                        <l xml:id="arthaśāstra-body-div-2-div-7-lg-l-1">KAZ02.7.41ab/ aparādhaṃ saheta-alpaṃ tuṣyed alpe 'pi ca-udaye |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-7-lg-l-1-note">KAZ02.7.41ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-7-lg-l-1">KAZ02.7.41ab/ aparādhaṃ saheta-alpaṃ tuṣyed alpe 'pi ca-udaye | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-7-lg-l-1-note">KAZ02.7.41ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-7-lg-l-2">KAZ02.7.41cd/ mahā.upakāraṃ ca-adhyakṣaṃ pragraheṇa-abhipūjayet || 41 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-7-lg-l-2-note">KAZ02.7.41cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-7-lg-l-2">KAZ02.7.41cd/ mahā.upakāraṃ ca-adhyakṣaṃ pragraheṇa-abhipūjayet || 41 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-7-lg-l-2-note">KAZ02.7.41cd/ ś</note>
                         </l>
                     </lg>
                 </div>
@@ -1331,7 +1330,7 @@
                     <p xml:id="arthaśāstra-body-div-2-div-8-p-18">KAZ02.8.18/ siddham āyaṃ na praveśayati, nibaddhaṃ vyayaṃ na prayacchati, prāptāṃ nīvīṃ vipratijānīta ity apahāraḥ | 18 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-8-p-19">KAZ02.8.19/ tatra dvādaśa.guṇo daṇḍaḥ | 19 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-8-p-20">KAZ02.8.20/ teṣāṃ haraṇa.upāyāś catvāriṃśat | 20 |</p>
-                    <p xml:id="arthaśāstra-body-div-2-div-8-p-21">KAZ02.8.21a/ pūrvaṃ siddhaṃ paścād avatāritam, paścāt siddhaṃ pūrvam avatāritam, sādhyaṃ na siddham, asādhyaṃ siddham, siddham asiddhaṃ kṛtam, asiddhaṃ siddhaṃ kṛtam,<pb n="46" xml:id="arthaśāstra-body-div-2-div-8-p-21-pb"/>alpa.siddhaṃ bahu kṛtam, bahu.siddham alpaṃ kṛtam, anyat siddham anyat kṛtam, anyataḥ siddham anyataḥ kṛtam,-</p>
+                    <p xml:id="arthaśāstra-body-div-2-div-8-p-21">KAZ02.8.21a/ pūrvaṃ siddhaṃ paścād avatāritam, paścāt siddhaṃ pūrvam avatāritam, sādhyaṃ na siddham, asādhyaṃ siddham, siddham asiddhaṃ kṛtam, asiddhaṃ siddhaṃ kṛtam, <pb n="46" xml:id="arthaśāstra-body-div-2-div-8-p-21-pb"/> alpa.siddhaṃ bahu kṛtam, bahu.siddham alpaṃ kṛtam, anyat siddham anyat kṛtam, anyataḥ siddham anyataḥ kṛtam,-</p>
                     <p xml:id="arthaśāstra-body-div-2-div-8-p-22">KAZ02.8.21b/ deyaṃ na dattam, adeyaṃ dattam, kāle na dattam, akāle dattam, alpaṃ dattaṃ bahu kṛtam, bahu dattam alpaṃ kṛtam, anyad dattam anyat kṛtam, anyato dattam anyataḥ kṛtam,-</p>
                     <p xml:id="arthaśāstra-body-div-2-div-8-p-23">KAZ02.8.21c/ praviṣṭam apraviṣṭaṃ kṛtam, apraviṣṭaṃ praviṣṭaṃ kṛtam, kupyam adatta.mūlyaṃ praviṣṭam, datta.mūlyaṃ na praviṣṭaṃ -</p>
                     <p xml:id="arthaśāstra-body-div-2-div-8-p-24">KAZ02.8.21d/ saṅkṣepo vikṣepaḥ kṛtaḥ, vikṣepaḥ saṅkṣepo vā, mahā.argham alpa.argheṇa parivartitam, alpa.arghaṃ mahā.argheṇa vā -</p>
@@ -1348,9 +1347,9 @@
                     <p xml:id="arthaśāstra-body-div-2-div-8-p-35">KAZ02.8.30/ prabhūta.abhiyogād alpa.niṣpattau niṣpannasya-aṃśaṃ labheta | 30 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-8-p-36">KAZ02.8.31/ aniṣpanne śārīraṃ hairaṇyaṃ vā daṇḍaṃ labheta, na ca-anugrāhyaḥ | 31 |</p>
                     <lg xml:id="arthaśāstra-body-div-2-div-8-lg">
-                        <l xml:id="arthaśāstra-body-div-2-div-8-lg-l-1">KAZ02.8.32ab/ niṣpattau nikṣiped vādam ātmānaṃ vā-apavāhayet |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-8-lg-l-1-note">KAZ02.8.32ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-8-lg-l-1">KAZ02.8.32ab/ niṣpattau nikṣiped vādam ātmānaṃ vā-apavāhayet | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-8-lg-l-1-note">KAZ02.8.32ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-8-lg-l-2">KAZ02.8.32cd/ abhiyukta.upajāpāt tu sūcako vadham āpnuyāt || 32 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-8-lg-l-2-note">KAZ02.8.32cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-8-lg-l-2">KAZ02.8.32cd/ abhiyukta.upajāpāt tu sūcako vadham āpnuyāt || 32 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-8-lg-l-2-note">KAZ02.8.32cd/ ś</note>
                         </l>
                     </lg>
                 </div>
@@ -1391,33 +1390,33 @@
                     <p xml:id="arthaśāstra-body-div-2-div-9-p-31">KAZ02.9.31/ bahu.mukhyam anityaṃ ca-adhikaraṇaṃ sthāpayet | 31 |</p>
                     <pb n="48" xml:id="arthaśāstra-body-div-2-div-9-pb-2"/>
                     <lg xml:id="arthaśāstra-body-div-2-div-9-lg-1">
-                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-1-l-1">KAZ02.9.32ab/ yathā hy anāsvādayituṃ na śakyaṃ jihvā.talasthaṃ madhu7 vā viṣaṃ vā |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-1-l-1-note">KAZ02.9.32ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-1-l-1">KAZ02.9.32ab/ yathā hy anāsvādayituṃ na śakyaṃ jihvā.talasthaṃ madhu7 vā viṣaṃ vā | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-1-l-1-note">KAZ02.9.32ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-1-l-2">KAZ02.9.32cd/ arthas tathā hy artha.careṇa rājñaḥ svalpo 'py anāsvādayituṃ na śakyaḥ || 32 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-1-l-2-note">KAZ02.9.32cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-1-l-2">KAZ02.9.32cd/ arthas tathā hy artha.careṇa rājñaḥ svalpo 'py anāsvādayituṃ na śakyaḥ || 32 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-1-l-2-note">KAZ02.9.32cd/ ś</note>
                         </l>
                     </lg>
                     <lg xml:id="arthaśāstra-body-div-2-div-9-lg-2">
-                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-2-l-1">KAZ02.9.33ab/ matsyā yathā-antaḥ salile caranto jñātuṃ na śakyāḥ salilaṃ pibantaḥ |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-2-l-1-note">KAZ02.9.33ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-2-l-1">KAZ02.9.33ab/ matsyā yathā-antaḥ salile caranto jñātuṃ na śakyāḥ salilaṃ pibantaḥ | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-2-l-1-note">KAZ02.9.33ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-2-l-2">KAZ02.9.33cd/ yuktās tathā kārya.vidhau niyuktā jñātuṃ na śakyā dhanam ādadānāḥ || 33 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-2-l-2-note">KAZ02.9.33cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-2-l-2">KAZ02.9.33cd/ yuktās tathā kārya.vidhau niyuktā jñātuṃ na śakyā dhanam ādadānāḥ || 33 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-2-l-2-note">KAZ02.9.33cd/ ś</note>
                         </l>
                     </lg>
                     <lg xml:id="arthaśāstra-body-div-2-div-9-lg-3">
-                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-3-l-1">KAZ02.9.34ab/ api śakyā gatir jñātuṃ patatāṃ khe patatriṇām |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-3-l-1-note">KAZ02.9.34ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-3-l-1">KAZ02.9.34ab/ api śakyā gatir jñātuṃ patatāṃ khe patatriṇām | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-3-l-1-note">KAZ02.9.34ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-3-l-2">KAZ02.9.34cd/ na tu pracchanna.bhāvānāṃ yuktānāṃ caratāṃ gatiḥ || 34 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-3-l-2-note">KAZ02.9.34cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-3-l-2">KAZ02.9.34cd/ na tu pracchanna.bhāvānāṃ yuktānāṃ caratāṃ gatiḥ || 34 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-3-l-2-note">KAZ02.9.34cd/ ś</note>
                         </l>
                     </lg>
                     <lg xml:id="arthaśāstra-body-div-2-div-9-lg-4">
-                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-4-l-1">KAZ02.9.35ab/ āsrāvayec ca-upacitān viparyasyec ca karmasu |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-4-l-1-note">KAZ02.9.35ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-4-l-1">KAZ02.9.35ab/ āsrāvayec ca-upacitān viparyasyec ca karmasu | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-4-l-1-note">KAZ02.9.35ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-4-l-2">KAZ02.9.35cd/ yathā na bhakṣayanty arthaṃ bhakṣitaṃ nirvamanti vā || 35 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-4-l-2-note">KAZ02.9.35cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-4-l-2">KAZ02.9.35cd/ yathā na bhakṣayanty arthaṃ bhakṣitaṃ nirvamanti vā || 35 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-4-l-2-note">KAZ02.9.35cd/ ś</note>
                         </l>
                     </lg>
                     <lg xml:id="arthaśāstra-body-div-2-div-9-lg-5">
-                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-5-l-1">KAZ02.9.36ab/ na bhakṣayanti ye tv arthān nyāyato vardhayanti ca |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-5-l-1-note">KAZ02.9.36ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-5-l-1">KAZ02.9.36ab/ na bhakṣayanti ye tv arthān nyāyato vardhayanti ca | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-5-l-1-note">KAZ02.9.36ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-5-l-2">KAZ02.9.36cd/ nitya.adhikārāḥ kāryās te rājñaḥ priya.hite ratāḥ || 36 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-5-l-2-note">KAZ02.9.36cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-9-lg-5-l-2">KAZ02.9.36cd/ nitya.adhikārāḥ kāryās te rājñaḥ priya.hite ratāḥ || 36 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-9-lg-5-l-2-note">KAZ02.9.36cd/ ś</note>
                         </l>
                     </lg>
                 </div>
@@ -1429,9 +1428,9 @@
                     <p xml:id="arthaśāstra-body-div-2-div-10-p-3">KAZ02.10.03/ tasmād amātya.sampadā-upetaḥ sarva.samayavid āśu.granthaś cāru.akṣaro lekhana.vācana.samartho lekhakaḥ syāt | 3 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-10-p-4">KAZ02.10.04/ so 'vyagra.manā rājñaḥ sandeśaṃ śrutvā niścita.arthaṃ lekhaṃ vidadhyāt deśa.aiśvarya.vaṃśa.nāmadheya.upacāram īśvarasya, deśa.nāmadheya.upacāram anīśvarasya | 4 |</p>
                     <lg xml:id="arthaśāstra-body-div-2-div-10-lg-1">
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-1-l-1">KAZ02.10.05ab/ jātiṃ kulaṃ sthāna.vayaḥ.śrutāni karma.ṛddhi.śīlāny atha deśa.kālau |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-1-l-1-note">KAZ02.10.05ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-1-l-1">KAZ02.10.05ab/ jātiṃ kulaṃ sthāna.vayaḥ.śrutāni karma.ṛddhi.śīlāny atha deśa.kālau | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-1-l-1-note">KAZ02.10.05ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-1-l-2">KAZ02.10.05cd/ yauna.anubandhaṃ ca samīkṣya kārye lekhaṃ vidadhyāt puruṣa.anurūpam || 5 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-1-l-2-note">KAZ02.10.05cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-1-l-2">KAZ02.10.05cd/ yauna.anubandhaṃ ca samīkṣya kārye lekhaṃ vidadhyāt puruṣa.anurūpam || 5 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-1-l-2-note">KAZ02.10.05cd/ ś</note>
                         </l>
                     </lg>
                     <pb n="49" xml:id="arthaśāstra-body-div-2-div-10-pb-1"/>
@@ -1453,15 +1452,15 @@
                     <p xml:id="arthaśāstra-body-div-2-div-10-p-20">KAZ02.10.21/ eka.pada.avaras tri.pada.paraḥ para.pada.artha.anuparodhena vargaḥ kāryaḥ | 21 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-10-p-21">KAZ02.10.22/ lekha.parisaṃharaṇa.artha iti.śabdo vācikam asya-iti ca | 22 |</p>
                     <lg xml:id="arthaśāstra-body-div-2-div-10-lg-2">
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-2-l-1">KAZ02.10.23ab/ nindā praśaṃsā pṛcchā ca tathā-ākhyānam atha-arthanā |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-2-l-1-note">KAZ02.10.23ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-2-l-1">KAZ02.10.23ab/ nindā praśaṃsā pṛcchā ca tathā-ākhyānam atha-arthanā | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-2-l-1-note">KAZ02.10.23ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-2-l-2">KAZ02.10.23cd/ pratyākhyānam upālambhaḥ pratiṣedho 'tha codanā || 23 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-2-l-2-note">KAZ02.10.23cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-2-l-2">KAZ02.10.23cd/ pratyākhyānam upālambhaḥ pratiṣedho 'tha codanā || 23 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-2-l-2-note">KAZ02.10.23cd/ ś</note>
                         </l>
                     </lg>
                     <lg xml:id="arthaśāstra-body-div-2-div-10-lg-3">
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-3-l-1">KAZ02.10.24ab/ sāntvam abhyupapattiś ca bhartsana.anunayau tathā |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-3-l-1-note">KAZ02.10.24ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-3-l-1">KAZ02.10.24ab/ sāntvam abhyupapattiś ca bhartsana.anunayau tathā | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-3-l-1-note">KAZ02.10.24ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-3-l-2">KAZ02.10.24cd/ eteṣv arthāḥ pravartante trayodaśasu lekhajāḥ || 24 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-3-l-2-note">KAZ02.10.24cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-3-l-2">KAZ02.10.24cd/ eteṣv arthāḥ pravartante trayodaśasu lekhajāḥ || 24 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-3-l-2-note">KAZ02.10.24cd/ ś</note>
                         </l>
                     </lg>
                     <p xml:id="arthaśāstra-body-div-2-div-10-p-22">KAZ02.10.25/ tatra-abhijana.śarīra.karmaṇāṃ doṣa.vacanaṃ nindā | 25 |</p>
@@ -1478,56 +1477,56 @@
                     <p xml:id="arthaśāstra-body-div-2-div-10-p-33">KAZ02.10.36/ sadoṣam āyati.pradarśanam abhibhartsanam | 36 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-10-p-34">KAZ02.10.37/ anunayas trividho 'rtha.kṛtāv atikrame puruṣa.ādi.vyasane ca-iti | 37 |</p>
                     <lg xml:id="arthaśāstra-body-div-2-div-10-lg-4">
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-4-l-1">KAZ02.10.38ab/ prajñāpana.ājñā.paridāna.lekhās tathā parīhāra.nisṛṣṭi.lekhau |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-4-l-1-note">KAZ02.10.38ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-4-l-1">KAZ02.10.38ab/ prajñāpana.ājñā.paridāna.lekhās tathā parīhāra.nisṛṣṭi.lekhau | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-4-l-1-note">KAZ02.10.38ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-4-l-2">KAZ02.10.38cd/ prāvṛttikaś ca pratilekha eva sarvatragaś ca-iti hi śāsanāni || 38 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-4-l-2-note">KAZ02.10.38cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-4-l-2">KAZ02.10.38cd/ prāvṛttikaś ca pratilekha eva sarvatragaś ca-iti hi śāsanāni || 38 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-4-l-2-note">KAZ02.10.38cd/ ś</note>
                         </l>
                     </lg>
                     <pb n="50" xml:id="arthaśāstra-body-div-2-div-10-pb-2"/>
                     <lg xml:id="arthaśāstra-body-div-2-div-10-lg-5">
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-5-l-1">KAZ02.10.39ab/ anena vijñāpitam evam āha tad dīyatāṃ ced yadi tattvam asti |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-5-l-1-note">KAZ02.10.39ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-5-l-1">KAZ02.10.39ab/ anena vijñāpitam evam āha tad dīyatāṃ ced yadi tattvam asti | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-5-l-1-note">KAZ02.10.39ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-5-l-2">KAZ02.10.39cd/ rājñaḥ samīpe vara.kāram āha prajñāpanā-eṣā vividhā-upadiṣṭā || 39 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-5-l-2-note">KAZ02.10.39cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-5-l-2">KAZ02.10.39cd/ rājñaḥ samīpe vara.kāram āha prajñāpanā-eṣā vividhā-upadiṣṭā || 39 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-5-l-2-note">KAZ02.10.39cd/ ś</note>
                         </l>
                     </lg>
                     <lg xml:id="arthaśāstra-body-div-2-div-10-lg-6">
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-6-l-1">KAZ02.10.40ab/ bhartur ājñā bhaved yatra nigraha.anugrahau prati |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-6-l-1-note">KAZ02.10.40ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-6-l-1">KAZ02.10.40ab/ bhartur ājñā bhaved yatra nigraha.anugrahau prati | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-6-l-1-note">KAZ02.10.40ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-6-l-2">KAZ02.10.40cd/ viśeṣeṇa tu bhṛtyeṣu tad.ājñā.lekha.lakṣaṇam || 40 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-6-l-2-note">KAZ02.10.40cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-6-l-2">KAZ02.10.40cd/ viśeṣeṇa tu bhṛtyeṣu tad.ājñā.lekha.lakṣaṇam || 40 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-6-l-2-note">KAZ02.10.40cd/ ś</note>
                         </l>
                     </lg>
                     <lg xml:id="arthaśāstra-body-div-2-div-10-lg-7">
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-7-l-1">KAZ02.10.41ab/ yathā.arha.guṇa.samyuktā pūjā yatra-upalakṣyate |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-7-l-1-note">KAZ02.10.41ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-7-l-1">KAZ02.10.41ab/ yathā.arha.guṇa.samyuktā pūjā yatra-upalakṣyate | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-7-l-1-note">KAZ02.10.41ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-7-l-2">KAZ02.10.41cd/ apy ādhau paridāne vā bhavatas tāv upagrahau || 41 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-7-l-2-note">KAZ02.10.41cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-7-l-2">KAZ02.10.41cd/ apy ādhau paridāne vā bhavatas tāv upagrahau || 41 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-7-l-2-note">KAZ02.10.41cd/ ś</note>
                         </l>
                     </lg>
                     <lg xml:id="arthaśāstra-body-div-2-div-10-lg-8">
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-8-l-1">KAZ02.10.42ab/ jāter viśeṣeṣu pareṣu caiva grāmeṣu deśeṣu ca teṣu teṣu |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-8-l-1-note">KAZ02.10.42ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-8-l-1">KAZ02.10.42ab/ jāter viśeṣeṣu pareṣu caiva grāmeṣu deśeṣu ca teṣu teṣu | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-8-l-1-note">KAZ02.10.42ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-8-l-2">KAZ02.10.42cd/ anugraho yo nṛpter nideśāt taj.jñaḥ parīhāra iti vyavasyet || 42 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-8-l-2-note">KAZ02.10.42cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-8-l-2">KAZ02.10.42cd/ anugraho yo nṛpter nideśāt taj.jñaḥ parīhāra iti vyavasyet || 42 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-8-l-2-note">KAZ02.10.42cd/ ś</note>
                         </l>
                     </lg>
                     <lg xml:id="arthaśāstra-body-div-2-div-10-lg-9">
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-9-l-1">KAZ02.10.43ab/ nisṛṣṭisthā-āpanā kārya.karaṇe vacane tathā |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-9-l-1-note">KAZ02.10.43ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-9-l-1">KAZ02.10.43ab/ nisṛṣṭisthā-āpanā kārya.karaṇe vacane tathā | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-9-l-1-note">KAZ02.10.43ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-9-l-2">KAZ02.10.43cd/ eṣa vācika.lekhaḥ syād bhaven naisṛṣṭiko 'pi vā || 43 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-9-l-2-note">KAZ02.10.43cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-9-l-2">KAZ02.10.43cd/ eṣa vācika.lekhaḥ syād bhaven naisṛṣṭiko 'pi vā || 43 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-9-l-2-note">KAZ02.10.43cd/ ś</note>
                         </l>
                     </lg>
                     <lg xml:id="arthaśāstra-body-div-2-div-10-lg-10">
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-10-l-1">KAZ02.10.44ab/ vividhāṃ daiva.samyuktāṃ tattvajāṃ caiva mānuṣīm |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-10-l-1-note">KAZ02.10.44ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-10-l-1">KAZ02.10.44ab/ vividhāṃ daiva.samyuktāṃ tattvajāṃ caiva mānuṣīm | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-10-l-1-note">KAZ02.10.44ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-10-l-2">KAZ02.10.44cd/ dvi.vidhāṃ tāṃ vyavasyanti pravṛttiṃ śāsanaṃ prati || 44 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-10-l-2-note">KAZ02.10.44cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-10-l-2">KAZ02.10.44cd/ dvi.vidhāṃ tāṃ vyavasyanti pravṛttiṃ śāsanaṃ prati || 44 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-10-l-2-note">KAZ02.10.44cd/ ś</note>
                         </l>
                     </lg>
                     <lg xml:id="arthaśāstra-body-div-2-div-10-lg-11">
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-11-l-1">KAZ02.10.45ab/ dṛṣṭvā lekhaṃ yathā.tattvaṃ tataḥ pratyanubhāṣya ca |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-11-l-1-note">KAZ02.10.45ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-11-l-1">KAZ02.10.45ab/ dṛṣṭvā lekhaṃ yathā.tattvaṃ tataḥ pratyanubhāṣya ca | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-11-l-1-note">KAZ02.10.45ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-11-l-2">KAZ02.10.45cd/ pratilekho bhavet kāryo yathā rāja.vacas tathā || 45 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-11-l-2-note">KAZ02.10.45cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-11-l-2">KAZ02.10.45cd/ pratilekho bhavet kāryo yathā rāja.vacas tathā || 45 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-11-l-2-note">KAZ02.10.45cd/ ś</note>
                         </l>
                     </lg>
                     <lg xml:id="arthaśāstra-body-div-2-div-10-lg-12">
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-12-l-1">KAZ02.10.46ab/ yatra-īśvarāṃś ca-adhikṛtāṃś ca rājā rakṣā.upakārau pathika.artham āha |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-12-l-1-note">KAZ02.10.46ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-12-l-1">KAZ02.10.46ab/ yatra-īśvarāṃś ca-adhikṛtāṃś ca rājā rakṣā.upakārau pathika.artham āha | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-12-l-1-note">KAZ02.10.46ab/ ś</note>
                         </l>
                         <l xml:id="arthaśāstra-body-div-2-div-10-lg-12-l-2">KAZ02.10.46cd/ sarvatrago nāma bhavet sa mārge deśe ca sarvatra ca veditavyaḥ || 46 ||</l>
                     </lg>
@@ -1536,7 +1535,7 @@
                     <p xml:id="arthaśāstra-body-div-2-div-10-p-37">KAZ02.10.49/ tatra-abhijana.śarīra.karma.prakṛti.śruta.dravya.ādīnāṃ guṇa.grahaṇaṃ praśaṃsā stutir guṇa.saṅkīrtanam | 49 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-10-p-38">KAZ02.10.50/ jñāti.yauna.maukha.srauva.kula.hṛdaya.mitra.saṅkīrtanaṃ sambandha.upākhyānam | 50 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-10-p-39">KAZ02.10.51/ sva.pakṣa.para.pakṣayor anyonya.upakāra.saṅkīrtanaṃ paraspara.upakāra.sandarśanam | 51 |</p>
-                    <p xml:id="arthaśāstra-body-div-2-div-10-p-40">KAZ02.10.52/ "asminn evaṃ kṛta idam āvayor bhavati" ity āśā.jananam āyati.pradarśa-<pb n="51" xml:id="arthaśāstra-body-div-2-div-10-p-40-pb"/>nam | 52 |</p>
+                    <p xml:id="arthaśāstra-body-div-2-div-10-p-40">KAZ02.10.52/ "asminn evaṃ kṛta idam āvayor bhavati" ity āśā.jananam āyati.pradarśa- <pb n="51" xml:id="arthaśāstra-body-div-2-div-10-p-40-pb"/>nam | 52 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-10-p-41">KAZ02.10.53/ "yo 'haṃ sa bhavān, yan mama dravyaṃ tad bhavatā sva.kṛtyeṣu prayojyatām" ity ātma.upanidhānam | iti | 53 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-10-p-42">KAZ02.10.54/ upapradānam artha.upakāraḥ | 54 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-10-p-43">KAZ02.10.55/ śaṅkā.jananaṃ nirbhartsanaṃ ca bhedaḥ | 55 |</p>
@@ -1548,9 +1547,9 @@
                     <p xml:id="arthaśāstra-body-div-2-div-10-p-49">KAZ02.10.61/ liṅga.vacana.kāla.kārakāṇām anyathā.prayogo 'paśabdaḥ | 61 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-10-p-50">KAZ02.10.62/ avarge varga.karaṇaṃ ca-avarga.kriyā guṇa.viparyāsaḥ samplavaḥ | iti | 62 |</p>
                     <lg xml:id="arthaśāstra-body-div-2-div-10-lg-13">
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-13-l-1">KAZ02.10.63ab/ sarva.śāstrāṇy anukramya prayogam upalabhya ca |<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-13-l-1-note">KAZ02.10.63ab/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-13-l-1">KAZ02.10.63ab/ sarva.śāstrāṇy anukramya prayogam upalabhya ca | <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-13-l-1-note">KAZ02.10.63ab/ ś</note>
                         </l>
-                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-13-l-2">KAZ02.10.63cd/ kauṭilyena nara.indra.arthe śāsanasya vidhiḥ kṛtaḥ || 63 ||<note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-13-l-2-note">KAZ02.10.63cd/ ś</note>
+                        <l xml:id="arthaśāstra-body-div-2-div-10-lg-13-l-2">KAZ02.10.63cd/ kauṭilyena nara.indra.arthe śāsanasya vidhiḥ kṛtaḥ || 63 || <note resp="editor" place="bottom" xml:id="arthaśāstra-body-div-2-div-10-lg-13-l-2-note">KAZ02.10.63cd/ ś</note>
                         </l>
                     </lg>
                 </div>
@@ -1686,7 +1685,7 @@
                     <note place="margin" xml:id="arthaśāstra-body-div-2-div-12-note">[&#160;K tr. 121 :: K2 tr. 105</note>
                     <p xml:id="arthaśāstra-body-div-2-div-12-p-1">KAZ02.12.01/ ākara.adhyakṣaḥ śulba.dhātu.śāstra.rasa.pāka.maṇi.rāgajñas tajjña.sakho vā taj.jāta.karma.kara.upakaraṇa.sampannaḥ kiṭṭa.mūṣa.aṅgāra.bhasma.liṅgaṃ vā-ākaraṃ bhūta.pūrvam abhuta.pūrvaṃ vā bhūmi.prastara.rasa.dhātum atyartha.varṇa.gauravam ugra.gandha.rasaṃ parīkṣeta | 1 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-12-p-2">KAZ02.12.02/ parvatānām abhijñāta.uddeśānāṃ bila.guha.upatyaka.ālayana.gūḍha.khāteṣv antaḥ prasyandino jambū.cūta.tāla.phala.pakva.haridrā.bheda.guḍa(gūḍa?).hari.tāla.- manaḥ.śilā.kṣaudra.hiṅguluka.puṇḍarīka.śuka.mayūra.pattra.varṇāḥ savarṇa.udaka.oṣadhi.paryantāś cikkaṇā viśadā bhārikāś ca rasāḥ kāñcanikāḥ | 2 |</p>
-                    <p xml:id="arthaśāstra-body-div-2-div-12-p-3">KAZ02.12.03/ apsu<pb n="56" xml:id="arthaśāstra-body-div-2-div-12-p-3-pb"/>niṣṭhyūtās tailavad.visarpiṇaḥ ṣaṅka.mala.grāhiṇaś ca tāmra.rūpyayoḥ śatād upari veddhāraḥ | 3 |</p>
+                    <p xml:id="arthaśāstra-body-div-2-div-12-p-3">KAZ02.12.03/ apsu <pb n="56" xml:id="arthaśāstra-body-div-2-div-12-p-3-pb"/> niṣṭhyūtās tailavad.visarpiṇaḥ ṣaṅka.mala.grāhiṇaś ca tāmra.rūpyayoḥ śatād upari veddhāraḥ | 3 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-12-p-4">KAZ02.12.04/ tat.pratirūpakam ugra.gandha.rasaṃ śilā.jatu vidyāt | 4 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-12-p-5">KAZ02.12.05/ pītakās.tāmrakās tāmra.pītakā vā bhūmi.prastara.dhātavo bhinnā nīla.rājīvanto mudga.māṣa.kṛsara.varṇā vā dadhi.bindu.piṇḍa.citrā haridrā.harītakī.padma.pattra.śaivala.yakṛt.plīha.anavadya.varṇā bhinnāś cuñcu.vāluka.ālekhā.bindu.svastikavantaḥ sugulikā arciṣmantas tāpyamānā na bhidyante bahu.phena.dhūmāś ca suvarṇa.dhātavaḥ pratīvāpa.arthās tāmra.rūpya.vedhanāḥ | 5 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-12-p-6">KAZ02.12.06/ śaṅkha.karpūra.sphaṭika.nava.nīta.kapota.pārāvata.vimalaka.mayūra.- grīvā.varṇāḥ sasyaka.gomedaka.guḍa.matsyaṇḍikā.varṇāḥ kovidāra.padma.pāṭalīka.lāya.kṣauma.atasī.puṣpa.varṇāḥ sa-sīsāḥ sa.añjanā visrā bhinnāḥ śveta.ābhāḥ kṛṣṇāḥ kṛṣṇa.ābhāḥ śvetāḥ sarve vā lekhā.bindu.citrā mṛdavo dhmāyamānā na sphuṭanti bahu.phena.dhūmāś ca rūpya.dhātavaḥ | 6 |</p>
@@ -2293,7 +2292,7 @@
                         <l xml:id="arthaśāstra-body-div-2-div-24-lg-3-l-1">KAZ02.24.26ab/ kārpāsa.sāraṃ nirmokaṃ sarpasya ca samāharet |</l>
                         <l xml:id="arthaśāstra-body-div-2-div-24-lg-3-l-2">KAZ02.24.26cd/ na sarpās tatra tiṣṭhanti dhūmo yatra-eṣa tiṣṭhati || 26 ||</l>
                     </lg>
-                    <p xml:id="arthaśāstra-body-div-2-div-24-p-24">KAZ02.24.27/ sarva.jījānāṃ tu prathama.vāpe suvarṇa.udaka.samplutāṃ pūrva.muṣṭiṃ vāpayed, amuṃ ca mantraṃ<pb n="78" xml:id="arthaśāstra-body-div-2-div-24-p-24-pb"/>brūyāt - "prajāpataye kāśyapāya devāya ca namaḥ sadā | sītā me ṛdhyatāṃ devī bījeṣu ca dhaneṣu ca | 27 |</p>
+                    <p xml:id="arthaśāstra-body-div-2-div-24-p-24">KAZ02.24.27/ sarva.jījānāṃ tu prathama.vāpe suvarṇa.udaka.samplutāṃ pūrva.muṣṭiṃ vāpayed, amuṃ ca mantraṃ <pb n="78" xml:id="arthaśāstra-body-div-2-div-24-p-24-pb"/> brūyāt - "prajāpataye kāśyapāya devāya ca namaḥ sadā | sītā me ṛdhyatāṃ devī bījeṣu ca dhaneṣu ca | 27 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-24-p-25">KAZ02.24.28/ ṣaṇḍa.vāṭa.go.pālaka.dāsa.karma.karebhyo yathā.puruṣa.parivāpaṃ bhaktaṃ kuryāt, sa-pāda.paṇikaṃ ca māsaṃ dadyāt | 28 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-24-p-26">KAZ02.24.29/ karma.anurūpaṃ kārubhyo bhakta.vetanam | 29 |</p>
                     <p xml:id="arthaśāstra-body-div-2-div-24-p-27">KAZ02.24.30/ praśīrṇaṃ ca puṣpa.phalaṃ deva.kārya.arthaṃ vrīhi.yavam āgrayaṇa.arthaṃ śrotriyās tapasvinaś ca-āhareyuḥ, rāśi.mūlam uñcha.vṛttayaḥ | 30 |</p>
@@ -3174,7 +3173,7 @@
                     <p xml:id="arthaśāstra-body-div-3-div-9-p-20">KAZ03.9.20/ kāraṇa.ādāne prayāsam ājīvaṃ ca parisaṅkhyāya bandhaṃ dadyāt | 20 | iti kṣetra.vivādaḥ |</p>
                     <p xml:id="arthaśāstra-body-div-3-div-9-p-21">KAZ03.9.21/ maryādā.apaharaṇe pūrvaḥ sāhasa.daṇḍaḥ | 21 |</p>
                     <p xml:id="arthaśāstra-body-div-3-div-9-p-22">KAZ03.9.22/ maryādā.bhede catur.viṃśati.paṇaḥ | 22 |</p>
-                    <p xml:id="arthaśāstra-body-div-3-div-9-p-23">KAZ03.9.23/ tena tapo.vana.vivīta.mahā.patha.śmaśāna.deva.kula.yajana.puṇya.sthāna.- vivādā vyākhyātāḥ | 23 |<pb n="110" xml:id="arthaśāstra-body-div-3-div-9-p-23-pb"/>iti maryādā.sthāpanam |</p>
+                    <p xml:id="arthaśāstra-body-div-3-div-9-p-23">KAZ03.9.23/ tena tapo.vana.vivīta.mahā.patha.śmaśāna.deva.kula.yajana.puṇya.sthāna.- vivādā vyākhyātāḥ | 23 | <pb n="110" xml:id="arthaśāstra-body-div-3-div-9-p-23-pb"/> iti maryādā.sthāpanam |</p>
                     <p xml:id="arthaśāstra-body-div-3-div-9-p-24">KAZ03.9.24/ sarva eva vivādāḥ sāmanta.pratyayāḥ | 24 |</p>
                     <p xml:id="arthaśāstra-body-div-3-div-9-p-25">KAZ03.9.25/ vivīta.sthala.kedāra.ṣaṇḍa.khala.veśma.vāhana.koṣṭhānāṃ pūrvaṃ.pūrvam ābādhaṃ saheta | 25 |</p>
                     <p xml:id="arthaśāstra-body-div-3-div-9-p-26">KAZ03.9.26/ brahma.soma.araṇya.deva.yajana.puṇya.sthāna.varjāḥ sthala.pradeśāḥ | 26 |</p>
@@ -3387,7 +3386,7 @@
                     <p xml:id="arthaśāstra-body-div-3-div-13-p-11">KAZ03.13.11/ dhātrīm āhitikāṃ vā-akāmāṃ sva.vaśāṃ gacchataḥ pūrvaḥ sāhasa.daṇḍaḥ, para.vaśāṃ madhyamaḥ | 11 |</p>
                     <p xml:id="arthaśāstra-body-div-3-div-13-p-12">KAZ03.13.12/ kanyām āhitikāṃ vā svayam anyena vā duṣayato mūlya.nāśaḥ śulkaṃ tad.dvu.guṇaś ca daṇḍaḥ | 12 |</p>
                     <p xml:id="arthaśāstra-body-div-3-div-13-p-13">KAZ03.13.13/ ātma.vikrayiṇaḥ prajām āryāṃ vidyāt | 13 |</p>
-                    <p xml:id="arthaśāstra-body-div-3-div-13-p-14">KAZ03.13.14/ ātma.adhigataṃ svāmi.karma.aviruddhaṃ labheta,<pb n="118" xml:id="arthaśāstra-body-div-3-div-13-p-14-pb"/>pitryaṃ ca dāyam | 14 |</p>
+                    <p xml:id="arthaśāstra-body-div-3-div-13-p-14">KAZ03.13.14/ ātma.adhigataṃ svāmi.karma.aviruddhaṃ labheta, <pb n="118" xml:id="arthaśāstra-body-div-3-div-13-p-14-pb"/> pitryaṃ ca dāyam | 14 |</p>
                     <p xml:id="arthaśāstra-body-div-3-div-13-p-15">KAZ03.13.15/ mūlyena ca-āryatvaṃ gacchet | 15 |</p>
                     <p xml:id="arthaśāstra-body-div-3-div-13-p-16">KAZ03.13.16/ tena-udara.dāsa.āhitakau vyākhyātau | 16 |</p>
                     <p xml:id="arthaśāstra-body-div-3-div-13-p-17">KAZ03.13.17/ prakṣepa.anurūpaś ca-asya niṣkrayaḥ | 17 |</p>
@@ -3606,7 +3605,7 @@
                     <p xml:id="arthaśāstra-body-div-3-div-19-p-11">KAZ03.19.11/ hastena-avagūrṇe tri.paṇa.avaro dvādaśa.paṇa.paro daṇḍaḥ, pādena dvi.guṇaḥ, duḥkha.utpādanena dravyeṇa pūrvaḥ sāhasa.daṇḍaḥ, prāṇa.ābādhikena madhyamaḥ | 11 |</p>
                     <p xml:id="arthaśāstra-body-div-3-div-19-p-12">KAZ03.19.12/ kāṣṭha.loṣṭa.pāṣāṇa.loha.daṇḍa.rajju.dravyāṇām anyatamena duḥkham aśoṇitam utpādayataś caturviṃśati.paṇo daṇḍaḥ, śoṇita.utpādane dvi.guṇaḥ, anyatra duṣṭa.śoṇitāt | 12 |</p>
                     <p xml:id="arthaśāstra-body-div-3-div-19-p-13">KAZ03.19.13/ mṛta.kalpam aśoṇitaṃ ghnato hasta.pāda.pārañcikaṃ vā kurvataḥ pūrvaḥ sāhasa.daṇḍaḥ, pāṇi.pāda.danta.bhaṅge karṇa.nāsa.ācchedane vraṇa.vidāraṇe cca, anyatra duṣṭa.vraṇebhyaḥ | 13 |</p>
-                    <p xml:id="arthaśāstra-body-div-3-div-19-p-14">KAZ03.19.14/ sakthi.grīva.ābhañjane netra.bhedane<pb n="126" xml:id="arthaśāstra-body-div-3-div-19-p-14-pb"/>vā vākya.ceṣṭā.bhojana.uparodheṣu ca madhyamaḥ sāhasa.daṇḍaḥ samutthāna.vyayaś ca | 14 |</p>
+                    <p xml:id="arthaśāstra-body-div-3-div-19-p-14">KAZ03.19.14/ sakthi.grīva.ābhañjane netra.bhedane <pb n="126" xml:id="arthaśāstra-body-div-3-div-19-p-14-pb"/> vā vākya.ceṣṭā.bhojana.uparodheṣu ca madhyamaḥ sāhasa.daṇḍaḥ samutthāna.vyayaś ca | 14 |</p>
                     <p xml:id="arthaśāstra-body-div-3-div-19-p-15">KAZ03.19.15/ vipattau kaṇṭaka.śodhanāya nīyeta | 15 |</p>
                     <p xml:id="arthaśāstra-body-div-3-div-19-p-16">KAZ03.19.16/ mahā.janasya-ekaṃ ghnataḥ pratyekaṃ dvi.guṇo daṇḍaḥ | 16 |</p>
                     <p xml:id="arthaśāstra-body-div-3-div-19-p-17">KAZ03.19.17/ "paryuṣitaḥ kalaho 'nupraveśo vā na-abhiyojyaḥ" ity ācāryāḥ | 17 |</p>
@@ -3841,7 +3840,7 @@
                     <note place="margin" xml:id="arthaśāstra-body-div-4-div-4-note">[&#160;K tr. 307 :: K2 tr. 265</note>
                     <p xml:id="arthaśāstra-body-div-4-div-4-p-1">KAZ04.4.01/ samāhartṛ.praṇidhau jana.pada.rakṣaṇam uktam | 1 |</p>
                     <p xml:id="arthaśāstra-body-div-4-div-4-p-2">KAZ04.4.02/ tasya kaṇṭaka.śodhanaṃ vakṣyāmaḥ | 2 |</p>
-                    <p xml:id="arthaśāstra-body-div-4-div-4-p-3">KAZ04.4.03/ samāhartā jana.pade siddha.tāpasa.pravrajita.cakra.cara.cāraṇa.kuhaka.pracchandaka.- kārtāntika.naimittika.mauhūrtika.cikitsaka.unmatta.mūka.badhira.- jaḍa.andha.vaidehaka.kāru.śilpi.kuśīlava.veśa.śauṇḍi-<pb n="135" xml:id="arthaśāstra-body-div-4-div-4-p-3-pb"/>ka.āpūpika.pākva.māṃsika.audanika.vyañjanān praṇidadhyāt | 3 |</p>
+                    <p xml:id="arthaśāstra-body-div-4-div-4-p-3">KAZ04.4.03/ samāhartā jana.pade siddha.tāpasa.pravrajita.cakra.cara.cāraṇa.kuhaka.pracchandaka.- kārtāntika.naimittika.mauhūrtika.cikitsaka.unmatta.mūka.badhira.- jaḍa.andha.vaidehaka.kāru.śilpi.kuśīlava.veśa.śauṇḍi-<pb n="135" xml:id="arthaśāstra-body-div-4-div-4-p-3-pb"/> ka.āpūpika.pākva.māṃsika.audanika.vyañjanān praṇidadhyāt | 3 |</p>
                     <p xml:id="arthaśāstra-body-div-4-div-4-p-4">KAZ04.4.04/ te grāmāṇām adhyakṣāṇāṃ ca śauca.āśaucaṃ vidyuḥ | 4 |</p>
                     <p xml:id="arthaśāstra-body-div-4-div-4-p-5">KAZ04.4.05/ yaṃ ca-atra gūḍha.ājīvinaṃ śaṅketa taṃ sattriṇā-apasarpayet | 5 |</p>
                     <p xml:id="arthaśāstra-body-div-4-div-4-p-6">KAZ04.4.06/ dharmasthaṃ viśvāsa.upagataṃ sattrī brūyāt - "asau me bandhur abhiyuktaḥ, tasya-ayam anarthaḥ pratikriyatām, ayaṃ ca-arthaḥ pratigṛhyatām" iti | 6 |</p>
@@ -3915,7 +3914,7 @@
                     <p xml:id="arthaśāstra-body-div-4-div-6-p-17">KAZ04.6.09/ nāṣṭikaś cet tad eva pratisandadhyāt, yasyā pūrvo dīrghaś ca paribhogaḥ śucir vā deśas tasya dravyam iti vidyāt | 9 |</p>
                     <p xml:id="arthaśāstra-body-div-4-div-6-p-18">KAZ04.6.10/ catuṣpada.dvipadānām api hi rūpa.liṅga.sāmānyaṃ bhavati, kim aṅga punar eka.yoni.dravya.kartṛ.prasūtānāṃ kupya.ābharaṇa.bhāṇḍānām iti | 10 |</p>
                     <p xml:id="arthaśāstra-body-div-4-div-6-p-19">KAZ04.6.11/ sa ced brūyāt "yācitakam avakrītakam āhitakaṃ nikṣepam upanidhiṃ vaiyāvṛtya.karma vā-amuṣya" iti, tasya-apasāra.pratisandhānena mucyeta | 11 |</p>
-                    <p xml:id="arthaśāstra-body-div-4-div-6-p-20">KAZ04.6.12/ "na-evam" ity apasāro vā brūyāt,<pb n="138" xml:id="arthaśāstra-body-div-4-div-6-p-20-pb"/>rūpa.abhigṛhītaḥ parasya dāna.kāraṇam ātmanaḥ pratigraha.kāraṇam upaliṅganaṃ vā dāyaka.dāpaka.nibandhaka.pratigrāhaka.upadraṣṭṛbhir upaśrotṛbhir vā pratisamānayet | 12 |</p>
+                    <p xml:id="arthaśāstra-body-div-4-div-6-p-20">KAZ04.6.12/ "na-evam" ity apasāro vā brūyāt, <pb n="138" xml:id="arthaśāstra-body-div-4-div-6-p-20-pb"/> rūpa.abhigṛhītaḥ parasya dāna.kāraṇam ātmanaḥ pratigraha.kāraṇam upaliṅganaṃ vā dāyaka.dāpaka.nibandhaka.pratigrāhaka.upadraṣṭṛbhir upaśrotṛbhir vā pratisamānayet | 12 |</p>
                     <p xml:id="arthaśāstra-body-div-4-div-6-p-21">KAZ04.6.13/ ujjhita.pranaṣṭa.niṣpatita.upalabdhasya deśa.kāla.lābha.upaliṅganena śuddhiḥ | 13 |</p>
                     <p xml:id="arthaśāstra-body-div-4-div-6-p-22">KAZ04.6.14/ aśuddhas tac ca tāvac ca daṇḍaṃ dadyāt | 14 |</p>
                     <p xml:id="arthaśāstra-body-div-4-div-6-p-23">KAZ04.6.15/ anyathā steya.daṇḍaṃ bhajeta | 15 | iti rūpa.abhigrahaḥ |</p>
@@ -4859,7 +4858,7 @@
                     <p xml:id="arthaśāstra-body-div-7-div-4-p-7">KAZ07.4.07a/ yadā vā paśyet "parasya-apacaritāḥ kṣīṇā lubdhāḥ sva.cakra.stena.aṭavī.vyathitā vā prakṛtayaḥ svayam upajāpena vā mām eṣyanti, sampannā me vārttā, vipannā parasya, tasya prakṛtayo durbhikṣa.upahatā mām eṣyanti; vipannā me vārttā, sampannā parasya, -</p>
                     <p xml:id="arthaśāstra-body-div-7-div-4-p-8">KAZ07.4.07b/ taṃ me prakṛtayo na gamiṣyanti, vigṛhya ca-asya dhānya.paśu.hiraṇyāny āhariṣyāmi, sva.paṇya.upaghātīni vā para.paṇyāni nivartayiṣyāmi, -</p>
                     <p xml:id="arthaśāstra-body-div-7-div-4-p-9">KAZ07.4.07c/ para.vaṇik.pathād vā saravanti mām eṣyanti vigṛhīte, na-itaram, dūṣya.amitra.aṭavī.nigrahaṃ vā vigṛhīto na kariṣyati, tair eva vā vigrahaṃ prāpsyati, -</p>
-                    <p xml:id="arthaśāstra-body-div-7-div-4-p-10">KAZ07.4.07d/ mitraṃ me mitra.bhāvy abhiprayāto bahv.alpa.kālaṃ tanu.kṣaya.vyayam arthaṃ prāpsyati, guṇavatīm ādeyāṃ vā bhūmim, -</p>
+                    <p xml:id="arthaśāstra-body-div-7-div-4-p-10">KAZ07.4.07d/ mitraṃ me mitra.bhāvy abhiprayāto bahv.alpa.kālaṃ tanu.kṣaya.vyayam arthaṃ prāpsyati, guṇavatīm ādeyāṃ vā bhūmim, - </p>
                     <p xml:id="arthaśāstra-body-div-7-div-4-p-11">KAZ07.4.07e/ sarva.sandohena vā mām anādṛtya prayātu.kāmaḥ kathaṃ na yāyād" iti para.vṛddhi.pratighāta.arthaṃ pratāpa.arthaṃ ca vigṛhya-āsīta | 7 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-4-p-12">KAZ07.4.08/ "tam eva hi pratyāvṛtto grasate" ity ācāryāḥ | 8 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-4-p-13">KAZ07.4.09/ na-iti kauṭilyaḥ | 9 |</p>
@@ -4982,7 +4981,7 @@
                     <head xml:id="arthaśāstra-body-div-7-div-6-head">Chapter 6 (Sections 111; 112): March of two Allied Kings; Treaties with Stipulations, without Stipulations and with Deserters</head>
                     <note place="margin" xml:id="arthaśāstra-body-div-7-div-6-note">[&#160;K tr.391 :: K2 tr. 338</note>
                     <p xml:id="arthaśāstra-body-div-7-div-6-p-1">KAZ07.6.01/ vijigīṣur dvitīyāṃ prakṛtim evam atisandadhyāt | 1 |</p>
-                    <p xml:id="arthaśāstra-body-div-7-div-6-p-2">KAZ07.6.02/ sāmantaṃ saṃhita.prayāṇe yoja-<pb n="178" xml:id="arthaśāstra-body-div-7-div-6-p-2-pb"/>yet "tvam ito yāhi, aham ito yāsyāmi, samāno lābhaḥ" iti | 2 |</p>
+                    <p xml:id="arthaśāstra-body-div-7-div-6-p-2">KAZ07.6.02/ sāmantaṃ saṃhita.prayāṇe yoja-<pb n="178" xml:id="arthaśāstra-body-div-7-div-6-p-2-pb"/> yet "tvam ito yāhi, aham ito yāsyāmi, samāno lābhaḥ" iti | 2 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-6-p-3">KAZ07.6.03/ lābha.sāmye sandhiḥ, vaiṣamye vikramaḥ | 3 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-6-p-4">KAZ07.6.04/ sandhiḥ paripaṇitaś ca-aparipaṇitaś ca | 4 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-6-p-5">KAZ07.6.05/ "tvam etaṃ deśaṃ yāhi, aham imaṃ deśaṃ yāsyāmi" iti paripaṇita.deśaḥ | 5 |</p>
@@ -5159,7 +5158,7 @@
                     <p xml:id="arthaśāstra-body-div-7-div-9-p-20">KAZ07.9.20/ laghu.samuttham alpaṃ śreyaḥ | 20 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-9-p-21">KAZ07.9.21/ lagu.samuttham alpaṃ mitraṃ kārya.kālaṃ na-atipātayati daurbalyāc ca yathā.iṣṭa.bhogyaṃ bhavati, na-itarat prakṛṣṭa.bhaumam | 21 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-9-p-22">KAZ07.9.22/ vikṣipta.sainyam avaśya.sainyaṃ vā-iti "vikṣiptaṃ sainyaṃ śakyaṃ pratisaṃhartuṃ vaśyatvād" ity ācāryāḥ | 22 |</p>
-                    <p xml:id="arthaśāstra-body-div-7-div-9-p-23">KAZ07.9.23/ na-iti<pb n="185" xml:id="arthaśāstra-body-div-7-div-9-p-23-pb"/>kauṭilyaḥ | 23 |</p>
+                    <p xml:id="arthaśāstra-body-div-7-div-9-p-23">KAZ07.9.23/ na-iti <pb n="185" xml:id="arthaśāstra-body-div-7-div-9-p-23-pb"/> kauṭilyaḥ | 23 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-9-p-24">KAZ07.9.24/ avaśya.sainyaṃ śreyaḥ | 24 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-9-p-25">KAZ07.9.25/ avaśyaṃ hi śakyaṃ sāma.ādibhir vaśyaṃ kartum, na-itarat kārya.vyāsaktaṃ pratisaṃhartum | 25 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-9-p-26">KAZ07.9.26/ puruṣa.bhogaṃ hiraṇya.bhogaṃ vā mitram iti "puruṣa.bhogaṃ mitraṃ śreyaḥ, pruṣa.bhogaṃ mitraṃ pratāpa.karaṃ bhavati, yadā ca-uttiṣṭhate tadā kāryaṃ sādhayati" ity ācāryāḥ | 26 |</p>
@@ -5454,7 +5453,7 @@
                 <div n="14" type="chapter" xml:id="arthaśāstra-body-div-7-div-14">
                     <head xml:id="arthaśāstra-body-div-7-div-14-head">Chapter 14 (Section 118): Recoupment of Powers Become Weak</head>
                     <note place="margin" xml:id="arthaśāstra-body-div-7-div-14-note">[&#160;K tr. 423 :: K2 tr. 366</note>
-                    <p xml:id="arthaśāstra-body-div-7-div-14-p-1">KAZ07.14.01/ sāmavāyikair evam abhiyukto vijigīṣur yas teṣāṃ pradhānas taṃ brūyāt "tvayā me sandhiḥ,<pb n="194" xml:id="arthaśāstra-body-div-7-div-14-p-1-pb"/>idaṃ hiraṇyam, ahaṃ ca mitram, dvi.guṇā te vṛddhiḥ, na-arhasy ātma.kṣayeṇa mitra.mukhān amitrān vardhayitum, ete hi vṛddhās tvām eva paribhaviṣyanti" iti | 1 |</p>
+                    <p xml:id="arthaśāstra-body-div-7-div-14-p-1">KAZ07.14.01/ sāmavāyikair evam abhiyukto vijigīṣur yas teṣāṃ pradhānas taṃ brūyāt "tvayā me sandhiḥ, <pb n="194" xml:id="arthaśāstra-body-div-7-div-14-p-1-pb"/> idaṃ hiraṇyam, ahaṃ ca mitram, dvi.guṇā te vṛddhiḥ, na-arhasy ātma.kṣayeṇa mitra.mukhān amitrān vardhayitum, ete hi vṛddhās tvām eva paribhaviṣyanti" iti | 1 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-14-p-2">KAZ07.14.02/ bhedaṃ vā brūyāt "anapakāro yathā-aham etaiḥ sambhūya-abhiyuktas tathā tvām apy ete saṃhita.balāḥ svasthā vyasane vā-abhiyokṣyante, balaṃ hi cittaṃ vikaroti, tad eṣāṃ vighātaya" iti | 2 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-14-p-3">KAZ07.14.03/ bhinneṣu pradhānam upagṛhya hīneṣu vikramayet, hīnān anugrāhya vā pradhāne, yathā vā śreyo 'bhimanyeta tathā | 3 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-14-p-4">KAZ07.14.04/ vairaṃ vā parair grāhayitvā visaṃvādayet | 4 |</p>
@@ -5474,7 +5473,7 @@
                     <p xml:id="arthaśāstra-body-div-7-div-14-p-18">KAZ07.14.18/ prabhāva.hīnaḥ prakṛti.yoga.kṣema.siddhau yateta | 18 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-14-p-19">KAZ07.14.19/ jana.padaḥ sarva.karmaṇāṃ yoniḥ, tataḥ prabhāvaḥ | 19 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-14-p-20">KAZ07.14.20/ tasya sthānam ātmanaś ca-āpadi durgam | 20 |</p>
-                    <p xml:id="arthaśāstra-body-div-7-div-14-p-21">KAZ07.14.21/ setu.bandhaḥ sasyānāṃ<pb n="195" xml:id="arthaśāstra-body-div-7-div-14-p-21-pb"/>yoniḥ | 21 |</p>
+                    <p xml:id="arthaśāstra-body-div-7-div-14-p-21">KAZ07.14.21/ setu.bandhaḥ sasyānāṃ <pb n="195" xml:id="arthaśāstra-body-div-7-div-14-p-21-pb"/> yoniḥ | 21 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-14-p-22">KAZ07.14.22/ nitya.anuṣakto hi varṣa.guṇa.lābhaḥ setu.vāpeṣu | 22 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-14-p-23">KAZ07.14.23/ vaṇik.pathaḥ para.atisandhānasya yoniḥ | 23 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-14-p-24">KAZ07.14.24/ vaṇik.pathena hi daṇḍa.gūḍha.puruṣa.atinayanaṃ śastra.āvaraṇa.yāna.vāhana.krayaś ca kriyate, praveśo nirṇayanaṃ ca | 24 |</p>
@@ -5551,7 +5550,7 @@
                     <p xml:id="arthaśāstra-body-div-7-div-16-p-14">KAZ07.16.14/ yad amitram āsāraṃ ca-ubhayataḥ pratikaroti tad ubhayato.bhogi | 14 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-16-p-15">KAZ07.16.15/ yad amitra.āsāra.prativeśa.āṭavikān sarvataḥ pratikaroti tat sarvato.bhogi | 15 |</p>
                     <pb n="198" xml:id="arthaśāstra-body-div-7-div-16-pb"/>
-                    <p xml:id="arthaśāstra-body-div-7-div-16-p-16">KAZ07.16.16a/ pārṣṇi.grāhaś ca-āṭavikaḥ śatru.mukhyaḥ śatrur vā bhūmi.dāna.sādhyaḥ kaścid āsādyeta, nirguṇayā bhūmyā-enam upagrāhayet, apratisambaddhayā durgastham, nirupajīvyayā-āṭavikaṃ -</p>
+                    <p xml:id="arthaśāstra-body-div-7-div-16-p-16">KAZ07.16.16a/ pārṣṇi.grāhaś ca-āṭavikaḥ śatru.mukhyaḥ śatrur vā bhūmi.dāna.sādhyaḥ kaścid āsādyeta, nirguṇayā bhūmyā-enam upagrāhayet, apratisambaddhayā durgastham, nirupajīvyayā-āṭavikaṃ - </p>
                     <p xml:id="arthaśāstra-body-div-7-div-16-p-17">KAZ07.16.16b/ pratyādeyayā tat.kulīnaṃ śatroḥ, apacchinnayā śatror aparuddhaṃ nitya.amitrayā śreṇī.balam, balavat.sāmantayā saṃhata.balam, ubhābhyāṃ yuddhe pratilomam, -</p>
                     <p xml:id="arthaśāstra-body-div-7-div-16-p-18">KAZ07.16.16c/ alabdha.vyāyāmayā-utsāhinam, śūyayā-ari.pakṣīyam, karśitayā-apavāhitam, mahā.kṣaya.vyaya.niveśayā gata.pratyāgatam, anapāśrayayā pratyapasṛtam, pareṇa-anadhivāsyayā svayam eva bhartāram upagrāhayet | 16 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-16-p-19">KAZ07.16.17/ teṣāṃ mahā.upakāraṃ nirvikāraṃ ca-anuvartayet | 17 |</p>
@@ -5654,7 +5653,7 @@
                     <p xml:id="arthaśāstra-body-div-7-div-18-p-5">KAZ07.18.05/ madyamaś ced vijigīṣor mitraṃ mitra.bhāvi lipseta, mitrasya-ātmanaś ca mitrāṇy utthāpya madhyamāc ca mitrāṇi bhedayitvā mitraṃ trāyeta | 5 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-18-p-6">KAZ07.18.06/ maṇḍalaṃ vā protsāhayet "atipravṛddho 'yaṃ madhyamaḥ sarveṣāṃ no vināśāya-abhyutthitaḥ, sambhūya-asya yātrāṃ vihanāma" iti | 6 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-18-p-7">KAZ07.18.07/ tac cen maṇḍalam anugṛhṇīyāt, madhyama.avagraheṇa-ātmānam upabṛṃhayet | 7 |</p>
-                    <p xml:id="arthaśāstra-body-div-7-div-18-p-8">KAZ07.18.08/ na ced anugṛhṇīyāt, kośa.daṇḍābhyāṃ mitram anugṛhya ye madhyama.dveṣiṇo rājānaḥ paraspara.anugṛhītā vā bahavas tiṣṭheyuḥ,<pb n="202" xml:id="arthaśāstra-body-div-7-div-18-p-8-pb"/>eka.siddhau vā bahavaḥ sidhyeyuḥ, parasparād vā śaṅkitā na-uttiṣṭheran, teṣāṃ pradhānam ekam āsannaṃ vā sāma.dānābhyāṃ labheta | 8 |</p>
+                    <p xml:id="arthaśāstra-body-div-7-div-18-p-8">KAZ07.18.08/ na ced anugṛhṇīyāt, kośa.daṇḍābhyāṃ mitram anugṛhya ye madhyama.dveṣiṇo rājānaḥ paraspara.anugṛhītā vā bahavas tiṣṭheyuḥ, <pb n="202" xml:id="arthaśāstra-body-div-7-div-18-p-8-pb"/> eka.siddhau vā bahavaḥ sidhyeyuḥ, parasparād vā śaṅkitā na-uttiṣṭheran, teṣāṃ pradhānam ekam āsannaṃ vā sāma.dānābhyāṃ labheta | 8 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-18-p-9">KAZ07.18.09/ dvi.guṇo dvitīyaṃ tri.gunas tṛtīyam | 9 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-18-p-10">KAZ07.18.10/ evam abhyuccito madhyamam avagṛhṇīyāt | 10 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-18-p-11">KAZ07.18.11/ deśa.kāla.atipattau vā sandhāya madhyamena mitrasya sācivyaṃ kuryāt, dūṣyeṣu vā karma.sandhim | 11 |</p>
@@ -5676,7 +5675,7 @@
                     <p xml:id="arthaśāstra-body-div-7-div-18-p-27">KAZ07.18.27/ udāsīnaś cen madhyamaṃ lipseta, yataḥ śatrum atisandadhyān mitrasya-upakāraṃ kuryād udāsīnaṃ vā daṇḍa.upakāriṇaṃ labheta tataḥ pariṇameta | 27 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-18-p-28">KAZ07.18.28/ evam upabṛhya-ātmānam ari.prakṛtiṃ karśayen mitra.prakṛtiṃ ca-upagṛhṇīyāt | 28 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-18-p-29">KAZ07.18.29a/ saty apy amitra.bhāve tasya-anātmavān nitya.apakārī śatruḥ śatru.saṃhitaḥ pārṣṇi.grāho vā vyasanī yātavyo vyasane vā netur abhiyoktā ity ari.bhāvinaḥ, eka.artha.abhiprayātaḥ pṛthag.artha.abhiprayātaḥ sambhūya.yātrikaḥ saṃhita.prayāṇikaḥ sva.artha.abhiprayātaḥ sāmutthāyikaḥ kośa.daṇḍayor anyatarasya kretā vikretā vā dvaidhī.bhāvika iti mitra.bhāvinaḥ, -</p>
-                    <p xml:id="arthaśāstra-body-div-7-div-18-p-30">KAZ07.18.29b/ sāmanto balavataḥ<pb n="203" xml:id="arthaśāstra-body-div-7-div-18-p-30-pb"/>pratighāto 'ntardhiḥ prativeśo vā balavataḥ pārṣṇi.grāho vā svayam upanataḥ pratāpa.upanato vā daṇḍa.upanata iti bhṛtya.bhāvinaḥ sāmantāḥ | 29 |</p>
+                    <p xml:id="arthaśāstra-body-div-7-div-18-p-30">KAZ07.18.29b/ sāmanto balavataḥ <pb n="203" xml:id="arthaśāstra-body-div-7-div-18-p-30-pb"/> pratighāto 'ntardhiḥ prativeśo vā balavataḥ pārṣṇi.grāho vā svayam upanataḥ pratāpa.upanato vā daṇḍa.upanata iti bhṛtya.bhāvinaḥ sāmantāḥ | 29 |</p>
                     <p xml:id="arthaśāstra-body-div-7-div-18-p-31">KAZ07.18.30/ tair bhūmy.eka.antarā vyākhyātāḥ | 30 |</p>
                     <lg xml:id="arthaśāstra-body-div-7-div-18-lg-1">
                         <l xml:id="arthaśāstra-body-div-7-div-18-lg-1-l-1">KAZ07.18.31ab/ teṣāṃ śatru.virodhe yan mitram eka.arthatāṃ vrajet |</l>
@@ -5944,7 +5943,7 @@
                     <p xml:id="arthaśāstra-body-div-8-div-4-p-8">KAZ08.4.08/ tena marako vyākhyātaḥ | 8 |</p>
                     <p xml:id="arthaśāstra-body-div-8-div-4-p-9">KAZ08.4.09/ "kṣudraka.mukhya.kṣayayoḥ kṣudraka.kṣayaḥ karmaṇām ayoga.kṣemaṃ karoti, mukhya.kṣayaḥ karma.anuṣṭhāna.uparodha.dharmā" ity ācāryāḥ | 9 |</p>
                     <p xml:id="arthaśāstra-body-div-8-div-4-p-10">KAZ08.4.10/ na-iti kauṭilyaḥ | 10 |</p>
-                    <p xml:id="arthaśāstra-body-div-8-div-4-p-11">KAZ08.4.11/ śakyaḥ kṣudraka.kṣayaḥ pratisandhātuṃ<pb n="212" xml:id="arthaśāstra-body-div-8-div-4-p-11-pb"/>bāhulyāt kṣudrakāṇām, na mukhya.kṣayaḥ | 11 |</p>
+                    <p xml:id="arthaśāstra-body-div-8-div-4-p-11">KAZ08.4.11/ śakyaḥ kṣudraka.kṣayaḥ pratisandhātuṃ <pb n="212" xml:id="arthaśāstra-body-div-8-div-4-p-11-pb"/> bāhulyāt kṣudrakāṇām, na mukhya.kṣayaḥ | 11 |</p>
                     <p xml:id="arthaśāstra-body-div-8-div-4-p-12">KAZ08.4.12/ sahasreṣu hi mukhyo bhavaty eko na vā sattva.prajñā.ādhikyāt tad.āśrayatvāt kṣudrakāṇām iti | 12 |</p>
                     <p xml:id="arthaśāstra-body-div-8-div-4-p-13">KAZ08.4.13/ "sva.cakra.para.cakrayoḥ sva.cakram atimātrābhyāṃ daṇḍa.karābhyāṃ pīḍayaty aśakyaṃ ca vārayitum, para.cakraṃ tu śakyaṃ praiyoddhum upasāreṇa sandhinā vā mokṣayitum" ity ācāryāḥ | 13 |</p>
                     <p xml:id="arthaśāstra-body-div-8-div-4-p-14">KAZ08.4.14/ na-iti kauṭilyaḥ | 14 |</p>
@@ -7096,7 +7095,7 @@
                     <p xml:id="arthaśāstra-body-div-13-div-2-p-4">KAZ13.2.04/ pratipannaṃ brūyāt "sapta.rātram iha saputra.dāreṇa prekṣā.prahavaṇa.pūrvaṃ vastavyam" iti | 4 |</p>
                     <p xml:id="arthaśāstra-body-div-13-div-2-p-5">KAZ13.2.05/ vasantam avaskandeta | 5 |</p>
                     <p xml:id="arthaśāstra-body-div-13-div-2-p-6">KAZ13.2.06/ muṇḍo vā jaṭilo vā sthānika.vyañjanaḥ prabhūta.jaṭila.ante.vāsī vasta.śoṇita.digdhāṃ veṇu.śalākāṃ suvarṇa.cūrṇena-avalipya valmīke nidadhyād upajihvika.anusaraṇa.artham, svarṇa.nālikāṃ vā | 6 |</p>
-                    <p xml:id="arthaśāstra-body-div-13-div-2-p-7">KAZ13.2.07/ tataḥ sattrī rājñaḥ kathayet "asau siddhaḥ puṣpitaṃ nidhiṃ jānāti"<pb n="258" xml:id="arthaśāstra-body-div-13-div-2-p-7-pb"/>iti | 7 |</p>
+                    <p xml:id="arthaśāstra-body-div-13-div-2-p-7">KAZ13.2.07/ tataḥ sattrī rājñaḥ kathayet "asau siddhaḥ puṣpitaṃ nidhiṃ jānāti" <pb n="258" xml:id="arthaśāstra-body-div-13-div-2-p-7-pb"/> iti | 7 |</p>
                     <p xml:id="arthaśāstra-body-div-13-div-2-p-8">KAZ13.2.08/ sa rājñā pṛṣṭhaḥ "tathā" iti brūyāt, tac ca-abhijñānaṃ darśayet, bhūyo vā hiraṇyam antar.ādhāya | 8 |</p>
                     <p xml:id="arthaśāstra-body-div-13-div-2-p-9">KAZ13.2.09/ brūyāc ca-enaṃ "nāga.rakṣito 'yaṃ nidhiḥ praṇipāta.sādhyaḥ" iti | 9 |</p>
                     <p xml:id="arthaśāstra-body-div-13-div-2-p-10">KAZ13.2.10/ pratipannaṃ brūyāt "sapta.rātram" iti samānam | 10 |</p>
@@ -7184,7 +7183,7 @@
                     <p xml:id="arthaśāstra-body-div-13-div-3-p-18">KAZ13.3.18/ pratipannam abhisatkṛtya-āgatam avaskandena prakāśayuddhena vā śatruṇā ghātayet | 18 |</p>
                     <p xml:id="arthaśāstra-body-div-13-div-3-p-19">KAZ13.3.19/ abhiviśvāsana.arthaṃ bhūmi.dāna.putra.abhiṣeka.rakṣā.apadeśena vā grāhayet | 19 |</p>
                     <p xml:id="arthaśāstra-body-div-13-div-3-p-20">KAZ13.3.20/ aviṣahyam upāṃśu.daṇḍena vā ghātayet | 20 |</p>
-                    <p xml:id="arthaśāstra-body-div-13-div-3-p-21">KAZ13.3.21/ sa ced daṇḍaṃ dadyān na<pb n="261" xml:id="arthaśāstra-body-div-13-div-3-p-21-pb"/>svayam āgacchet tam asya vairiṇā ghātayet | 21 |</p>
+                    <p xml:id="arthaśāstra-body-div-13-div-3-p-21">KAZ13.3.21/ sa ced daṇḍaṃ dadyān na <pb n="261" xml:id="arthaśāstra-body-div-13-div-3-p-21-pb"/> svayam āgacchet tam asya vairiṇā ghātayet | 21 |</p>
                     <p xml:id="arthaśāstra-body-div-13-div-3-p-22">KAZ13.3.22/ daṇḍena vā prayātum icchen na vijigīṣuṇā tathā-apy enam ubhayataḥ.sampīḍanena ghātayet | 22 |</p>
                     <p xml:id="arthaśāstra-body-div-13-div-3-p-23">KAZ13.3.23/ aviśvasto vā pratyekaśo yātum icched rājya.eka.deśaṃ vā yātavyasya-ādātu.kāmaḥ, tathā-apy enaṃ vairiṇā sarva.sandohena vā ghātayet | 23 |</p>
                     <p xml:id="arthaśāstra-body-div-13-div-3-p-24">KAZ13.3.24/ vairiṇā vā saktasya daṇḍa.upanayena mūlam anyato hārayet | 24 |</p>
