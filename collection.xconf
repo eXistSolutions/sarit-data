@@ -4,18 +4,6 @@
         <lucene>
             <text qname="tei:p"/>
         </lucene>
-        <!-- Range indexes -->
-        <range>
-            <create qname="tei:bibl" type="xs:string" />
-            <create qname="tei:author" type="xs:string" />
-            <create qname="tei:title" type="xs:string" />
-            <create qname="tei:editor" type="xs:string" />
-            <create qname="tei:publisher" type="xs:string" />
-            <create qname="tei:pubPlace" type="xs:string" />
-            <create qname="tei:date" type="xs:string" />
-            <create qname="tei:l" type="xs:string" />
-            <create qname="tei:q" type="xs:string" />
-        </range>
         
         <ngram qname="tei:p"/> 
         <ngram qname="tei:head"/>
