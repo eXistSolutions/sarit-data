@@ -16,5 +16,18 @@
             <create qname="tei:l" type="xs:string" />
             <create qname="tei:q" type="xs:string" />
         </range>
+        
+        <ngram qname="tei:p"/> 
+        <ngram qname="tei:head"/>
+        <ngram qname="tei:lg"/>
+        <ngram qname="tei:trailer"/>
+        <ngram qname="tei:note"/>
+        <ngram qname="tei:list"/>
+        <ngram qname="tei:l"/>
+        <ngram qname="tei:quote"/>
+        <ngram qname="tei:table"/>
+        <ngram qname="tei:listApp"/>
+        <ngram qname="tei:listBibl"/>
+        <ngram qname="tei:cit"/>
     </index>
 </collection>
