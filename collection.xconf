@@ -1,9 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <collection xmlns="http://exist-db.org/collection-config/1.0">
     <index xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
         <lucene>
             <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer">
                 <param name="stopwords" type="org.apache.lucene.analysis.util.CharArraySet"/>
             </analyzer>
+            <text qname="tei:teiHeader"/>
             <text qname="tei:div"/>
             <!--non-empty descendants of div in SARIT files-->
             <text qname="tei:p"/>
@@ -19,9 +21,11 @@
             <text qname="tei:listBibl"/>
             <text qname="tei:cit"/>
         </lucene>
-        <ngram qname="tei:div"/>
-        <!--non-empty descendants of div in SARIT files-->
-        <ngram qname="tei:p"/>
+    
+
+        <ngram qname="tei:teiHeader"/> 
+        <ngram qname="tei:div"/> 
+        <ngram qname="tei:p"/> 
         <ngram qname="tei:head"/>
         <ngram qname="tei:lg"/>
         <ngram qname="tei:trailer"/>
