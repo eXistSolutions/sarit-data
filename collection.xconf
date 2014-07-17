@@ -1,20 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <collection xmlns="http://exist-db.org/collection-config/1.0">
     <index xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
         <lucene>
+            <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer">
+                <param name="stopwords" type="org.apache.lucene.analysis.util.CharArraySet"/>
+            </analyzer>
+            <text qname="tei:div"/>
+            <!--non-empty descendants of div in SARIT files-->
             <text qname="tei:p"/>
+            <text qname="tei:head"/>
+            <text qname="tei:lg"/>
+            <text qname="tei:trailer"/>
+            <text qname="tei:note"/>
+            <text qname="tei:list"/>
+            <text qname="tei:l"/>
+            <text qname="tei:quote"/>
+            <text qname="tei:table"/>
+            <text qname="tei:listApp"/>
+            <text qname="tei:listBibl"/>
+            <text qname="tei:cit"/>
         </lucene>
-        <!-- Range indexes -->
-        <range>
-            <create qname="tei:bibl" type="xs:string" />
-            <create qname="tei:author" type="xs:string" />
-            <create qname="tei:title" type="xs:string" />
-            <create qname="tei:editor" type="xs:string" />
-            <create qname="tei:publisher" type="xs:string" />
-            <create qname="tei:pubPlace" type="xs:string" />
-            <create qname="tei:date" type="xs:string" />
-            <create qname="tei:l" type="xs:string" />
-            <create qname="tei:q" type="xs:string" />
-        </range>
+        <ngram qname="tei:div"/>
+        <!--non-empty descendants of div in SARIT files-->
+        <ngram qname="tei:p"/>
+        <ngram qname="tei:head"/>
+        <ngram qname="tei:lg"/>
+        <ngram qname="tei:trailer"/>
+        <ngram qname="tei:note"/>
+        <ngram qname="tei:list"/>
+        <ngram qname="tei:l"/>
+        <ngram qname="tei:quote"/>
+        <ngram qname="tei:table"/>
+        <ngram qname="tei:listApp"/>
+        <ngram qname="tei:listBibl"/>
+        <ngram qname="tei:cit"/>
     </index>
 </collection>
