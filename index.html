@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div xmlns="http://www.w3.org/1999/xhtml" data-template="templates:surround" data-template-with="templates/page.html" data-template-at="content">
     <div class="row">
-        <div class="col-md-8">
+        <div class="col-md-12">
             <div class="page-header">
                 <h1>Sarit Data Collection</h1>
             </div>
+            <h2>Update Data</h2>
+            <div class="btn-group">
+                <form id="update" action="" method="POST">
+                    <button type="submit" name="action" value="update" class="btn btn-primary">Start Update</button>
+                </form>
+            </div>
+            <div class="alert alert-warning" id="message">Downloading data from the SARIT github repo. Depending
+                on the internet connection, this may take several minutes. Please wait...</div>
+            <div data-template="gh:update-all"/>
+            <div data-template="gh:load">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Size (kb)</th>
+                            <th>Stored in DB</th>
+                        </tr>
+                    </thead>
+                    <tbody data-template="gh:files"/>
+                </table>
+            </div>
         </div>
     </div>
+    <script type="text/javascript">
+        $(function() {
+            $("#message").hide();
+            $("#update").submit(function(ev) {
+                $("#message").show();
+                return true;
+            });
+        });
+    </script>
 </div>
