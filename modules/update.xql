@@ -14,7 +14,7 @@ import module namespace console="http://exist-db.org/xquery/console" at "java:or
 import module namespace xqjson="http://xqilla.sourceforge.net/lib/xqjson";
 
 declare %private function gh:get-tree() as xs:string? {
-    let $url := "https://api.github.com/repos/paddymcall/SARIT/git/trees/master"
+    let $url := $config:github-root || "git/trees/master"
     let $request := <http:request method="GET" href="{$url}" timeout="30"/>
     let $response := http:send-request($request)
     return
@@ -83,7 +83,7 @@ function gh:update-all($node as node(), $model as map(*), $action as xs:string?)
 };
 
 declare %private function gh:get-archive-and-update() {
-    let $url := "https://api.github.com/repos/paddymcall/SARIT/zipball/master"
+    let $url := $config:github-root || "zipball/master"
     let $request := <http:request method="GET" href="{$url}" timeout="20" follow-redirect="true"/>
     let $response := http:send-request($request)
     return
