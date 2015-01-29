@@ -23,6 +23,7 @@
             <text qname="tei:listApp"/>
             <text qname="tei:listBibl"/>
             <text qname="tei:cit"/>
+            <text qname="tei:label"/>
         </lucene>
         <ngram qname="tei:teiHeader"/>
         <ngram qname="tei:encodingDesc"/>
@@ -42,5 +43,6 @@
         <ngram qname="tei:listApp"/>
         <ngram qname="tei:listBibl"/>
         <ngram qname="tei:cit"/>
+        <ngram qname="tei:label"/>
     </index>
 </collection>
