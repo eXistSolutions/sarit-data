@@ -6,8 +6,9 @@
     <status>alpha</status>
     <license>GNU-LGPL</license>
     <copyright>true</copyright>
-    <type>library</type>
+    <type>application</type>
     <target>sarit-data</target>
     <prepare>pre-install.xql</prepare>
     <finish>post-install.xql</finish>
+    <permissions xmlns:repo="http://exist-db.org/xquery/repo" password="$arit" user="sarit" group="sarit" mode="rw-rw-r--"/>
 </meta>
