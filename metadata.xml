@@ -1,3 +1,5 @@
 <metadata xmlns="http://exist-db.org/ns/sarit/metadata/">
 	<number-of-pdf-pages />	
+	<number-of-xml-works />
+	<size-of-xml-works />
 </metadata>
