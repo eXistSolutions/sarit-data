@@ -56,7 +56,6 @@ function gh:files($node as node(), $model as map(*)) {
     for $item in $model("corpus")
     return
         <tr>
-            { console:log($item) }
             <td>
             {
                 $item
@@ -86,12 +85,14 @@ function gh:update-all($node as node(), $model as map(*), $action as xs:string?)
 
 declare %private function gh:get-archive-and-update($corpus as xs:string*) {
     let $url := $config:github-root || "zipball/master"
+    let $log := console:log("Downloading zip from " || $url)
     let $request := <http:request method="GET" href="{$url}" timeout="20" follow-redirect="true"/>
     let $response := http:send-request($request)
+    let $log := console:log("Response: " || $response[1]/@status)
     return
         if ($response[1]/@status = "200") then (
-            console:log("sarit", $response[1]),
-            console:log("sarit", "Retrieved zip from github"),
+            console:log($response[1]),
+            console:log("Retrieved zip from github"),
             gh:clear-data(),
             <ul>
             {
@@ -105,17 +106,22 @@ declare %private function gh:get-archive-and-update($corpus as xs:string*) {
 };
 
 declare %private function gh:unpack($corpus as xs:string*, $zip as xs:base64Binary) {
+    console:log("Unpacking zip..."),
     compression:unzip($zip, function($path, $type, $param) {
         replace($path, ".*/([^/]+)$", "$1") = $corpus
     }, (), function($path, $type, $data, $param) {
-        console:log("sarit", "Storing resource: " || $path || " type: " || $type),
-        xmldb:store($config:data-root, replace($path, ".*/([^/]+)$", "$1"), $data)
+        console:log("Storing resource: " || $path || " type: " || $type),
+        try {
+            xmldb:store($config:data-root, replace($path, ".*/([^/]+)$", "$1"), $data)
+        } catch * {
+            "Error storing resource: " || $path
+        }
     }, ())
 };
 
 declare %private function gh:clear-data() {
     (
-        console:log("sarit", "Removing data collection"),
+        console:log("Removing data collection " || $config:data-root),
         if (xmldb:collection-available($config:data-root)) then
             xmldb:remove($config:data-root)
         else
