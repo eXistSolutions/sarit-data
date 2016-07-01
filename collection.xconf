@@ -1,9 +1,7 @@
 <collection xmlns="http://exist-db.org/collection-config/1.0">
     <index xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
         <lucene>
-            <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer">
-                <param name="stopwords" type="org.apache.lucene.analysis.util.CharArraySet"/>
-            </analyzer>
+            <analyzer class="de.unihd.hra.libs.java.luceneTranscodingAnalyzer.TranscodingAnalyzer"/>
             <text qname="tei:teiHeader"/>
             <text qname="tei:encodingDesc"/>
             <text qname="tei:fileDesc"/>
