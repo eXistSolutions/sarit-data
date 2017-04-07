@@ -3,13 +3,15 @@
     <index xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
         <lucene>
             <analyzer class="de.unihd.hra.libs.java.luceneTranscodingAnalyzer.TranscodingAnalyzer"/>
-            <parser class="org.apache.lucene.queryparser.analyzing.AnalyzingQueryParser" />
-            <text qname="tei:teiHeader"/>
-            <text qname="tei:encodingDesc"/>
-            <text qname="tei:fileDesc"/>
-            <text qname="tei:profileDesc"/>
-            <text qname="tei:revisionDesc"/>
-            <text qname="tei:div"/><!--non-empty descendants of div in SARIT files-->
+            <analyzer id="standard-analyzer" class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
+            <parser class="org.apache.lucene.queryparser.analyzing.AnalyzingQueryParser"/>
+            <text qname="tei:teiHeader" analyzer="standard-analyzer"/>
+            <text qname="tei:encodingDesc" analyzer="standard-analyzer"/>
+            <text qname="tei:fileDesc" analyzer="standard-analyzer"/>
+            <text qname="tei:profileDesc" analyzer="standard-analyzer"/>
+            <text qname="tei:revisionDesc" analyzer="standard-analyzer"/>
+            <text qname="tei:div"/>
+            <!--non-empty descendants of div in SARIT files-->
             <text qname="tei:p"/>
             <text qname="tei:head"/>
             <text qname="tei:lg"/>
@@ -22,6 +24,7 @@
             <text qname="tei:listApp"/>
             <text qname="tei:listBibl"/>
             <text qname="tei:cit"/>
+            <text qname="tei:label"/>
         </lucene>
     </index>
 </collection>
