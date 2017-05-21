@@ -1,14 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <collection xmlns="http://exist-db.org/collection-config/1.0">
     <index xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
         <lucene>
-            <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer">
-                <param name="stopwords" type="org.apache.lucene.analysis.util.CharArraySet"/>
-            </analyzer>
-            <text qname="tei:teiHeader"/>
-            <text qname="tei:encodingDesc"/>
-            <text qname="tei:fileDesc"/>
-            <text qname="tei:profileDesc"/>
-            <text qname="tei:revisionDesc"/>
+            <analyzer class="de.unihd.hra.libs.java.luceneTranscodingAnalyzer.TranscodingAnalyzer"/>
+            <analyzer id="standard-analyzer" class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
+            <parser class="org.apache.lucene.queryparser.analyzing.AnalyzingQueryParser"/>
+            <text qname="tei:teiHeader" analyzer="standard-analyzer"/>
+            <text qname="tei:encodingDesc" analyzer="standard-analyzer"/>
+            <text qname="tei:fileDesc" analyzer="standard-analyzer"/>
+            <text qname="tei:profileDesc" analyzer="standard-analyzer"/>
+            <text qname="tei:revisionDesc" analyzer="standard-analyzer"/>
             <text qname="tei:div"/>
             <!--non-empty descendants of div in SARIT files-->
             <text qname="tei:p"/>
@@ -25,24 +26,5 @@
             <text qname="tei:cit"/>
             <text qname="tei:label"/>
         </lucene>
-        <ngram qname="tei:teiHeader"/>
-        <ngram qname="tei:encodingDesc"/>
-        <ngram qname="tei:fileDesc"/>
-        <ngram qname="tei:profileDesc"/>
-        <ngram qname="tei:revisionDesc"/>
-        <ngram qname="tei:div"/>
-        <ngram qname="tei:p"/>
-        <ngram qname="tei:head"/>
-        <ngram qname="tei:lg"/>
-        <ngram qname="tei:trailer"/>
-        <ngram qname="tei:note"/>
-        <ngram qname="tei:list"/>
-        <ngram qname="tei:l"/>
-        <ngram qname="tei:quote"/>
-        <ngram qname="tei:table"/>
-        <ngram qname="tei:listApp"/>
-        <ngram qname="tei:listBibl"/>
-        <ngram qname="tei:cit"/>
-        <ngram qname="tei:label"/>
     </index>
 </collection>

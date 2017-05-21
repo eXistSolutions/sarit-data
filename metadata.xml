@@ -1,3 +1,5 @@
-<metadata xmlns="http://exist-db.org/ns/wiki/">
-	<number-of-pdf-pages />	
+<metadata xmlns="http://exist-db.org/ns/sarit/metadata/">
+	<number-of-pdf-pages>0</number-of-pdf-pages>	
+	<number-of-xml-works>0</number-of-xml-works>
+	<size-of-xml-works>0</size-of-xml-works>
 </metadata>
